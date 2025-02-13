@@ -1,0 +1,234 @@
+.header {
+  position: relative;
+  left: 0;
+  right: 0;
+  display: flex;
+  padding: 5px;
+  align-items: center;
+  justify-content: space-between;
+  transition: 0.6s;
+}
+.nav {
+  position: fixed;
+  inset: 0;
+  background-color: hsla(217, 66%, 52%, 0.9);
+  display: grid;
+  place-content: center;
+  height: 100vh;
+  z-index: 1000;
+}
+.nav[aria-expanded="false"] {
+  animation: nav-closed 1s forwards;
+}
+@keyframes nav-closed {
+  from {
+    clip-path: circle(141.4% at 0 0);
+    opacity: 1;
+    pointer-events: visible;
+  }
+  to {
+    clip-path: circle(0% at 0 0);
+    opacity: 0;
+    pointer-events: none;
+  }
+}
+.nav[aria-expanded="true"] {
+  animation: nav-opened 1s forwards;
+}
+@keyframes nav-opened {
+  from {
+    clip-path: circle(0% at 0 0);
+    opacity: 0;
+    pointer-events: none;
+  }
+  to {
+    clip-path: circle(141.4% at 0 0);
+    opacity: 1;
+    pointer-events: visible;
+  }
+}
+.nav__list {
+  display: grid;
+  width: 100%;
+  left: 0;
+  right: 0;
+  gap: 5vh;
+  padding: 40px;
+  background-color: rgba(255, 255, 255, 0.005);
+}
+.nav__link {
+  position: relative;
+  color: var(--white);
+  font-weight: 400;
+  font-size: clamp(16px, 7vw, 24px);
+  transition: 0.25s;
+}
+.nav__link:hover {
+  filter: drop-shadow(0 0 10px white);
+}
+.nav__link::after {
+  content: "";
+  position: absolute;
+  background-color: var(--white);
+  height: 1px;
+  width: 60%;
+  display: grid;
+  transform: scaleX(0);
+  transform-origin: right;
+  transition: transform 0.3s;
+}
+.nav__link:hover::after {
+  transform-origin: left;
+  transform: scaleX(1);
+}
+.header__logo {
+  width: min(35vw, 120px);
+  z-index: 1000;
+}
+.header {
+  position: fixed;
+  background: linear-gradient(
+    to bottom,
+    rgba(255, 255, 255, 0.705) 95%,
+    transparent 100%
+  );
+  backdrop-filter: blur(7px);
+  z-index: 150;
+}
+.header.active {
+  position: fixed;
+  box-shadow: 0px 13px 20px 0px rgba(0, 23, 52, 0.2);
+}
+.header__contact-info {
+  display: none;
+}
+.nav__link--home {
+  display: flex;
+  gap: 8px;
+}
+.nav__link--home img {
+  aspect-ratio: 1;
+  object-fit: contain;
+  width: 30px;
+}
+.nav__link--home::after {
+  bottom: 10px;
+}
+@media (min-width: 1024px) {
+  .nav__link--home {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+  }
+  .nav__link--home img {
+    width: 24px;
+  }
+  .header__logo {
+    z-index: 0;
+  }
+}
+@media (min-width: 1650px) {
+  /* HEADER */
+  .subpage .ham-btn {
+    display: none;
+  }
+  .subpage .header__contact-info {
+    display: grid;
+    gap: 6px;
+    margin-right: 10px;
+    /* order: 2; */
+  }
+  .subpage .header__logo {
+    /* order: 3; */
+  }
+  .header__right-row {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+  }
+  .nav {
+    background-color: unset;
+  }
+  .header {
+    background: unset;
+    position: fixed;
+    z-index: 5000;
+    background: linear-gradient(
+      to bottom,
+      rgb(65, 73, 82) 95%,
+      rgb(31, 35, 44) 100%
+    );
+    right: 50%;
+    padding: 8px;
+  }
+  .ham-btn {
+    display: none !important;
+  }
+  .header__logo {
+    display: none;
+  }
+  .nav {
+    position: static;
+    display: flex;
+    height: auto;
+  }
+  .nav__list {
+    display: flex;
+    gap: unset;
+    padding: 0;
+  }
+  .nav__link {
+    font-size: 16px;
+    width: max-content;
+    padding: 16px;
+  }
+  .ham-btn > * {
+    background-color: var(--white) !important;
+  }
+  .header__logo {
+    width: 150px;
+  }
+  .nav[aria-expanded="false"] {
+    animation: unset !important;
+  }
+  .header__contact-info > a {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    color: var(--white);
+    font-weight: 200;
+    letter-spacing: 1px;
+  }
+  .header__contact-info img {
+    aspect-ratio: 1;
+    border-radius: 50%;
+    background-color: var(--white);
+    padding-inline: 2px;
+  }
+  .header.active {
+    left: 0;
+    right: 0;
+    top: unset !important;
+  }
+  .header.active .header__contact-info {
+    display: grid;
+    gap: 6px;
+  }
+  .header.active .header__logo {
+    display: block;
+  }
+  .subpage .main {
+    padding-top: 74px !important;
+  }
+  .subpage .header {
+    width: 100%;
+  }
+  .subpage .header__logo {
+    display: block;
+  }
+}
+@media (min-width: 1800px) {
+  .header__logo {
+    display: block;
+  }
+}
