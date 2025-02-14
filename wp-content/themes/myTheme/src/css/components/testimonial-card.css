@@ -35,6 +35,7 @@
   display: grid;
   gap: 8px;
   flex: 3;
+  height: max-content;
 }
 .testimonial-card-name-heading,
 .testimonial-card-name-subheading {

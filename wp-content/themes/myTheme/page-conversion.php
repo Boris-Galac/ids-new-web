@@ -48,19 +48,9 @@
                                 <img src="/wp-content/themes/myTheme/src/assets/images/services-page-imgs/conversion-img (1).png"
                                     alt="IDS" />
                             </a>
-                            <a href="/wp-content/themes/myTheme/src/assets/images/services-page-imgs/conversion-img (2).png"
-                                data-caption="Imagine Draughting Services">
-                                <img src="/wp-content/themes/myTheme/src/assets/images/services-page-imgs/conversion-img (2).png"
-                                    alt="IDS" />
-                            </a>
                             <a href="/wp-content/themes/myTheme/src/assets/images/services-page-imgs/conversion-img (4).png"
                                 data-caption="Imagine Draughting Services">
                                 <img src="/wp-content/themes/myTheme/src/assets/images/services-page-imgs/conversion-img (4).png"
-                                    alt="IDS" />
-                            </a>
-                            <a href="/wp-content/themes/myTheme/src/assets/images/services-page-imgs/conversion-img (5).png"
-                                data-caption="Imagine Draughting Services">
-                                <img src="/wp-content/themes/myTheme/src/assets/images/services-page-imgs/conversion-img (5).png"
                                     alt="IDS" />
                             </a>
                             <a href="/wp-content/themes/myTheme/src/assets/images/services-page-imgs/conversion-img (6).png"
@@ -68,9 +58,19 @@
                                 <img src="/wp-content/themes/myTheme/src/assets/images/services-page-imgs/conversion-img (6).png"
                                     alt="IDS" />
                             </a>
-                            <a href="/wp-content/themes/myTheme/src/assets/images/services-page-imgs/conversion-img (7).png"
+                            <a href="/wp-content/themes/myTheme/src/assets/images/services-page-imgs/conversion-img (2).png"
                                 data-caption="Imagine Draughting Services">
-                                <img src="/wp-content/themes/myTheme/src/assets/images/services-page-imgs/conversion-img (7).png"
+                                <img src="/wp-content/themes/myTheme/src/assets/images/services-page-imgs/conversion-img (2).png"
+                                    alt="IDS" />
+                            </a>
+                            <a href="/wp-content/themes/myTheme/src/assets/images/services-page-imgs/conversion-img (3).png"
+                                data-caption="Imagine Draughting Services">
+                                <img src="/wp-content/themes/myTheme/src/assets/images/services-page-imgs/conversion-img (3).png"
+                                    alt="IDS" />
+                            </a>
+                            <a href="/wp-content/themes/myTheme/src/assets/images/services-page-imgs/conversion-img (5).png"
+                                data-caption="Imagine Draughting Services">
+                                <img src="/wp-content/themes/myTheme/src/assets/images/services-page-imgs/conversion-img (5).png"
                                     alt="IDS" />
                             </a>
                         </figure>

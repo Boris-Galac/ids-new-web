@@ -45,6 +45,11 @@
   background-color: var(--black);
   padding: 8px;
   border-radius: 4px;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  justify-content: center;
+  align-items: center;
 }
 .services-page-section__gallery img:hover {
   box-shadow: 0 16px 16px rgba(0, 0, 0, 0.361);
@@ -148,14 +153,7 @@
     text-align: center;
   }
   .services-page-section__gallery {
-    /* columns: 300px;
-    gap: 8px;
-    height: max-content; */
-    display: flex;
-    flex-wrap: wrap;
-    gap: 8px;
-    justify-content: center;
-    align-items: center;
+    width: 100%;
   }
   .services-page__heading-wrapper img {
     width: 250px;
