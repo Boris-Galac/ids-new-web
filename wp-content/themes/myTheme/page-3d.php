@@ -11,7 +11,7 @@
         <div class="services-page-section__container container subpage-margin-block">
             <div class="services-page-section-wrapper">
                 <div class="page-heading-wrapper">
-                    <h2 class="page-h2-heading">Our services</h2>
+                    <h2 class="page-h2-heading">Our Services</h2>
                     <p class="page-subheading">
                         We provide professional all CAD services for precise modeling,
                         product visualization, and technical drawings. Our solutions are
@@ -42,9 +42,21 @@
 
                                 Below is a list of Services included of 3D CAD Drawings:
                             </p>
-                            <p class="body-paragraph">
-                                Below is a list of our Services included of 3D CAD Drawings:
-                            </p>
+                            <div class="page-list-services">
+                                <h3>List of our services</h3>
+                                <ul>
+                                    <li>1. Product Design Concepts</li>
+                                    <li>2. 3D Printing Models Created</li>
+                                    <li>3. Sheet Metal Assemblies and Parts</li>
+                                    <li>4. Plastic Assemblies and Parts</li>
+                                    <li>5. Manufacturing Stage of Product Design</li>
+                                    <li>6. Revisions to Existing Designs</li>
+                                    <li>7. Comparison of 3D Models against captured data</li>
+                                    <li>8. 3D Models created for Rendering Purposes</li>
+                                    <li>9. Parametric Models for variable outcomes</li>
+                                    <li>10. Involvement of clients throughout the process</li>
+                                </ul>
+                            </div>
                         </div>
                         <figure class="services-page-section__gallery gallery">
                             <a href="/wp-content/themes/myTheme/src/assets/images/services-page-imgs/3d-img (1).jpg"

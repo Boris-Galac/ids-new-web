@@ -14,7 +14,7 @@
         <div class="recent-projects-page__container container subpage-margin-block">
             <div class="projects-wrapper">
                 <div class="page-heading-wrapper">
-                    <h2 class="page-h2-heading">Our recent projects</h2>
+                    <h2 class="page-h2-heading">Our Recent Projects</h2>
                     <p class="page-subheading">
                         Please see on the below examples for information on our recent
                         projects. For a quotation on your project please feel free to

@@ -642,8 +642,10 @@
   flex-direction: column;
 }
 .company__box {
+  position: relative;
   display: grid;
   place-items: center;
+  grid-template-rows: 1fr 1fr auto;
 }
 .company__inner-wrapper {
   display: flex;
@@ -652,18 +654,28 @@
   justify-content: center;
   gap: 66px;
 }
-.company__inner-wrapper img {
+.company__header {
+  position: relative;
+  height: 100px;
+  grid-row: 1;
+}
+.company__header > img {
+  height: auto;
   width: 100px;
 }
 .company__num {
   font-weight: 200;
   font-size: 80px;
   color: var(--dark);
+  grid-row: 2;
+  position: absolute;
 }
 .company__subheading {
   font-weight: 400;
-  font-size: 16px;
+  font-size: 20px;
   font-weight: 300;
+  grid-row: 3;
+  margin-top: 16px;
 }
 .company__wrapper:nth-of-type(1) {
   margin-bottom: 98px;

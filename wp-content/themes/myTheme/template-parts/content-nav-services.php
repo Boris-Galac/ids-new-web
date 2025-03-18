@@ -1,5 +1,5 @@
 <div class="about-us-page__get-in-touch">
-    <span class="get-in-touch-heading"><strong>Ready to start your project?</strong> Get in touh
+    <span class="get-in-touch-heading"><strong>Ready to start your project?</strong> Get in touch
         today.</span>
     <div class="about-us-page__inner-wapper">
         <a href="mailto:info@imagine-dsuk.com" class="contact-hire-us-card hidden-left"

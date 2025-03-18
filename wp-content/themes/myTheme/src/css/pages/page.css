@@ -25,6 +25,23 @@
 .subpage .main {
   padding-top: 63px;
 }
+.page-list-services {
+  color: var(--white);
+}
+.page-h2-heading h3,
+.page-h2-heading li {
+  font-weight: 300;
+}
+.page-list-services h3 {
+  color: var(--white);
+  margin-bottom: 18px;
+  font-size: 24px;
+  font-weight: 300;
+}
+.page-list-services ul {
+  display: grid;
+  gap: 16px;
+}
 /* HEADER */
 @media (min-width: 1650px) {
   .subpage .header {

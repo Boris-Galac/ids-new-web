@@ -11,7 +11,7 @@
         <div class="services-page-section__container container subpage-margin-block">
             <div class="services-page-section-wrapper">
                 <div class="page-heading-wrapper">
-                    <h2 class="page-h2-heading">Our services</h2>
+                    <h2 class="page-h2-heading">Our Services</h2>
                     <p class="page-subheading">
                         We provide professional all CAD services for precise modeling,
                         product visualization, and technical drawings. Our solutions are
@@ -33,10 +33,25 @@
                                 As 3D Software has progressed it’s now quicker and more
                                 efficient to project a 3D Modelled part onto a drawing
                                 template to create Front, Side, Top and Isometric views.
-                            </p>
-                            <p class="body-paragraph">
+                                <br>
                                 Below is a list of our Services included of 2D CAD Drawings:
                             </p>
+                            <div class="page-list-services">
+                                <h3>List of our services</h3>
+                                <ul>
+                                    <li>1. Mechanical Drawing Layouts</li>
+                                    <li>2. HVAC Drawing Layouts</li>
+                                    <li>3. Electrical Drawing Layouts</li>
+                                    <li>4. As Fitted Drawing Layouts</li>
+                                    <li>5. Planning Permission Drawings</li>
+                                    <li>6. Site Plan and Location Plan Drawings</li>
+                                    <li>7. Change of Use Drawings</li>
+                                    <li>8. Building Regulation Drawings</li>
+                                    <li>9. Capturing Existing Building Layouts</li>
+                                    <li>10. 3 No Revisions Included throughout process</li>
+                                </ul>
+                            </div>
+
                         </div>
                         <figure class="services-page-section__gallery gallery">
                             <a href="/wp-content/themes/myTheme/src/assets/images/services-page-imgs/2d-img (1).jpg"

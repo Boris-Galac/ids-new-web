@@ -351,7 +351,7 @@
                             </div>
                             <div class="google-review__row">
                                 <div class="google-review__counts-box">5/5 stars</div>
-                                <div class="google-review__reviews-box">80 reviews</div>
+                                <div class="google-review__reviews-box">83 reviews</div>
                             </div>
                         </a>
                     </div>
@@ -527,20 +527,26 @@
                 <h3 class="h3-heading h3-heading--company">company statistics</h3>
                 <div class="company__inner-wrapper">
                     <div class="company__box">
-                        <img src="/wp-content/themes/myTheme/src/assets/images/company-stats/clients-illustration.gif"
-                            alt="clients" />
+                        <div class="company__header">
+                            <img src="/wp-content/themes/myTheme/src/assets/images/company-stats/clients-illustration.gif"
+                                alt="clients" />
+                        </div>
                         <span class="company__num count" data-num="500"> 500 <span>+</span> </span>
                         <span class="company__subheading">Satisfied clients</span>
                     </div>
                     <div class="company__box">
-                        <img src="/wp-content/themes/myTheme/src/assets/images/company-stats/drawing-illustration.gif"
-                            alt="drawings" />
+                        <div class="company__header">
+                            <img src="/wp-content/themes/myTheme/src/assets/images/company-stats/drawing-illustration.gif"
+                                alt="drawings" />
+                        </div>
                         <span class="company__num count" data-num="2209"> 2209 </span>
                         <span class="company__subheading">Drawings completed</span>
                     </div>
                     <div class="company__box">
-                        <img src="/wp-content/themes/myTheme/src/assets/images/company-stats/designers-illustration.gif"
-                            alt="designers" />
+                        <div class="company__header">
+                            <img src="/wp-content/themes/myTheme/src/assets/images/company-stats/designers-illustration.gif"
+                                alt="designers" />
+                        </div>
                         <span class="company__num count" data-num="30">30</span>
                         <span class="company__subheading">Designers on hand</span>
                     </div>

@@ -12,7 +12,7 @@
         <div class="all-services__container container subpage-margin-block">
             <div class="all-services-wrapper">
                 <div class="page-heading-wrapper">
-                    <h2 class="page-h2-heading">Our services</h2>
+                    <h2 class="page-h2-heading">Our Services</h2>
                     <p class="page-subheading">
                         We provide professional all CAD services for precise modeling,
                         product visualization, and technical drawings. Our solutions are

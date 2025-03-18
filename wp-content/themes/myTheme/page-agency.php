@@ -11,7 +11,7 @@
         <div class="services-page-section__container container subpage-margin-block">
             <div class="services-page-section-wrapper">
                 <div class="page-heading-wrapper">
-                    <h2 class="page-h2-heading">Our services</h2>
+                    <h2 class="page-h2-heading">Our Services</h2>
                     <p class="page-subheading">
                         We provide professional all CAD services for precise modeling,
                         product visualization, and technical drawings. Our solutions are
@@ -49,9 +49,9 @@
                                     alt="IDS" />
                             </a>
                             <a class="agency-card-logo"
-                                href="/wp-content/themes/myTheme/src/assets/images/services-page-imgs/agency-logo (5).jpg"
+                                href="/wp-content/themes/myTheme/src/assets/images/services-page-imgs/agency-logo (4).jpg"
                                 data-caption="Imagine Draughting Services">
-                                <img src="/wp-content/themes/myTheme/src/assets/images/services-page-imgs/agency-logo (5).jpg"
+                                <img src="/wp-content/themes/myTheme/src/assets/images/services-page-imgs/agency-logo (4).jpg"
                                     alt="IDS" />
                             </a>
                             <a class="agency-card-logo"
@@ -67,9 +67,9 @@
                                     alt="IDS" />
                             </a>
                             <a class="agency-card-logo"
-                                href="/wp-content/themes/myTheme/src/assets/images/services-page-imgs/agency-logo (4).jpg"
+                                href="/wp-content/themes/myTheme/src/assets/images/services-page-imgs/agency-logo (5).jpg"
                                 data-caption="Imagine Draughting Services">
-                                <img src="/wp-content/themes/myTheme/src/assets/images/services-page-imgs/agency-logo (4).jpg"
+                                <img src="/wp-content/themes/myTheme/src/assets/images/services-page-imgs/agency-logo (5).jpg"
                                     alt="IDS" />
                             </a>
                             <a class="agency-card-logo"

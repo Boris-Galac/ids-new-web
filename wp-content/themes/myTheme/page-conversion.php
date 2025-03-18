@@ -11,7 +11,7 @@
         <div class="services-page-section__container container subpage-margin-block">
             <div class="services-page-section-wrapper">
                 <div class="page-heading-wrapper">
-                    <h2 class="page-h2-heading">Our services</h2>
+                    <h2 class="page-h2-heading">Our Services</h2>
                     <p class="page-subheading">
                         We provide professional all CAD services for precise modeling,
                         product visualization, and technical drawings. Our solutions are
@@ -27,19 +27,11 @@
                     <div class="services-page-section__body">
                         <div class="services-page-section__text-wrapper">
                             <p class="body-paragraph">
-                                Using a range of 3D CAD Software, our Engineers create
-                                designs ranging from sheet metal to plastics, once the model
-                                is created a number of services can be offered such as
-                                Rendered Images, 3D Videos, 3D Printing and Technical
-                                Drawings which is an output from the 3D data created.
-                                <br /><br />
-
-                                Once your project has been completed we can also provide a
-                                free viewable version of your 3D CAD product using eDrawings
-                                software, which can be rotated, zoomed-in and measured.
-                                <br /><br />
-
-                                Below is a list of Services included of 3D CAD Drawings:
+                                On some Projects valuable information already exists and can be implemented to speed up
+                                the 3D Design process. Drawings may have already been created providing dimensions,
+                                materials used, thickness and geometry to illustrate parts that make up a product.
+                                <br><br>
+                                Below you can see some of examples:
                             </p>
                         </div>
                         <figure class="services-page-section__gallery gallery">

@@ -253,6 +253,21 @@ button {
   opacity: 1;
   pointer-events: visible;
 }
+.back-home-btn {
+  background-color: #fff;
+  width: 100%;
+  padding-block: 8px;
+  justify-content: center;
+  text-align: center;
+  transition: 0.25s;
+}
+.back-home-btn:hover {
+  scale: 1.1;
+}
+.back-home-btn > img {
+  width: 40px;
+  margin: unset !important;
+}
 .whatsapp-btn {
   animation: wsup 1s infinite ease-in-out alternate;
   background-color: var(--green-100);

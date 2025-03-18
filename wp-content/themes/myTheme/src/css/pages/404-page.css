@@ -1,0 +1,14 @@
+.blogs-page-section__blogs-col {
+  display: grid;
+  place-content: center;
+  outline: 1px solid hsla(0, 0%, 100%, 0.2);
+  border-radius: 16px;
+  padding: 16px;
+}
+.blogs-page-section__blogs-col img {
+  margin-inline: auto;
+}
+.blogs-page-section__blogs-col span {
+  color: var(--white);
+  text-align: center;
+}
