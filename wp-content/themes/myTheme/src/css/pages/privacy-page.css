@@ -1,0 +1,32 @@
+.privacy-main {
+}
+.privacy-main {
+}
+.privacy-main .page-banner {
+  background: linear-gradient(to right, #373737, #0f3b7f);
+}
+.privacy-page-section-inner-wrapper {
+  display: grid;
+  gap: 32px;
+}
+.privacy-wrapper {
+  display: flex;
+  gap: 8px;
+}
+.privacy-item ul {
+  display: grid;
+  gap: 8px;
+}
+.privacy-item p {
+  margin-bottom: 16px;
+}
+.privacy-item h2 {
+  margin-bottom: 16px;
+  color: rgb(38, 43, 49);
+  font-weight: 500;
+}
+.privacy-item li {
+  font-weight: 300;
+  list-style: disc;
+  margin-left: 32px;
+}

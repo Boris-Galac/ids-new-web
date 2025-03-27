@@ -135,10 +135,15 @@ p {
   font-weight: 400;
   margin-bottom: 2.5rem;
 }
+.review__info-wrapper {
+  width: max-content;
+}
 .review__name {
+  width: max-content;
   font-size: 24px;
 }
 .review__date {
+  width: max-content;
   color: var(--grey);
   font-weight: 300;
 }

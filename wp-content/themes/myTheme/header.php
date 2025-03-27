@@ -58,4 +58,5 @@
             <a class="header__logo" href="<?php echo site_url() ?>"><img
                     src="/wp-content/themes/myTheme/src/assets/images/footer-logo.png" alt="logo image" /></a>
         </div>
+        <div aria-hidden="true" class="indicator-scroll-line"></div>
     </header>

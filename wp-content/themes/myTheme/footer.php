@@ -91,6 +91,11 @@
              </div>
              <div class="footer__copyright">
                  <p>Copyright © 2025 - All Rights Reserved.</p>
+                 <div class="privacy-wrapper">
+                     <a href="<?php echo site_url('privacy-policy') ?>">Privacy Policy</a>
+                     <span>|</span>
+                     <a href="<?php echo site_url('terms-of-use') ?>">Terms of Use</a>
+                 </div>
              </div>
          </div>
      </div>

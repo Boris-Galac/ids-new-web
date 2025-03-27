@@ -12,6 +12,16 @@ hamBtn.addEventListener("click", (e) => {
     if (primaryNav.getAttribute("aria-expanded") === "false") {
       primaryNav.setAttribute("aria-expanded", "true");
       hamBtn.setAttribute("data-active", "true");
+      gsap.from(".nav__item", {
+        opacity: 0,
+        x: -50,
+        duration: 0.8,
+        stagger: 0.15,
+        scrollTrigger: {
+          trigger: ".nav__item",
+          // start: "top 90%",
+        },
+      });
     } else {
       primaryNav.setAttribute("aria-expanded", "false");
       hamBtn.setAttribute("data-active", "false");
@@ -168,6 +178,16 @@ window.addEventListener("scroll", (e) => {
     top: 0;
     `;
   }
+  /// progress indicator line
+
+  let winScroll = window.scrollY; /// 0 - 1519
+  let height = document.body.scrollHeight - innerHeight; /// 2806 - 1287
+
+  let scrolled = Math.ceil((winScroll / height) * 100);
+  let indicatorLine = document.querySelector(".indicator-scroll-line");
+  indicatorLine.style = `
+        width: ${scrolled}%;
+      `;
 });
 
 //// BACK TO TOP
