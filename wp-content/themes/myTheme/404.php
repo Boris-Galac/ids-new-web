@@ -15,7 +15,7 @@
                 <div class="blogs-page-section-inner-wrapper">
                     <div class="blogs-page-section__blogs-col">
                         <img src="/wp-content/themes/myTheme/src/assets/images/404-img.png" alt="404 image">
-                        <span style="font-size: clamp(2rem, 7vw, 3rem);">Oops! Page Not Found.</span>
+                        <span>Oops! Page Not Found.</span>
                         <a class="btn back-home-btn" href="<?php echo site_url('') ?>">Home page <img
                                 src="/wp-content/themes/myTheme/src/assets/images/project-card-logo.png" alt=""></a>
                     </div>

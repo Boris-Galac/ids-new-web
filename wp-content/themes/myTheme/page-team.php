@@ -90,6 +90,16 @@
                     </figure>
                     <figure class="team-card">
                         <div class="team-card__header">
+                            <img src="/wp-content/themes/myTheme/src/assets/images/avatars/alastair.png"
+                                alt="profile image" class="team-card__avatar" />
+                        </div>
+                        <div class="team-card__body">
+                            <h3 class="team-card__heading-name">Alastair Mcclare</h3>
+                            <span class="team-card__role">sales</span>
+                        </div>
+                    </figure>
+                    <figure class="team-card">
+                        <div class="team-card__header">
                             <img src="/wp-content/themes/myTheme/src/assets/images/avatars/juan.png" alt="profile image"
                                 class="team-card__avatar" />
                         </div>

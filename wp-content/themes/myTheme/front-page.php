@@ -162,7 +162,7 @@
                     </div>
                     <div class="about-us__row hidden-right">
                         <img src="/wp-content/themes/myTheme/src/assets/icons/about-us-video-play-icon.svg"
-                            alt="play icon">
+                            alt="play icon" class="play-the-video--icon">
                         <video class="play-the-video" src="/wp-content/themes/myTheme/src/assets/balcon-video.mp4" muted
                             autoplay loop></video>
                     </div>
@@ -686,7 +686,8 @@
                                 <ul class="dream-team__designer-work">
                                     <li><img src="/wp-content/themes/myTheme/src/assets/images/dream-team-designers/deepak (1).png"
                                             alt="project work"></li>
-                                    <li><img src="/wp-content/themes/myTheme/src/assets/images/dream-team-designers/deepak (2).png"
+                                    <li class="deepak-middle--work"><img
+                                            src="/wp-content/themes/myTheme/src/assets/images/dream-team-designers/deepak (2).png"
                                             alt="project work"></li>
                                     <li><img src="/wp-content/themes/myTheme/src/assets/images/dream-team-designers/deepak (3).png"
                                             alt="project work"></li>
@@ -1152,9 +1153,30 @@
             <div class="hire-us__container">
                 <?php get_template_part('template-parts/content', 'contact-btns') ?>
             </div>
-            <div class="rotating-logo">
-                <img src="/wp-content/themes/myTheme/src/assets/images/IDS-img.png" alt="imagine draughting service"
-                    class="body-down-logo" />
+        </div>
+    </section>
+    <!-- 👉 BROCHURE section -->
+    <section class="brochure">
+        <div class="container">
+            <div class="brochure__heading-wrapper">
+                <h2 class="h2-heading" data-h2-heading="brochure">
+                    brochure
+                    <span class="heading-line"></span>
+                </h2>
+            </div>
+            <div class="brochure__container">
+                <p class="paragraph">Take a look at our interactive brochure to learn more about our 2D and 3D CAD
+                    services. Whether
+                    you're working on a personal or business project, our Draughting Services are designed to seamlessly
+                    support your team with detailed drawings for manufacturing and marketing purposes.</p>
+                <div class="m-blok-48"><?php echo do_shortcode('[dflip id="88"][/dflip]'); ?></div>
+                <div class="brochure__download-wrapper">
+                    <a class="btn download-brochure-btn"
+                        href="/wp-content/themes/myTheme/src/assets/Imagine Draughting - Brochure - Ver 1.0.pdf"
+                        download>Download brochure <img
+                            src="/wp-content/themes/myTheme/src/assets/icons/download-icon.svg" alt="download icon"
+                            class="icon"></a>
+                </div>
             </div>
         </div>
     </section>

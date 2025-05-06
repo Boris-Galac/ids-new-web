@@ -87,14 +87,14 @@ if (document.querySelector(".main").classList.contains("index-main")) {
 
   // PLAY THE VIDEO
 
-  const videoBtn = document.querySelector(".play-the-video");
+  const videoBtn = document.querySelector(".play-the-video--icon");
 
   videoBtn.addEventListener("click", () => {
     const videoOverlay = document.createElement("div");
     videoOverlay.classList.add("overlay-play-the-video");
 
     const video = document.createElement("video");
-    video.src = "/src/assets/balcon-video.mp4";
+    video.src = "/wp-content/themes/myTheme/src/assets/balcon-video.mp4";
     video.controls = true;
     video.autoplay = true;
 

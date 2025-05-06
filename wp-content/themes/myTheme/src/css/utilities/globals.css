@@ -16,11 +16,11 @@
   border-radius: 7px;
   box-shadow: 0 10px 16px rgba(59, 72, 93, 0.394);
 }
-.post-categories li a {
-  color: #fff;
-}
 @media (min-width: 1200px) {
   .subpage-margin-block {
     margin-block: 120px;
   }
+}
+.m-blok-48 {
+  margin-block: 48px;
 }

@@ -114,7 +114,7 @@
 }
 .services-page-section__text-wrapper {
   display: grid;
-  /* gap: 64px; */
+  gap: 64px;
 }
 .page-fast-track__wrapper img {
   border-radius: 5px;

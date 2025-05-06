@@ -114,17 +114,6 @@
 .nav__link--home::after {
   bottom: 10px;
 }
-.indicator-scroll-line {
-  position: fixed;
-  bottom: 0;
-  left: 0;
-  right: 0;
-  height: 3px;
-  width: 100%;
-  background-color: hsl(208, 92%, 59%);
-  /* box-shadow: 0 0 1rem 0.2rem blue; */
-  z-index: 20;
-}
 @media (min-width: 1024px) {
   .nav__link--home {
     display: flex;
@@ -147,6 +136,10 @@
     display: grid;
     gap: 6px;
     margin-right: 10px;
+    /* order: 2; */
+  }
+  .subpage .header__logo {
+    /* order: 3; */
   }
   .header__right-row {
     display: flex;

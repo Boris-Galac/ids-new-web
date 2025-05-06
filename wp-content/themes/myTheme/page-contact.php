@@ -64,46 +64,7 @@
                         <span class="hire-us__info">Feel free to reach out to us! Fill out the form below, and we’ll get
                             back to you soon.</span>
                         <div class="contact-form__wrapper">
-                            <!-- <form class="contact-form">
-                                <div class="contact-form__wrapper-row">
-                                    <label for="name" class="contact-form__label">Enter your full name</label>
-                                    <input required type="text" id="name" placeholder="John Smith"
-                                        class="contact-form__input">
-                                </div>
-                                <div class="contact-form__wrapper-row">
-                                    <label for="email" class="contact-form__label">Enter email address</label>
-                                    <input required type="email" id="email" placeholder="john.smith@gmail.com"
-                                        class="contact-form__input">
-                                </div>
-                                <div class="contact-form__wrapper-row">
-                                    <label for="phone" class="contact-form__label">Enter phone number</label>
-                                    <input type="tel" id="phone" placeholder="+44 (0) 1234 5678"
-                                        class="contact-form__input">
-                                </div>
-                                <div class="contact-form__wrapper-row">
-                                    <label for="options" class="contact-form__label">Choose an option:</label>
-                                    <select id="options" name="options">
-                                        <option value="option1">3D CAD Services</option>
-                                        <option value="option2">2D CAD Services</option>
-                                        <option value="option3">CAD Conversion Services</option>
-                                        <option value="option4">CAD Agency</option>
-                                        <option value="option5">Rendering and animation</option>
-                                        <option value="option6">Reverse Engineering</option>
-                                        <option value="option7">Prototype Manufacturing</option>
-                                        <option value="option8">Plotting Service</option>
-                                        <option value="option9">Fast Track Service</option>
-                                    </select>
-                                </div>
-                                <div class="contact-form__wrapper-row">
-                                    <textarea type="text" class="contact-form__input"
-                                        placeholder="Enter you message"></textarea>
-                                </div>
-                                <button class="contact-form__submit" type="submit">Send an enquiry <img
-                                        src="/wp-content/themes/myTheme/src/assets/icons/mail-submit-icon.svg"
-                                        alt=""></button>
-                            </form> -->
-
-                            <?php echo do_shortcode('[contact-form-7 id="160e4c5" title="Contact form 1"]'); ?>
+                            <?php echo do_shortcode('[contact-form-7 id="685874d" title="Contact form 1"]'); ?>
                         </div>
                     </div>
                     <div class="hire-us__contact hire-us__contact--google-map">

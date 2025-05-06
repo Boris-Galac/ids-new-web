@@ -575,6 +575,207 @@
                             </a>
                         </div>
                     </article>
+                    <article class="project-card card--styling hidden-left">
+                        <div class="project-card__header">
+                            <h3 class="card-heading">Allcool</h3>
+                            <img src="/wp-content/themes/myTheme/src/assets/images/project-card-logo.png"
+                                alt="ids logo" />
+                        </div>
+                        <div class="project-card__body">
+                            <div class="projects-card__body-row">
+                                <div
+                                    class="project-card__body-row-inner-header project-card__body-row-inner-header--mb-16">
+                                    <img src="/wp-content/themes/myTheme/src/assets/icons/project-info-icon.svg"
+                                        class="icon" alt="info icon" />
+                                    <span>Project description</span>
+                                </div>
+                                <p class="card-paragraph">
+                                    We have supported on Mechanical and Electrical projects over the last number of
+                                    years for this client.
+                                    <br><br>
+                                    Should it be approval stage or as-built we support on progressing numerous types of
+                                    drawings. This may include numerous revisions while a project is undertaken and
+                                    meetings to discuss amendments.
+                                    <br><br>
+                                    Working closely with site representatives we take marked up drawings and implent
+                                    into CAD data. Should you have a project where 2D support is required, feel free to
+                                    get in touch today by email or phone.
+                                </p>
+                            </div>
+                            <div class="project-card__body-row-tech-used">
+                                <div class="project-card__body-row-inner-header">
+                                    <img src="/wp-content/themes/myTheme/src/assets/icons/project-tech-used-icon.svg"
+                                        alt="tech icon" class="icon" />
+                                    <span>Technologies used</span>
+                                </div>
+                                <div>
+
+                                    <img src="/wp-content/themes/myTheme/src/assets/images/tech-autodesk.png"
+                                        class="icon" alt="tech icon" />
+                                </div>
+                            </div>
+                        </div>
+                        <div class="project-card__footer-gallery gallery">
+                            <a href="/wp-content/themes/myTheme/src/assets/images/project-gallery/img (33).jpg"
+                                data-caption="Allcool">
+                                <img src="/wp-content/themes/myTheme/src/assets/images/project-gallery/img (33).jpg"
+                                    alt="IDS" />
+                            </a>
+                            <a href="/wp-content/themes/myTheme/src/assets/images/project-gallery/img (32).jpg"
+                                data-caption="Allcool">
+                                <img src="/wp-content/themes/myTheme/src/assets/images/project-gallery/img (32).jpg"
+                                    alt="IDS" />
+                            </a>
+                            <a href="/wp-content/themes/myTheme/src/assets/images/project-gallery/img (34).jpg"
+                                data-caption="Allcool">
+                                <img src="/wp-content/themes/myTheme/src/assets/images/project-gallery/img (34).jpg"
+                                    alt="IDS" />
+                            </a>
+                            <a href="/wp-content/themes/myTheme/src/assets/images/project-gallery/img (35).jpg"
+                                data-caption="Allcool">
+                                <img src="/wp-content/themes/myTheme/src/assets/images/project-gallery/img (35).jpg"
+                                    alt="IDS" />
+                            </a>
+                        </div>
+                    </article>
+                    <article class="project-card card--styling hidden-right">
+                        <div class="project-card__header">
+                            <h3 class="card-heading">The Pen Rest</h3>
+                            <img src="/wp-content/themes/myTheme/src/assets/images/project-card-logo.png"
+                                alt="ids logo" />
+                        </div>
+                        <div class="project-card__body">
+                            <div class="projects-card__body-row">
+                                <div
+                                    class="project-card__body-row-inner-header project-card__body-row-inner-header--mb-16">
+                                    <img src="/wp-content/themes/myTheme/src/assets/icons/project-info-icon.svg"
+                                        class="icon" alt="info icon" />
+                                    <span>Project description</span>
+                                </div>
+                                <p class="card-paragraph">
+                                    Our client on this project had the design and idea already created but required
+                                    illustrations of their product in 3D Rendered Images. We used Solidworks to
+                                    initially draught up the idea then provided various images of the product stacked,
+                                    individual and with / without luxury pens.
+                                    <br><br>
+                                    This particular product was available in a range of material finishes; therefore we
+                                    applied a library of different Rendered Images showcasing their design. To assist
+                                    our client we also 3D Printed the product to test fitting and scale in comparison to
+                                    the pen.
+                                    <br><br>
+                                    Should you have a product idea and want a range of Rendered Images and 3D CAD Models
+                                    for Printing send us information by email or call us today for a quotation for our
+                                    services.
+                                </p>
+                            </div>
+                            <div class="project-card__body-row-tech-used">
+                                <div class="project-card__body-row-inner-header">
+                                    <img src="/wp-content/themes/myTheme/src/assets/icons/project-tech-used-icon.svg"
+                                        alt="tech icon" class="icon" />
+                                    <span>Technologies used</span>
+                                </div>
+                                <div>
+
+                                    <img src="/wp-content/themes/myTheme/src/assets/images/tech-solidworks.png"
+                                        class="icon" alt="tech icon" />
+
+                                    <img src="/wp-content/themes/myTheme/src/assets/images/tech-keyshot.png"
+                                        class="icon" alt="tech icon" />
+                                </div>
+                            </div>
+                        </div>
+                        <div class="project-card__footer-gallery gallery">
+                            <a href="/wp-content/themes/myTheme/src/assets/images/project-gallery/img (36).jpg"
+                                data-caption="The Pen Rest">
+                                <img src="/wp-content/themes/myTheme/src/assets/images/project-gallery/img (36).jpg"
+                                    alt="IDS" />
+                            </a>
+                            <a href="/wp-content/themes/myTheme/src/assets/images/project-gallery/img (37).jpg"
+                                data-caption="The Pen Rest">
+                                <img src="/wp-content/themes/myTheme/src/assets/images/project-gallery/img (37).jpg"
+                                    alt="IDS" />
+                            </a>
+                            <a href="/wp-content/themes/myTheme/src/assets/images/project-gallery/img (38).jpg"
+                                data-caption="The Pen Rest">
+                                <img src="/wp-content/themes/myTheme/src/assets/images/project-gallery/img (38).jpg"
+                                    alt="IDS" />
+                            </a>
+                            <a href="/wp-content/themes/myTheme/src/assets/images/project-gallery/img (39).jpg"
+                                data-caption="The Pen Rest">
+                                <img src="/wp-content/themes/myTheme/src/assets/images/project-gallery/img (39).jpg"
+                                    alt="IDS" />
+                            </a>
+                        </div>
+                    </article>
+                    <article class="project-card card--styling hidden-left">
+                        <div class="project-card__header">
+                            <h3 class="card-heading">Bison Products Ltd</h3>
+                            <img src="/wp-content/themes/myTheme/src/assets/images/project-card-logo.png"
+                                alt="ids logo" />
+                        </div>
+                        <div class="project-card__body">
+                            <div class="projects-card__body-row">
+                                <div
+                                    class="project-card__body-row-inner-header project-card__body-row-inner-header--mb-16">
+                                    <img src="/wp-content/themes/myTheme/src/assets/icons/project-info-icon.svg"
+                                        class="icon" alt="info icon" />
+                                    <span>Project description</span>
+                                </div>
+                                <p class="card-paragraph">
+                                    On this project Imagine Draughting Services Ltd’s brief was to Reverse Engineer
+                                    existing parts for all sheet metal, electrical, fixing and bought out items. Once a
+                                    3D CAD Model was progressed for each item they were combined to create an Assembly,
+                                    along with relevant materials applied.
+                                    <br><br>
+                                    The customer required individual Exploded Rendered Images providing a clear image
+                                    from various camera angles, with parts also itemized for their clients. For some
+                                    sheet metal parts we were provided with the DXF flat pattern, which made Reverse
+                                    Engineering an easier task.
+                                    <br><br>
+                                    Should you have a product and require Reverse Engineering along with Rendered Images
+                                    or Manufacturing Drawings send us an email or call today for a quotation for our
+                                    services.
+                                </p>
+                            </div>
+                            <div class="project-card__body-row-tech-used">
+                                <div class="project-card__body-row-inner-header">
+                                    <img src="/wp-content/themes/myTheme/src/assets/icons/project-tech-used-icon.svg"
+                                        alt="tech icon" class="icon" />
+                                    <span>Technologies used</span>
+                                </div>
+                                <div>
+
+                                    <img src="/wp-content/themes/myTheme/src/assets/images/tech-solidworks.png"
+                                        class="icon" alt="tech icon" />
+
+                                    <img src="/wp-content/themes/myTheme/src/assets/images/tech-keyshot.png"
+                                        class="icon" alt="tech icon" />
+                                </div>
+                            </div>
+                        </div>
+                        <div class="project-card__footer-gallery gallery">
+                            <a href="/wp-content/themes/myTheme/src/assets/images/project-gallery/img (40).jpg"
+                                data-caption="Bison Products Ltd">
+                                <img src="/wp-content/themes/myTheme/src/assets/images/project-gallery/img (40).jpg"
+                                    alt="IDS" />
+                            </a>
+                            <a href="/wp-content/themes/myTheme/src/assets/images/project-gallery/img (41).jpg"
+                                data-caption="Bison Products Ltd">
+                                <img src="/wp-content/themes/myTheme/src/assets/images/project-gallery/img (41).jpg"
+                                    alt="IDS" />
+                            </a>
+                            <a href="/wp-content/themes/myTheme/src/assets/images/project-gallery/img (42).jpg"
+                                data-caption="Bison Products Ltd">
+                                <img src="/wp-content/themes/myTheme/src/assets/images/project-gallery/img (42).jpg"
+                                    alt="IDS" />
+                            </a>
+                            <a href="/wp-content/themes/myTheme/src/assets/images/project-gallery/img (43).jpg"
+                                data-caption="Bison Products Ltd">
+                                <img src="/wp-content/themes/myTheme/src/assets/images/project-gallery/img (43).jpg"
+                                    alt="IDS" />
+                            </a>
+                        </div>
+                    </article>
                 </div>
             </div>
         </div>

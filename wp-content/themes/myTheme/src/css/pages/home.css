@@ -642,10 +642,8 @@
   flex-direction: column;
 }
 .company__box {
-  position: relative;
   display: grid;
   place-items: center;
-  grid-template-rows: 1fr 1fr auto;
 }
 .company__inner-wrapper {
   display: flex;
@@ -654,28 +652,18 @@
   justify-content: center;
   gap: 66px;
 }
-.company__header {
-  position: relative;
-  height: 100px;
-  grid-row: 1;
-}
-.company__header > img {
-  height: auto;
+.company__inner-wrapper img {
   width: 100px;
 }
 .company__num {
   font-weight: 200;
   font-size: 80px;
   color: var(--dark);
-  grid-row: 2;
-  position: absolute;
 }
 .company__subheading {
   font-weight: 400;
-  font-size: 20px;
+  font-size: 16px;
   font-weight: 300;
-  grid-row: 3;
-  margin-top: 16px;
 }
 .company__wrapper:nth-of-type(1) {
   margin-bottom: 98px;
@@ -880,9 +868,7 @@
   position: relative;
   padding-block: 6rem;
 }
-.hire-us .container {
-  padding-bottom: 186px;
-}
+
 .hire-us::before {
   content: "";
   position: absolute;
@@ -959,4 +945,20 @@
   .hire-us__heading-wrapper {
     margin-block: 104px;
   }
+}
+/* 👉 BROCHURE section */
+.df-bg {
+  background-color: var(--white) !important;
+}
+.brochure__download-wrapper {
+  position: relative;
+  display: grid;
+  place-items: center;
+  padding: 4rem;
+  outline: 2px solid rgba(173, 216, 230, 0.493);
+  margin-block: 4rem;
+  border-radius: 10px;
+  background: url("/wp-content/themes/myTheme/src/assets/images/brochure-overlay.jpg")
+    no-repeat center center/cover;
+  background-attachment: fixed;
 }
