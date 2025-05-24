@@ -17,6 +17,15 @@
 .blog-article__body {
   padding: 16px;
 }
+.blog-article__tags {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+  margin-bottom: 16px;
+}
+.blog-article__tags > * {
+  color: var(--white);
+}
 .blog-article__heading {
   color: var(--white);
   text-transform: uppercase;

@@ -159,6 +159,20 @@ if (document.querySelector(".main").classList.contains("service-main")) {
 
   baguetteBox.run(".gallery");
 }
+if (document.querySelector(".main").classList.contains("career-main")) {
+  document.querySelectorAll(".open-position-card").forEach((card) => {
+    card.addEventListener("mouseenter", () => {
+      document.querySelectorAll(".contact-hire-us-card").forEach((el) => {
+        el.classList.remove("hidden-left");
+
+        // Trigger reflow da "resetira" animaciju
+        void el.offsetWidth;
+
+        el.classList.add("hidden-left");
+      });
+    });
+  });
+}
 // HEADER HIDE ON SCROLL
 
 let lastScrollTop = 0;

@@ -2,7 +2,7 @@
 
 <main class="main index-main">
 
-    <!-- 👉 HERO section -->
+    <!-- ðŸ‘‰ HERO section -->
     <section class="hero">
         <div class="hero__wrapper">
             <div class="hero__content-wrapper">
@@ -132,7 +132,7 @@
         </div>
         </div>
     </section>
-    <!-- 👉 ABOUT-US section -->
+    <!-- ðŸ‘‰ ABOUT-US section -->
     <section class="about-us" id="about">
         <div class="container">
             <div class="about-us__wrapper">
@@ -221,7 +221,7 @@
                                     </div>
                                     <p class="body-paragraph">
                                         From start to finish, the service was brilliant. My designer Alex was patient,
-                                        professional and went above and beyond to get my project going. I can’t
+                                        professional and went above and beyond to get my project going. I canâ€™t
                                         recommend
                                         Imagine Draughting Services enough. I will 100% be using their services again on
                                         my
@@ -359,7 +359,7 @@
             </div>
         </div>
     </section>
-    <!-- 👉 MINI GALLERY section -->
+    <!-- ðŸ‘‰ MINI GALLERY section -->
     <section class="mini-gallery">
         <div class="container">
             <h2 class="h2-heading h2-heading--mini-gallery" data-h2-heading="something from the gallery">
@@ -378,6 +378,8 @@
                                 alt="3D work project" class="slide-img">
                             <img src="/wp-content/themes/myTheme/src/assets/images/home-gallery/slide-1-img-4.jpg"
                                 alt="3D work project" class="slide-img">
+                            <img src="/wp-content/themes/myTheme/src/assets/images/home-gallery/slide-1-img-5.jpg"
+                                alt="3D work project" class="slide-img">
                         </div>
 
                     </figure>
@@ -391,6 +393,8 @@
                                 alt="3D work project" class="slide-img">
                             <img src="/wp-content/themes/myTheme/src/assets/images/home-gallery/slide-3-img-4.jpg"
                                 alt="3D work project" class="slide-img">
+                            <img src="/wp-content/themes/myTheme/src/assets/images/home-gallery/slide-3-img-5.jpg"
+                                alt="3D work project" class="slide-img">
                         </div>
                     </figure>
                     <figure class="mini-gallery__wrapper">
@@ -402,6 +406,8 @@
                             <img src="/wp-content/themes/myTheme/src/assets/images/home-gallery/slide-5-img-3.jpg"
                                 alt="3D work project" class="slide-img">
                             <img src="/wp-content/themes/myTheme/src/assets/images/home-gallery/slide-5-img-4.jpg"
+                                alt="3D work project" class="slide-img">
+                            <img src="/wp-content/themes/myTheme/src/assets/images/home-gallery/slide-5-img-5.jpg"
                                 alt="3D work project" class="slide-img">
                         </div>
                     </figure>
@@ -415,6 +421,8 @@
                                 alt="3D work project" class="slide-img">
                             <img src="/wp-content/themes/myTheme/src/assets/images/home-gallery/slide-2-img-4.jpg"
                                 alt="3D work project" class="slide-img">
+                            <img src="/wp-content/themes/myTheme/src/assets/images/home-gallery/slide-2-img-5.jpg"
+                                alt="3D work project" class="slide-img">
                         </div>
                     </figure>
                     <figure class="mini-gallery__wrapper">
@@ -426,6 +434,8 @@
                             <img src="/wp-content/themes/myTheme/src/assets/images/home-gallery/slide-4-img-3.jpg"
                                 alt="3D work project" class="slide-img">
                             <img src="/wp-content/themes/myTheme/src/assets/images/home-gallery/slide-4-img-4.jpg"
+                                alt="3D work project" class="slide-img">
+                            <img src="/wp-content/themes/myTheme/src/assets/images/home-gallery/slide-4-img-5.jpg"
                                 alt="3D work project" class="slide-img">
                         </div>
                     </figure>
@@ -439,6 +449,8 @@
                                 alt="3D work project" class="slide-img">
                             <img src="/wp-content/themes/myTheme/src/assets/images/home-gallery/slide-6-img-4.jpg"
                                 alt="3D work project" class="slide-img">
+                            <img src="/wp-content/themes/myTheme/src/assets/images/home-gallery/slide-6-img-5.jpg"
+                                alt="3D work project" class="slide-img">
                         </div>
                     </figure>
                     <figure class="mini-gallery__wrapper">
@@ -451,6 +463,8 @@
                                 alt="3D work project" class="slide-img">
                             <img src="/wp-content/themes/myTheme/src/assets/images/home-gallery/slide-7-img-4.jpg"
                                 alt="3D work project" class="slide-img">
+                            <img src="/wp-content/themes/myTheme/src/assets/images/home-gallery/slide-7-img-5.jpg"
+                                alt="3D work project" class="slide-img">
                         </div>
                     </figure>
                     <figure class="mini-gallery__wrapper">
@@ -462,6 +476,8 @@
                             <img src="/wp-content/themes/myTheme/src/assets/images/home-gallery/slide-8-img-3.jpg"
                                 alt="3D work project" class="slide-img">
                             <img src="/wp-content/themes/myTheme/src/assets/images/home-gallery/slide-8-img-4.jpg"
+                                alt="3D work project" class="slide-img">
+                            <img src="/wp-content/themes/myTheme/src/assets/images/home-gallery/slide-8-img-5.jpg"
                                 alt="3D work project" class="slide-img">
                         </div>
                     </figure>
@@ -486,7 +502,7 @@
             </div>
         </div>
     </section>
-    <!-- 👉 MINI GALLERY section -->
+    <!-- ðŸ‘‰ MINI GALLERY section -->
     <section class="services">
         <div class="services__overlay" aria-hidden="true"></div>
         <div class="container">
@@ -505,7 +521,7 @@
         <div class="card-design-service__wrapper">
             <h3 class="h3-heading">Professional CAD Design Services</h3>
             <p class="paragraph">
-                We are one of the UK’s leading CAD Draughting Services. Our company
+                We are one of the UKâ€™s leading CAD Draughting Services. Our company
                 provides 2D & 3D CAD Services. If you require assistance call us
                 directly or email us by clicking for our details on the button below
                 and we will assist you with your project.
@@ -516,7 +532,7 @@
                     alt="contact icon" /></a>
         </div>
     </div>
-    <!-- 👉 COMPANY section -->
+    <!-- ðŸ‘‰ COMPANY section -->
     <section class="company">
         <div class="container">
             <h2 class="h2-heading" data-h2-heading="company review">
@@ -619,8 +635,15 @@
             </div>
         </div>
     </section>
-    <!-- 👉 DREAM-TEAM section -->
+    <!-- ðŸ‘‰ DREAM-TEAM section -->
     <section class="dream-team">
+
+        <picture>
+            <source media="(min-width:1600px)"
+                srcset="/wp-content/themes/myTheme/src/assets/images/rose-clouds-large.png">
+            <img src="/wp-content/themes/myTheme/src/assets/images/rose-clouds.png" aria-hidden="true"
+                class="rose-clouds-img" aria-hidden="true">
+        </picture>
         <div class="container">
             <div class="dream-team__wrapper">
                 <h2 class="h2-heading">
@@ -1048,7 +1071,7 @@
             </div>
         </div>
     </section>
-    <!-- 👉 EXTRAS section -->
+    <!-- ðŸ‘‰ EXTRAS section -->
     <section class="extras">
         <div class="container">
             <div class="extras__container">
@@ -1065,9 +1088,9 @@
                             <h3>retainer service</h3>
                             <p class="paragraph">
                                 For engagements longer than 4 weeks, we offer a discount on
-                                our hourly rate (currently £6/hour off). This is especially
+                                our hourly rate (currently Â£6/hour off). This is especially
                                 beneficial for large-scale projects, allowing clients to
-                                save up to £1,000.
+                                save up to Â£1,000.
                             </p>
                             <a href="<?php echo site_url('contact') ?>" class="extras-link">Enquire about our retainer
                                 service today here<img
@@ -1097,17 +1120,17 @@
             </div>
         </div>
     </section>
-    <!-- 👉 BLOG section -->
+    <!-- ðŸ‘‰ BLOG section -->
     <section class="blog-section">
         <div class="container">
             <div class="blog__container">
                 <div class="h2-heading-wrapper">
-                    <h2 class="h2-heading" data-h2-heading="our blog">Blog</h2>
+                    <h2 class="h2-heading" data-h2-heading="news and blog">News & Blogs</h2>
                     <span class="heading-line"></span>
                 </div>
                 <div class="blog__wrapper">
                     <p class="paragraph">
-                        Welcome to our blog, where we explore insights, ideas, and
+                        Welcome to our news and blogs section, where we explore insights, ideas, and
                         expert tips to help you navigate in draughting. Whether you're
                         looking for practical advice, the latest trends, or in-depth
                         analyses, you'll find valuable content tailored to your needs.
@@ -1116,15 +1139,13 @@
                     </p>
                     <div class="blog__blog-article-wrapper">
                         <?php
-
                         $args = array(
                             'post_type' => 'post',
+                            'categories' => array('blog', 'news'),
                             'posts_per_page' => '3',
                             'post_status' => 'publish',
                         );
-
                         $the_query = new WP_Query($args);
-
 
                         if ($the_query->have_posts()) {
                             while ($the_query->have_posts()) {
@@ -1140,8 +1161,8 @@
             </div>
         </div>
     </section>
-    <!-- 👉 HIRE-US section -->
-    <section class="hire-us" id="contact">
+    <!-- ðŸ‘‰ HIRE-US section -->
+    <section class="hire-us hire-us--padding" id="contact">
         <div class="container">
             <div class="hire-us__heading-wrapper">
                 <div>
@@ -1152,6 +1173,26 @@
             </div>
             <div class="hire-us__container">
                 <?php get_template_part('template-parts/content', 'contact-btns') ?>
+            </div>
+        </div>
+    </section>
+    <!-- ðŸ‘‰ CAREER section -->
+    <section class="hire-us career--bottom" id="contact">
+        <div class="container">
+            <div class="hire-us__heading-wrapper careers__heading-wrapper">
+                <div>
+                    <h2 class="h2-heading hire-us-heading careers-heading">Careers</h2>
+                    <span class="heading-line"></span>
+                </div>
+            </div>
+            <div class="hire-us__container">
+                <div class="open-positions-wrapper">
+                    <p>We're growing our team and looking for talented individuals to join us. Explore our open
+                        positions and find your next career opportunity!</p>
+                    <a href="<?php echo site_url('career') ?>" class="btn career-page-btn">Open positions <img
+                            src="/wp-content/themes/myTheme/src/assets/icons/right-arrow-icon.svg"
+                            alt="right arrow"></a>
+                </div>
             </div>
         </div>
     </section>
@@ -1169,7 +1210,7 @@
                     services. Whether
                     you're working on a personal or business project, our Draughting Services are designed to seamlessly
                     support your team with detailed drawings for manufacturing and marketing purposes.</p>
-                <div class="m-blok-48"><?php echo do_shortcode('[dflip id="88"][/dflip]'); ?></div>
+                <div class="m-blok-48"><?php echo do_shortcode('[dflip id="94"][/dflip]'); ?></div>
                 <div class="brochure__download-wrapper">
                     <a class="btn download-brochure-btn"
                         href="/wp-content/themes/myTheme/src/assets/Imagine Draughting - Brochure - Ver 1.0.pdf"

@@ -230,7 +230,7 @@ button {
   aspect-ratio: 1;
   width: 50px;
   position: fixed;
-  bottom: 1.7rem;
+  bottom: 5rem;
   right: 1rem;
   border: 2px solid hsl(0, 0%, 16%);
   transition: 0.2s;
@@ -278,6 +278,35 @@ button {
 .back-to-blogs-btn img {
   height: 2cap;
 }
+.open-position-btn,
+.career-main .meet-the-team-btn {
+  padding-block: 12px;
+}
+.open-position-btn {
+  text-transform: capitalize;
+  background-color: hsl(11, 57%, 42%);
+  color: var(--white);
+  font-weight: 300;
+  transition: 0.3s;
+}
+.open-position-btn:hover {
+  gap: 16px;
+}
+.career-main .meet-the-team-btn {
+  background-color: var(--white);
+}
+.career-page-btn {
+  color: var(--white);
+  background-color: var(--blue);
+  padding-block: 12px;
+  padding-inline: 32px;
+  transition: 0.25s;
+  width: max-content;
+  white-space: pre;
+}
+.career-page-btn:hover {
+  gap: 16px;
+}
 .download-brochure-btn {
   position: absolute;
   transform: translate(-50%, -50%);
@@ -291,6 +320,14 @@ button {
 }
 .download-brochure-btn:hover {
   background-color: hsla(0, 0%, 100%, 0.157);
+}
+.privacy-wrapper a {
+  transition: 0.25s;
+  color: hsl(208, 100%, 73%);
+}
+.privacy-wrapper a:hover {
+  transition: 0.25s;
+  color: hsl(208, 100%, 90%);
 }
 @media (min-width: 1024px) {
   .whatsapp-btn {

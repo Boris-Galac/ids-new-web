@@ -126,16 +126,14 @@
 }
 .play-the-video {
   transition: 1s;
+  cursor: pointer;
   width: 79%;
   border-radius: 10px;
   box-shadow: 0 5px 16px hsla(0, 0%, 0%, 0.478);
   margin-inline: auto;
-  user-select: none;
-  pointer-events: none;
 }
-.play-the-video--icon {
-  cursor: pointer;
-  z-index: 15;
+.play-the-video:hover {
+  scale: 1.15;
 }
 .overlay-play-the-video {
   background-color: hsla(0, 0%, 0%, 0.652);
@@ -159,16 +157,7 @@
   width: 100%;
   height: 100%;
 }
-.indicator-scroll-line {
-  position: fixed;
-  bottom: 0;
-  left: 0;
-  right: 0;
-  height: 3px;
-  width: 100%;
-  background-color: hsl(208, 92%, 59%);
-  z-index: 20;
-}
+
 .hero-visual-box--animation {
   clip-path: polygon(0 0, 100% 0, 0 0, 0% 100%);
   opacity: 0;
@@ -187,4 +176,14 @@
     width: 100%;
     aspect-ratio: 4/4;
   }
+}
+.indicator-scroll-line {
+  background-color: rgb(54, 157, 247);
+  bottom: 0px;
+  height: 3px;
+  left: 0px;
+  position: fixed;
+  right: 0px;
+  width: 100%;
+  z-index: 20;
 }

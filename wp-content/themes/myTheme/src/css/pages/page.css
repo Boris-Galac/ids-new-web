@@ -25,6 +25,10 @@
 .subpage .main {
   padding-top: 63px;
 }
+.page-list-services {
+  color: var(--white);
+  letter-spacing: 1px;
+}
 /* HEADER */
 @media (min-width: 1650px) {
   .subpage .header {

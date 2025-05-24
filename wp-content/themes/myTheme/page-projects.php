@@ -776,6 +776,127 @@
                             </a>
                         </div>
                     </article>
+                    <article class="project-card card--styling hidden-right">
+                        <div class="project-card__header">
+                            <h3 class="card-heading">Conveyors and Mechanical Handling Ltd</h3>
+                            <img src="/wp-content/themes/myTheme/src/assets/images/project-card-logo.png"
+                                alt="ids logo" />
+                        </div>
+                        <div class="project-card__body">
+                            <div class="projects-card__body-row">
+                                <div
+                                    class="project-card__body-row-inner-header project-card__body-row-inner-header--mb-16">
+                                    <img src="/wp-content/themes/myTheme/src/assets/icons/project-info-icon.svg"
+                                        class="icon" alt="info icon" />
+                                    <span>Project description</span>
+                                </div>
+                                <p class="card-paragraph">
+                                    A Design Brief was provided for a food-safe Double Conveyor system. Using a 2D
+                                    AutoCAD plan, we set entrance/exit points and heights, then developed parts,
+                                    sub-assemblies, and the main assembly. <br><br>
+
+                                    Once approved, we organized sheet metal, machined, extrusion, and bought-out parts
+                                    into supplier drawings and a categorized Bill of Materials.<br><br>
+
+                                    SolidWorks was used for design, interference checks, and file exports tailored to
+                                    supplier needs.<br><br>
+
+                                    For bespoke manufacturing drawings or renders, feel free to contact us.
+                                </p>
+                            </div>
+                            <div class="project-card__body-row-tech-used">
+                                <div class="project-card__body-row-inner-header">
+                                    <img src="/wp-content/themes/myTheme/src/assets/icons/project-tech-used-icon.svg"
+                                        alt="tech icon" class="icon" />
+                                    <span>Technologies used</span>
+                                </div>
+                                <div>
+
+                                    <img src="/wp-content/themes/myTheme/src/assets/images/tech-used-dss.png"
+                                        class="icon" alt="tech icon" />
+
+                                </div>
+                            </div>
+                        </div>
+                        <div class="project-card__footer-gallery gallery">
+                            <a href="/wp-content/themes/myTheme/src/assets/images/project-gallery/img (44).jpg"
+                                data-caption="Bison Products Ltd">
+                                <img src="/wp-content/themes/myTheme/src/assets/images/project-gallery/img (44).jpg"
+                                    alt="IDS" />
+                            </a>
+                            <a href="/wp-content/themes/myTheme/src/assets/images/project-gallery/img (45).jpg"
+                                data-caption="Bison Products Ltd">
+                                <img src="/wp-content/themes/myTheme/src/assets/images/project-gallery/img (45).jpg"
+                                    alt="IDS" />
+                            </a>
+                            <a href="/wp-content/themes/myTheme/src/assets/images/project-gallery/img (46).jpg"
+                                data-caption="Bison Products Ltd">
+                                <img src="/wp-content/themes/myTheme/src/assets/images/project-gallery/img (46).jpg"
+                                    alt="IDS" />
+                            </a>
+                        </div>
+                    </article>
+                    <article class="project-card card--styling hidden-left">
+                        <div class="project-card__header">
+                            <h3 class="card-heading">Neaco Products</h3>
+                            <img src="/wp-content/themes/myTheme/src/assets/images/project-card-logo.png"
+                                alt="ids logo" />
+                        </div>
+                        <div class="project-card__body">
+                            <div class="projects-card__body-row">
+                                <div
+                                    class="project-card__body-row-inner-header project-card__body-row-inner-header--mb-16">
+                                    <img src="/wp-content/themes/myTheme/src/assets/icons/project-info-icon.svg"
+                                        class="icon" alt="info icon" />
+                                    <span>Project description</span>
+                                </div>
+                                <p class="card-paragraph">
+
+                                    On this project following submittal of a site survey we used 2D AutoCAD software to
+                                    initially create approval drawings for review and sign-off. <br> <br>
+                                    Following approval manufacturing cutting lists were prepared with individual part
+                                    dimensions and hole locations along with handrail breakdown. Various layouts and
+                                    cutting lists have been provided on different stair configurations to suit the
+                                    customer.
+                                </p>
+                            </div>
+                            <div class="project-card__body-row-tech-used">
+                                <div class="project-card__body-row-inner-header">
+                                    <img src="/wp-content/themes/myTheme/src/assets/icons/project-tech-used-icon.svg"
+                                        alt="tech icon" class="icon" />
+                                    <span>Technologies used</span>
+                                </div>
+                                <div>
+
+                                    <img src="/wp-content/themes/myTheme/src/assets/images/tech-autodesk.png"
+                                        class="icon" alt="tech icon" />
+
+                                </div>
+                            </div>
+                        </div>
+                        <div class="project-card__footer-gallery gallery">
+                            <a href="/wp-content/themes/myTheme/src/assets/images/project-gallery/img (47).jpg"
+                                data-caption="Bison Products Ltd">
+                                <img src="/wp-content/themes/myTheme/src/assets/images/project-gallery/img (47).jpg"
+                                    alt="IDS" />
+                            </a>
+                            <a href="/wp-content/themes/myTheme/src/assets/images/project-gallery/img (48).jpg"
+                                data-caption="Bison Products Ltd">
+                                <img src="/wp-content/themes/myTheme/src/assets/images/project-gallery/img (48).jpg"
+                                    alt="IDS" />
+                            </a>
+                            <a href="/wp-content/themes/myTheme/src/assets/images/project-gallery/img (49).jpg"
+                                data-caption="Bison Products Ltd">
+                                <img src="/wp-content/themes/myTheme/src/assets/images/project-gallery/img (49).jpg"
+                                    alt="IDS" />
+                            </a>
+                            <a href="/wp-content/themes/myTheme/src/assets/images/project-gallery/img (50).jpg"
+                                data-caption="Bison Products Ltd">
+                                <img src="/wp-content/themes/myTheme/src/assets/images/project-gallery/img (50).jpg"
+                                    alt="IDS" />
+                            </a>
+                        </div>
+                    </article>
                 </div>
             </div>
         </div>

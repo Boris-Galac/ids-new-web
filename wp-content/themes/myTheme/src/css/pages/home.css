@@ -734,7 +734,12 @@
 .dream-team__wrapper > img:last-child {
   margin-inline: auto;
 }
-
+.rose-clouds-img {
+  position: absolute;
+  top: 0;
+  height: 50vh;
+  width: 100%;
+}
 @media (min-width: 1200px) {
   .dream-team__inner-wrapper {
     display: flex;
@@ -744,6 +749,11 @@
   }
   .dream-team .container {
     width: min(100% - 32px, 1098px);
+  }
+  .rose-clouds-img {
+    position: absolute;
+    top: 0;
+    height: 30vh;
   }
 }
 /* EXTRAS section */
@@ -866,9 +876,7 @@
 /* HIRE-US section */
 .hire-us {
   position: relative;
-  padding-block: 6rem;
 }
-
 .hire-us::before {
   content: "";
   position: absolute;
@@ -901,6 +909,10 @@
   line-height: 61%;
   margin-bottom: 8px;
 }
+.careers-heading {
+  order: 2 !important;
+  font-size: clamp(45px, 7vw, 80px);
+}
 .hire-us-subheading {
   text-transform: uppercase;
   letter-spacing: 9px;
@@ -913,7 +925,6 @@
 }
 .hire-us__contact a {
   transition: 1.5s;
-  /* perspective: 70px; */
 }
 .hire-us__contact a:hover {
   transform: rotateY(360deg);
@@ -940,10 +951,30 @@
   background-color: hsla(0, 0%, 0%, 0.007);
   backdrop-filter: blur(6px);
 }
-
+.open-positions-wrapper {
+  background-color: var(--white);
+  padding: 24px;
+  outline: 1px solid hsla(240, 100%, 50%, 0.098);
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  margin-bottom: 24px;
+  box-shadow: 0 0 32px rgba(0, 0, 0, 0.172);
+}
+.hire-us--padding {
+  padding-top: 6rem !important;
+  padding-bottom: 0 !important;
+}
+.career--bottom {
+  padding-top: 0;
+}
 @media (min-width: 1200px) {
   .hire-us__heading-wrapper {
     margin-block: 104px;
+  }
+  .open-positions-wrapper {
+    flex-direction: row;
   }
 }
 /* 👉 BROCHURE section */
