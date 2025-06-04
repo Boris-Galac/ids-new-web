@@ -118,6 +118,15 @@
   color: var(--white);
   font-weight: 200;
 }
+.career__no-jobs {
+  display: flex;
+  align-items: center;
+  padding: 40px;
+  gap: 24px;
+  outline: 1px solid rgba(0, 0, 0, 0.2);
+  border-radius: 1000px;
+  width: max-content;
+}
 @media (min-width: 1200px) {
   .open-position-card__header {
     flex-direction: row;

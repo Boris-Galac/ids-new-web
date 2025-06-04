@@ -44,13 +44,20 @@
                 ];
                 $jobs = new WP_Query($args);
 
-                if ($jobs->have_posts()) :
-                    while ($jobs->have_posts()) : $jobs->the_post();
+                if ($jobs->have_posts()) {
+                    while ($jobs->have_posts()) {
+                        $jobs->the_post();
                         get_template_part('template-parts/content', 'career-card');
-                    endwhile;
+                    }
                     wp_reset_postdata();
-                endif;
+                } else { ?>
+                <div class="career__no-jobs">
+                    <img src="/wp-content/themes/myTheme/src/assets/icons/info-icon.svg" alt="info icon" class="icon">
+                    <p>There are no open job positions at the moment. :(</p>
+                </div>
+                <?php }
                 ?>
+
 
             </div>
         </div>

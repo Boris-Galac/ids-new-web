@@ -296,6 +296,11 @@ p {
 .dream-team .h2-heading {
   margin-bottom: 64px;
 }
+.wp-block-heading {
+  color: var(--white) !important;
+  font-weight: 500;
+  margin-block: 16px;
+}
 @media (min-width: 1024px) {
   .hero-headline--mobile {
     display: none;

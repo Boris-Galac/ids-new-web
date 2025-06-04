@@ -897,6 +897,146 @@
                             </a>
                         </div>
                     </article>
+                    <article class="project-card card--styling hidden-right">
+                        <div class="project-card__header">
+                            <h3 class="card-heading">Tornado Saw</h3>
+                            <img src="/wp-content/themes/myTheme/src/assets/images/project-card-logo.png"
+                                alt="ids logo" />
+                        </div>
+                        <div class="project-card__body">
+                            <div class="projects-card__body-row">
+                                <div
+                                    class="project-card__body-row-inner-header project-card__body-row-inner-header--mb-16">
+                                    <img src="/wp-content/themes/myTheme/src/assets/icons/project-info-icon.svg"
+                                        class="icon" alt="info icon" />
+                                    <span>Project description</span>
+                                </div>
+                                <p class="card-paragraph">
+                                    This project combined 3D CAD design and rendered images to showcase the client’s
+                                    concept from multiple angles. Using SolidWorks, we developed several prototype
+                                    versions, focusing on complex surfacing and ergonomics. <br><br>
+
+                                    We produced concept drawings, a Bill of Materials linked to parts, and detailed
+                                    assembly drawings with exploded views. A 360° rendered image was also created for
+                                    interactive display on the client’s website. <br><br>
+
+                                    In total, 31 rendered images were provided, highlighting key features from various
+                                    angles, including transparent materials. <br><br>
+
+                                    If you need rendered images, CAD animations, or concept drawings for your product
+                                    idea, contact us by email or phone for a quote.
+                                </p>
+                            </div>
+                            <div class="project-card__body-row-tech-used">
+                                <div class="project-card__body-row-inner-header">
+                                    <img src="/wp-content/themes/myTheme/src/assets/icons/project-tech-used-icon.svg"
+                                        alt="tech icon" class="icon" />
+                                    <span>Technologies used</span>
+                                </div>
+                                <div>
+
+                                    <img src="/wp-content/themes/myTheme/src/assets/images/tech-solidworks.png"
+                                        class="icon" alt="tech icon" />
+
+                                    <img src="/wp-content/themes/myTheme/src/assets/images/tech-keyshot.png"
+                                        class="icon" alt="tech icon" />
+
+                                </div>
+                            </div>
+                        </div>
+                        <div class="project-card__footer-gallery gallery">
+                            <a href="/wp-content/themes/myTheme/src/assets/images/project-gallery/img (51).jpg"
+                                data-caption="Bison Products Ltd">
+                                <img src="/wp-content/themes/myTheme/src/assets/images/project-gallery/img (51).jpg"
+                                    alt="IDS" />
+                            </a>
+                            <a href="/wp-content/themes/myTheme/src/assets/images/project-gallery/img (52).jpg"
+                                data-caption="Bison Products Ltd">
+                                <img src="/wp-content/themes/myTheme/src/assets/images/project-gallery/img (52).jpg"
+                                    alt="IDS" />
+                            </a>
+                            <a href="/wp-content/themes/myTheme/src/assets/images/project-gallery/img (53).jpg"
+                                data-caption="Bison Products Ltd">
+                                <img src="/wp-content/themes/myTheme/src/assets/images/project-gallery/img (53).jpg"
+                                    alt="IDS" />
+                            </a>
+                            <a href="/wp-content/themes/myTheme/src/assets/images/project-gallery/img (54).jpg"
+                                data-caption="Bison Products Ltd">
+                                <img src="/wp-content/themes/myTheme/src/assets/images/project-gallery/img (54).jpg"
+                                    alt="IDS" />
+                            </a>
+                        </div>
+                    </article>
+                    <article class="project-card card--styling hidden-left">
+                        <div class="project-card__header">
+                            <h3 class="card-heading">Flutter Shutter LTD</h3>
+                            <img src="/wp-content/themes/myTheme/src/assets/images/project-card-logo.png"
+                                alt="ids logo" />
+                        </div>
+                        <div class="project-card__body">
+                            <div class="projects-card__body-row">
+                                <div
+                                    class="project-card__body-row-inner-header project-card__body-row-inner-header--mb-16">
+                                    <img src="/wp-content/themes/myTheme/src/assets/icons/project-info-icon.svg"
+                                        class="icon" alt="info icon" />
+                                    <span>Project description</span>
+                                </div>
+                                <p class="card-paragraph">
+                                    With the Eco-Friendly Shutter Design already part-progressed we were assigned to
+                                    take the existing data and extrusions to Convert into 3D. Using Solidworks CAD
+                                    software we progressed the 3D Model and liaised directly with our client on a weekly
+                                    basis for their knowledge and input. The priority was to provide a clear
+                                    Manufacturing Drawing package, along with an Instruction Manual for potential
+                                    installers / fitters.
+                                    <br><br>
+                                    To assist the customer we produced a 3D Printed Prototype of the product to aid
+                                    their demonstrations to potential clients and buyers, scaled down to fit inside a
+                                    carry-case, with foam moldings to suit the parts.
+                                    <br><br>
+                                    Furthermore a CAD Animation Video was created illustrating the features and benefits
+                                    of the product, while also showing various options / colours.
+                                </p>
+                            </div>
+                            <div class="project-card__body-row-tech-used">
+                                <div class="project-card__body-row-inner-header">
+                                    <img src="/wp-content/themes/myTheme/src/assets/icons/project-tech-used-icon.svg"
+                                        alt="tech icon" class="icon" />
+                                    <span>Technologies used</span>
+                                </div>
+                                <div>
+
+                                    <img src="/wp-content/themes/myTheme/src/assets/images/tech-solidworks.png"
+                                        class="icon" alt="tech icon" />
+
+                                    <img src="/wp-content/themes/myTheme/src/assets/images/tech-keyshot.png"
+                                        class="icon" alt="tech icon" />
+
+                                </div>
+                            </div>
+                        </div>
+                        <div class="project-card__footer-gallery gallery">
+                            <a href="/wp-content/themes/myTheme/src/assets/images/project-gallery/img (55).jpg"
+                                data-caption="Bison Products Ltd">
+                                <img src="/wp-content/themes/myTheme/src/assets/images/project-gallery/img (55).jpg"
+                                    alt="IDS" />
+                            </a>
+                            <a href="/wp-content/themes/myTheme/src/assets/images/project-gallery/img (56).jpg"
+                                data-caption="Bison Products Ltd">
+                                <img src="/wp-content/themes/myTheme/src/assets/images/project-gallery/img (56).jpg"
+                                    alt="IDS" />
+                            </a>
+                            <a href="/wp-content/themes/myTheme/src/assets/images/project-gallery/img (57).jpg"
+                                data-caption="Bison Products Ltd">
+                                <img src="/wp-content/themes/myTheme/src/assets/images/project-gallery/img (57).jpg"
+                                    alt="IDS" />
+                            </a>
+                            <a href="/wp-content/themes/myTheme/src/assets/images/project-gallery/img (58).jpg"
+                                data-caption="Bison Products Ltd">
+                                <img src="/wp-content/themes/myTheme/src/assets/images/project-gallery/img (58).jpg"
+                                    alt="IDS" />
+                            </a>
+                        </div>
+                    </article>
                 </div>
             </div>
         </div>
