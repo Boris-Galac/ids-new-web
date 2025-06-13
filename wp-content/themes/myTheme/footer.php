@@ -7,6 +7,10 @@
      <img src="/wp-content/themes/myTheme/src/assets/icons/whup-icon.svg" alt="whatsapp icon" />
      <span class="whatsapp-btn__text">WhatsApp for Free Quotation</span>
  </a>
+ <div class="page-transition" data-active="true">
+     <img src="/wp-content/themes/myTheme/src/assets/images/footer-logo.png" alt="logo Imagine Draughting Services">
+ </div>
+
  <!-------------->
  <footer class="footer">
      <div class="container">

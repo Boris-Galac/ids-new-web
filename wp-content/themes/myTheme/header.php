@@ -63,26 +63,55 @@
                     <a href="<?php echo site_url('services') ?>" class="nav__link nav__link--services">Services</a>
                     <ul class="dropdown--nav__list">
                         <li class="dropdown--nav__item"><a class="dropdown--nav__link"
-                                href="<?php echo site_url('2d') ?>">2D Services</a></li>
-                        <li class="dropdown--nav__item"><a class="dropdown--nav__link"
-                                href="<?php echo site_url('3d') ?>">3D Services</a></li>
-                        <li class="dropdown--nav__item"><a class="dropdown--nav__link"
-                                href="<?php echo site_url('3d-modeling') ?>">3D CAD Models</a></li>
-                        <li class="dropdown--nav__item"><a class="dropdown--nav__link"
-                                href="<?php echo site_url('conversion') ?>">CAD Conversion</a></li>
-                        <li class="dropdown--nav__item"><a class="dropdown--nav__link"
-                                href="<?php echo site_url('render') ?>">Rendering</a></li>
-                        <li class="dropdown--nav__item"><a class="dropdown--nav__link"
-                                href="<?php echo site_url('reverse') ?>">Reverse engineering</a>
+                                href="<?php echo site_url('2d') ?>">2D Services</a>
+                            <img src="/wp-content/themes/myTheme/src/assets/icons/nav-services/2d-drawings-nav.gif"
+                                class="icon" alt="2d services">
                         </li>
                         <li class="dropdown--nav__item"><a class="dropdown--nav__link"
-                                href="<?php echo site_url('prototype') ?>">Prototype</a></li>
+                                href="<?php echo site_url('3d') ?>">3D Services</a>
+                            <img src="/wp-content/themes/myTheme/src/assets/icons/nav-services/3d-cad-services-nav.gif"
+                                class="icon" alt="3d services">
+                        </li>
                         <li class="dropdown--nav__item"><a class="dropdown--nav__link"
-                                href="<?php echo site_url('plotting') ?>">Plotting</a></li>
+                                href="<?php echo site_url('3d-modeling') ?>">3D CAD Models</a>
+                            <img src="/wp-content/themes/myTheme/src/assets/icons/nav-services/3d-printing-nav.gif"
+                                class="icon" alt="3d cad models">
+                        </li>
                         <li class="dropdown--nav__item"><a class="dropdown--nav__link"
-                                href="<?php echo site_url('fast-track') ?>">Fast track</a></li>
+                                href="<?php echo site_url('conversion') ?>">CAD Conversion</a>
+                            <img src="/wp-content/themes/myTheme/src/assets/icons/nav-services/conversion-nav.gif"
+                                class="icon" alt="3d cubes rotating">
+                        </li>
                         <li class="dropdown--nav__item"><a class="dropdown--nav__link"
-                                href="<?php echo site_url('agency') ?>">CAD Agency</a></li>
+                                href="<?php echo site_url('render') ?>">Rendering</a>
+                            <img src="/wp-content/themes/myTheme/src/assets/icons/nav-services/render-nav.gif"
+                                class="icon" alt="3d cubes rendering">
+                        </li>
+                        <li class="dropdown--nav__item"><a class="dropdown--nav__link"
+                                href="<?php echo site_url('reverse') ?>">Reverse engineering</a>
+                            <img src="/wp-content/themes/myTheme/src/assets/icons/nav-services/engineering-nav.gif"
+                                class="icon" alt="engineering">
+                        </li>
+                        <li class="dropdown--nav__item"><a class="dropdown--nav__link"
+                                href="<?php echo site_url('prototype') ?>">Prototype</a>
+                            <img src="/wp-content/themes/myTheme/src/assets/icons/nav-services/prototype-nav.gif"
+                                class="icon" alt="3d prototyping">
+                        </li>
+                        <li class="dropdown--nav__item"><a class="dropdown--nav__link"
+                                href="<?php echo site_url('plotting') ?>">Plotting</a>
+                            <img src="/wp-content/themes/myTheme/src/assets/icons/nav-services/plotting-nav.gif"
+                                class="icon" alt="rotating engine">
+                        </li>
+                        <li class="dropdown--nav__item"><a class="dropdown--nav__link"
+                                href="<?php echo site_url('fast-track') ?>">Fast track</a>
+                            <img src="/wp-content/themes/myTheme/src/assets/icons/nav-services/fast-track-nav.gif"
+                                class="icon" alt="fast service">
+                        </li>
+                        <li class="dropdown--nav__item"><a class="dropdown--nav__link"
+                                href="<?php echo site_url('agency') ?>">CAD Agency</a>
+                            <img src="/wp-content/themes/myTheme/src/assets/icons/nav-services/agency-nav.gif"
+                                class="icon" alt="agency people">
+                        </li>
                     </ul>
                 </li>
                 <li class="nav__item">

@@ -1037,6 +1037,69 @@
                             </a>
                         </div>
                     </article>
+                    <article class="project-card card--styling hidden-right">
+                        <div class="project-card__header">
+                            <h3 class="card-heading">Allcool</h3>
+                            <img src="/wp-content/themes/myTheme/src/assets/images/project-card-logo.png"
+                                alt="ids logo" />
+                        </div>
+                        <div class="project-card__body">
+                            <div class="projects-card__body-row">
+                                <div
+                                    class="project-card__body-row-inner-header project-card__body-row-inner-header--mb-16">
+                                    <img src="/wp-content/themes/myTheme/src/assets/icons/project-info-icon.svg"
+                                        class="icon" alt="info icon" />
+                                    <span>Project description</span>
+                                </div>
+                                <p class="card-paragraph">
+                                    We have supported on Mechanical and Electrical projects over the last number of
+                                    years for this client.
+                                    <br><br>
+                                    Should it be approval stage or as-built we support on progressing numerous types of
+                                    drawings. This may include numerous revisions while a project is undertaken and
+                                    meetings to discuss amendments.
+                                    <br><br>
+                                    Working closely with site representatives we take marked up drawings and implent
+                                    into CAD data. Should you have a project where 2D support is required, feel free to
+                                    get in touch today by email or phone.
+                                </p>
+                            </div>
+                            <div class="project-card__body-row-tech-used">
+                                <div class="project-card__body-row-inner-header">
+                                    <img src="/wp-content/themes/myTheme/src/assets/icons/project-tech-used-icon.svg"
+                                        alt="tech icon" class="icon" />
+                                    <span>Technologies used</span>
+                                </div>
+                                <div>
+
+                                    <img src="/wp-content/themes/myTheme/src/assets/images/tech-autodesk.png"
+                                        class="icon" alt="tech icon" />
+                                </div>
+                            </div>
+                        </div>
+                        <div class="project-card__footer-gallery gallery">
+                            <a href="/wp-content/themes/myTheme/src/assets/images/project-gallery/img (59).jpg"
+                                data-caption="Allcool">
+                                <img src="/wp-content/themes/myTheme/src/assets/images/project-gallery/img (59).jpg"
+                                    alt="IDS" />
+                            </a>
+                            <a href="/wp-content/themes/myTheme/src/assets/images/project-gallery/img (60).jpg"
+                                data-caption="Allcool">
+                                <img src="/wp-content/themes/myTheme/src/assets/images/project-gallery/img (60).jpg"
+                                    alt="IDS" />
+                            </a>
+                            <a href="/wp-content/themes/myTheme/src/assets/images/project-gallery/img (61).jpg"
+                                data-caption="Allcool">
+                                <img src="/wp-content/themes/myTheme/src/assets/images/project-gallery/img (61).jpg"
+                                    alt="IDS" />
+                            </a>
+                            <a href="/wp-content/themes/myTheme/src/assets/images/project-gallery/img (62).jpg"
+                                data-caption="Allcool">
+                                <img src="/wp-content/themes/myTheme/src/assets/images/project-gallery/img (62).jpg"
+                                    alt="IDS" />
+                            </a>
+                        </div>
+                    </article>
                 </div>
             </div>
         </div>

@@ -382,6 +382,8 @@
                                 alt="3D work project" class="slide-img">
                             <img src="/wp-content/themes/myTheme/src/assets/images/home-gallery/slide-1-img-6.jpg"
                                 alt="3D work project" class="slide-img">
+                            <img src="/wp-content/themes/myTheme/src/assets/images/home-gallery/slide-1-img-7.jpg"
+                                alt="3D work project" class="slide-img">
                         </div>
 
                     </figure>
@@ -399,6 +401,8 @@
                                 alt="3D work project" class="slide-img">
                             <img src="/wp-content/themes/myTheme/src/assets/images/home-gallery/slide-3-img-6.jpg"
                                 alt="3D work project" class="slide-img">
+                            <img src="/wp-content/themes/myTheme/src/assets/images/home-gallery/slide-3-img-7.jpg"
+                                alt="3D work project" class="slide-img">
                         </div>
                     </figure>
                     <figure class="mini-gallery__wrapper">
@@ -414,6 +418,8 @@
                             <img src="/wp-content/themes/myTheme/src/assets/images/home-gallery/slide-5-img-5.jpg"
                                 alt="3D work project" class="slide-img">
                             <img src="/wp-content/themes/myTheme/src/assets/images/home-gallery/slide-5-img-6.jpg"
+                                alt="3D work project" class="slide-img">
+                            <img src="/wp-content/themes/myTheme/src/assets/images/home-gallery/slide-5-img-7.jpg"
                                 alt="3D work project" class="slide-img">
                         </div>
                     </figure>
@@ -431,6 +437,8 @@
                                 alt="3D work project" class="slide-img">
                             <img src="/wp-content/themes/myTheme/src/assets/images/home-gallery/slide-2-img-6.jpg"
                                 alt="3D work project" class="slide-img">
+                            <img src="/wp-content/themes/myTheme/src/assets/images/home-gallery/slide-2-img-7.jpg"
+                                alt="3D work project" class="slide-img">
                         </div>
                     </figure>
                     <figure class="mini-gallery__wrapper">
@@ -446,6 +454,8 @@
                             <img src="/wp-content/themes/myTheme/src/assets/images/home-gallery/slide-4-img-5.jpg"
                                 alt="3D work project" class="slide-img">
                             <img src="/wp-content/themes/myTheme/src/assets/images/home-gallery/slide-4-img-6.jpg"
+                                alt="3D work project" class="slide-img">
+                            <img src="/wp-content/themes/myTheme/src/assets/images/home-gallery/slide-4-img-7.jpg"
                                 alt="3D work project" class="slide-img">
                         </div>
                     </figure>
@@ -463,6 +473,8 @@
                                 alt="3D work project" class="slide-img">
                             <img src="/wp-content/themes/myTheme/src/assets/images/home-gallery/slide-6-img-6.jpg"
                                 alt="3D work project" class="slide-img">
+                            <img src="/wp-content/themes/myTheme/src/assets/images/home-gallery/slide-6-img-7.jpg"
+                                alt="3D work project" class="slide-img">
                         </div>
                     </figure>
                     <figure class="mini-gallery__wrapper">
@@ -479,6 +491,8 @@
                                 alt="3D work project" class="slide-img">
                             <img src="/wp-content/themes/myTheme/src/assets/images/home-gallery/slide-7-img-6.jpg"
                                 alt="3D work project" class="slide-img">
+                            <img src="/wp-content/themes/myTheme/src/assets/images/home-gallery/slide-7-img-7.jpg"
+                                alt="3D work project" class="slide-img">
                         </div>
                     </figure>
                     <figure class="mini-gallery__wrapper">
@@ -494,6 +508,8 @@
                             <img src="/wp-content/themes/myTheme/src/assets/images/home-gallery/slide-8-img-5.jpg"
                                 alt="3D work project" class="slide-img">
                             <img src="/wp-content/themes/myTheme/src/assets/images/home-gallery/slide-8-img-6.jpg"
+                                alt="3D work project" class="slide-img">
+                            <img src="/wp-content/themes/myTheme/src/assets/images/home-gallery/slide-8-img-7.jpg"
                                 alt="3D work project" class="slide-img">
                         </div>
                     </figure>
