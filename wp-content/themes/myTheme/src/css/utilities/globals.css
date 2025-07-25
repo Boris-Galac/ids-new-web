@@ -16,8 +16,9 @@
   border-radius: 7px;
   box-shadow: 0 10px 16px rgba(59, 72, 93, 0.394);
 }
-@media (min-width: 1200px) {
+/* @media (min-width: 1200px) {
   .subpage-margin-block {
     margin-block: 120px;
   }
 }
+ */

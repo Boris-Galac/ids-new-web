@@ -22,306 +22,350 @@
                 </div>
             </div>
         </div>
-        <div class="gallery-works-inner-wrapper gallery">
-            <a href="/wp-content/themes/myTheme/src/assets/images/gallery/img (1).jpg"
-                data-caption="Imagine Draughting Services">
-                <img src="/wp-content/themes/myTheme/src/assets/images/gallery/img (1).jpg" alt="IDS" />
-            </a>
+        <div class="gallery__outter-wrapper">
+            <div class="gallery">
+                <h2 class="gallery__min-section-heading hidden-left">2d cad services</h2>
+                <div class="gallery__inner-wrapper">
+                    <a href="/wp-content/themes/myTheme/src/assets/images/gallery/2d-img (1).jpg"
+                        data-caption="Imagine Draughting Services">
+                        <img src="/wp-content/themes/myTheme/src/assets/images/gallery/2d-img (1).jpg" alt="IDS" />
+                    </a>
+                    <a href="/wp-content/themes/myTheme/src/assets/images/gallery/2d-img (2).jpg"
+                        data-caption="Imagine Draughting Services">
+                        <img src="/wp-content/themes/myTheme/src/assets/images/gallery/2d-img (2).jpg" alt="IDS" />
+                    </a>
+                    <a href="/wp-content/themes/myTheme/src/assets/images/gallery/2d-img (3).jpg"
+                        data-caption="Imagine Draughting Services">
+                        <img src="/wp-content/themes/myTheme/src/assets/images/gallery/2d-img (3).jpg" alt="IDS" />
+                    </a>
+                    <a href="/wp-content/themes/myTheme/src/assets/images/gallery/2d-img (4).jpg"
+                        data-caption="Imagine Draughting Services">
+                        <img src="/wp-content/themes/myTheme/src/assets/images/gallery/2d-img (4).jpg" alt="IDS" />
+                    </a>
+                    <a href="/wp-content/themes/myTheme/src/assets/images/gallery/2d-img (5).jpg"
+                        data-caption="Imagine Draughting Services">
+                        <img src="/wp-content/themes/myTheme/src/assets/images/gallery/2d-img (5).jpg" alt="IDS" />
+                    </a>
+                    <a href="/wp-content/themes/myTheme/src/assets/images/gallery/2d-img (6).jpg"
+                        data-caption="Imagine Draughting Services">
+                        <img src="/wp-content/themes/myTheme/src/assets/images/gallery/2d-img (6).jpg" alt="IDS" />
+                    </a>
+                    <a href="/wp-content/themes/myTheme/src/assets/images/gallery/2d-img (7).jpg"
+                        data-caption="Imagine Draughting Services">
+                        <img src="/wp-content/themes/myTheme/src/assets/images/gallery/2d-img (7).jpg" alt="IDS" />
+                    </a>
+                    <a href="/wp-content/themes/myTheme/src/assets/images/gallery/2d-img (8).jpg"
+                        data-caption="Imagine Draughting Services">
+                        <img src="/wp-content/themes/myTheme/src/assets/images/gallery/2d-img (8).jpg" alt="IDS" />
+                    </a>
+                    <a href="/wp-content/themes/myTheme/src/assets/images/gallery/2d-img (9).jpg"
+                        data-caption="Imagine Draughting Services">
+                        <img src="/wp-content/themes/myTheme/src/assets/images/gallery/2d-img (9).jpg" alt="IDS" />
+                    </a>
+                    <a href="/wp-content/themes/myTheme/src/assets/images/gallery/2d-img (10).jpg"
+                        data-caption="Imagine Draughting Services">
+                        <img src="/wp-content/themes/myTheme/src/assets/images/gallery/2d-img (10).jpg" alt="IDS" />
+                    </a>
+                    <a href="/wp-content/themes/myTheme/src/assets/images/gallery/2d-img (11).jpg"
+                        data-caption="Imagine Draughting Services">
+                        <img src="/wp-content/themes/myTheme/src/assets/images/gallery/2d-img (11).jpg" alt="IDS" />
+                    </a>
+                    <a href="/wp-content/themes/myTheme/src/assets/images/gallery/2d-img (12).jpg"
+                        data-caption="Imagine Draughting Services">
+                        <img src="/wp-content/themes/myTheme/src/assets/images/gallery/2d-img (12).jpg" alt="IDS" />
+                    </a>
+                </div>
+            </div>
+            <div class="gallery">
+                <h2 class="gallery__min-section-heading hidden-left">3d CAD services</h2>
+                <div class="gallery__inner-wrapper">
+                    <a href="/wp-content/themes/myTheme/src/assets/images/gallery/3d-img (1).jpg"
+                        data-caption="Imagine Draughting Services">
+                        <img src="/wp-content/themes/myTheme/src/assets/images/gallery/3d-img (1).jpg" alt="IDS" />
+                    </a>
+                    <a href="/wp-content/themes/myTheme/src/assets/images/gallery/3d-img (2).jpg"
+                        data-caption="Imagine Draughting Services">
+                        <img src="/wp-content/themes/myTheme/src/assets/images/gallery/3d-img (2).jpg" alt="IDS" />
+                    </a>
+                    <a href="/wp-content/themes/myTheme/src/assets/images/gallery/3d-img (3).jpg"
+                        data-caption="Imagine Draughting Services">
+                        <img src="/wp-content/themes/myTheme/src/assets/images/gallery/3d-img (3).jpg" alt="IDS" />
+                    </a>
+                    <a href="/wp-content/themes/myTheme/src/assets/images/gallery/3d-img (4).jpg"
+                        data-caption="Imagine Draughting Services">
+                        <img src="/wp-content/themes/myTheme/src/assets/images/gallery/3d-img (4).jpg" alt="IDS" />
+                    </a>
+                    <a href="/wp-content/themes/myTheme/src/assets/images/gallery/3d-img (5).jpg"
+                        data-caption="Imagine Draughting Services">
+                        <img src="/wp-content/themes/myTheme/src/assets/images/gallery/3d-img (5).jpg" alt="IDS" />
+                    </a>
+                    <a href="/wp-content/themes/myTheme/src/assets/images/gallery/3d-img (6).jpg"
+                        data-caption="Imagine Draughting Services">
+                        <img src="/wp-content/themes/myTheme/src/assets/images/gallery/3d-img (6).jpg" alt="IDS" />
+                    </a>
+                    <a href="/wp-content/themes/myTheme/src/assets/images/gallery/3d-img (7).jpg"
+                        data-caption="Imagine Draughting Services">
+                        <img src="/wp-content/themes/myTheme/src/assets/images/gallery/3d-img (7).jpg" alt="IDS" />
+                    </a>
+                    <a href="/wp-content/themes/myTheme/src/assets/images/gallery/3d-img (8).jpg"
+                        data-caption="Imagine Draughting Services">
+                        <img src="/wp-content/themes/myTheme/src/assets/images/gallery/3d-img (8).jpg" alt="IDS" />
+                    </a>
+                    <a href="/wp-content/themes/myTheme/src/assets/images/gallery/3d-img (9).jpg"
+                        data-caption="Imagine Draughting Services">
+                        <img src="/wp-content/themes/myTheme/src/assets/images/gallery/3d-img (9).jpg" alt="IDS" />
+                    </a>
+                    <a href="/wp-content/themes/myTheme/src/assets/images/gallery/3d-img (10).jpg"
+                        data-caption="Imagine Draughting Services">
+                        <img src="/wp-content/themes/myTheme/src/assets/images/gallery/3d-img (10).jpg" alt="IDS" />
+                    </a>
+                    <a href="/wp-content/themes/myTheme/src/assets/images/gallery/3d-img (11).jpg"
+                        data-caption="Imagine Draughting Services">
+                        <img src="/wp-content/themes/myTheme/src/assets/images/gallery/3d-img (11).jpg" alt="IDS" />
+                    </a>
+                    <a href="/wp-content/themes/myTheme/src/assets/images/gallery/3d-img (12).jpg"
+                        data-caption="Imagine Draughting Services">
+                        <img src="/wp-content/themes/myTheme/src/assets/images/gallery/3d-img (12).jpg" alt="IDS" />
+                    </a>
+                </div>
+            </div>
+            <div class="gallery">
+                <h2 class="gallery__min-section-heading hidden-left">CAD conversions</h2>
+                <div class="gallery__inner-wrapper">
+                    <a href="/wp-content/themes/myTheme/src/assets/images/gallery/cad-conversion-img (1).jpg"
+                        data-caption="Imagine Draughting Services">
+                        <img src="/wp-content/themes/myTheme/src/assets/images/gallery/cad-conversion-thumbnail-1.jpg"
+                            alt="IDS" />
+                    </a>
+                    <a href="/wp-content/themes/myTheme/src/assets/images/gallery/cad-conversion-img (2).jpg"
+                        data-caption="Imagine Draughting Services">
+                        <img src="/wp-content/themes/myTheme/src/assets/images/gallery/cad-conversion-thumbnail-2.jpg"
+                            alt="IDS" />
+                    </a>
 
-            <a href="/wp-content/themes/myTheme/src/assets/images/gallery/img (2).jpg"
-                data-caption="Imagine Draughting Services">
-                <img src="/wp-content/themes/myTheme/src/assets/images/gallery/img (2).jpg" alt="IDS" />
-            </a>
-
-            <a href="/wp-content/themes/myTheme/src/assets/images/gallery/img (3).jpg"
-                data-caption="Imagine Draughting Services">
-                <img src="/wp-content/themes/myTheme/src/assets/images/gallery/img (3).jpg" alt="IDS" />
-            </a>
-
-            <a href="/wp-content/themes/myTheme/src/assets/images/gallery/img (4).jpg"
-                data-caption="Imagine Draughting Services">
-                <img src="/wp-content/themes/myTheme/src/assets/images/gallery/img (4).jpg" alt="IDS" />
-            </a>
-
-            <a href="/wp-content/themes/myTheme/src/assets/images/gallery/img (5).jpg"
-                data-caption="Imagine Draughting Services">
-                <img src="/wp-content/themes/myTheme/src/assets/images/gallery/img (5).jpg" alt="IDS" />
-            </a>
-
-            <a href="/wp-content/themes/myTheme/src/assets/images/gallery/img (6).jpg"
-                data-caption="Imagine Draughting Services">
-                <img src="/wp-content/themes/myTheme/src/assets/images/gallery/img (6).jpg" alt="IDS" />
-            </a>
-
-            <a href="/wp-content/themes/myTheme/src/assets/images/gallery/img (7).jpg"
-                data-caption="Imagine Draughting Services">
-                <img src="/wp-content/themes/myTheme/src/assets/images/gallery/img (7).jpg" alt="IDS" />
-            </a>
-
-            <a href="/wp-content/themes/myTheme/src/assets/images/gallery/img (8).jpg"
-                data-caption="Imagine Draughting Services">
-                <img src="/wp-content/themes/myTheme/src/assets/images/gallery/img (8).jpg" alt="IDS" />
-            </a>
-
-            <a href="/wp-content/themes/myTheme/src/assets/images/gallery/img (9).jpg"
-                data-caption="Imagine Draughting Services">
-                <img src="/wp-content/themes/myTheme/src/assets/images/gallery/img (9).jpg" alt="IDS" />
-            </a>
-
-            <a href="/wp-content/themes/myTheme/src/assets/images/gallery/img (10).jpg"
-                data-caption="Imagine Draughting Services">
-                <img src="/wp-content/themes/myTheme/src/assets/images/gallery/img (10).jpg" alt="IDS" />
-            </a>
-
-            <a href="/wp-content/themes/myTheme/src/assets/images/gallery/img (11).jpg"
-                data-caption="Imagine Draughting Services">
-                <img src="/wp-content/themes/myTheme/src/assets/images/gallery/img (11).jpg" alt="IDS" />
-            </a>
-
-            <a href="/wp-content/themes/myTheme/src/assets/images/gallery/img (12).jpg"
-                data-caption="Imagine Draughting Services">
-                <img src="/wp-content/themes/myTheme/src/assets/images/gallery/img (12).jpg" alt="IDS" />
-            </a>
-
-            <a href="/wp-content/themes/myTheme/src/assets/images/gallery/img (13).jpg"
-                data-caption="Imagine Draughting Services">
-                <img src="/wp-content/themes/myTheme/src/assets/images/gallery/img (13).jpg" alt="IDS" />
-            </a>
-
-            <a href="/wp-content/themes/myTheme/src/assets/images/gallery/img (14).jpg"
-                data-caption="Imagine Draughting Services">
-                <img src="/wp-content/themes/myTheme/src/assets/images/gallery/img (14).jpg" alt="IDS" />
-            </a>
-
-            <a href="/wp-content/themes/myTheme/src/assets/images/gallery/img (15).jpg"
-                data-caption="Imagine Draughting Services">
-                <img src="/wp-content/themes/myTheme/src/assets/images/gallery/img (15).jpg" alt="IDS" />
-            </a>
-
-            <a href="/wp-content/themes/myTheme/src/assets/images/gallery/img (16).jpg"
-                data-caption="Imagine Draughting Services">
-                <img src="/wp-content/themes/myTheme/src/assets/images/gallery/img (16).jpg" alt="IDS" />
-            </a>
-
-            <a href="/wp-content/themes/myTheme/src/assets/images/gallery/img (17).jpg"
-                data-caption="Imagine Draughting Services">
-                <img src="/wp-content/themes/myTheme/src/assets/images/gallery/img (17).jpg" alt="IDS" />
-            </a>
-
-            <a href="/wp-content/themes/myTheme/src/assets/images/gallery/img (18).jpg"
-                data-caption="Imagine Draughting Services">
-                <img src="/wp-content/themes/myTheme/src/assets/images/gallery/img (18).jpg" alt="IDS" />
-            </a>
-
-            <a href="/wp-content/themes/myTheme/src/assets/images/gallery/img (19).jpg"
-                data-caption="Imagine Draughting Services">
-                <img src="/wp-content/themes/myTheme/src/assets/images/gallery/img (19).jpg" alt="IDS" />
-            </a>
-
-            <a href="/wp-content/themes/myTheme/src/assets/images/gallery/img (20).jpg"
-                data-caption="Imagine Draughting Services">
-                <img src="/wp-content/themes/myTheme/src/assets/images/gallery/img (20).jpg" alt="IDS" />
-            </a>
-
-            <a href="/wp-content/themes/myTheme/src/assets/images/gallery/img (21).jpg"
-                data-caption="Imagine Draughting Services">
-                <img src="/wp-content/themes/myTheme/src/assets/images/gallery/img (21).jpg" alt="IDS" />
-            </a>
-
-            <a href="/wp-content/themes/myTheme/src/assets/images/gallery/img (22).jpg"
-                data-caption="Imagine Draughting Services">
-                <img src="/wp-content/themes/myTheme/src/assets/images/gallery/img (22).jpg" alt="IDS" />
-            </a>
-
-            <a href="/wp-content/themes/myTheme/src/assets/images/gallery/img (23).jpg"
-                data-caption="Imagine Draughting Services">
-                <img src="/wp-content/themes/myTheme/src/assets/images/gallery/img (23).jpg" alt="IDS" />
-            </a>
-
-            <a href="/wp-content/themes/myTheme/src/assets/images/gallery/img (24).jpg"
-                data-caption="Imagine Draughting Services">
-                <img src="/wp-content/themes/myTheme/src/assets/images/gallery/img (24).jpg" alt="IDS" />
-            </a>
-
-            <a href="/wp-content/themes/myTheme/src/assets/images/gallery/img (25).jpg"
-                data-caption="Imagine Draughting Services">
-                <img src="/wp-content/themes/myTheme/src/assets/images/gallery/img (25).jpg" alt="IDS" />
-            </a>
-
-            <a href="/wp-content/themes/myTheme/src/assets/images/gallery/img (26).jpg"
-                data-caption="Imagine Draughting Services">
-                <img src="/wp-content/themes/myTheme/src/assets/images/gallery/img (26).jpg" alt="IDS" />
-            </a>
-
-            <a href="/wp-content/themes/myTheme/src/assets/images/gallery/img (27).jpg"
-                data-caption="Imagine Draughting Services">
-                <img src="/wp-content/themes/myTheme/src/assets/images/gallery/img (27).jpg" alt="IDS" />
-            </a>
-
-            <a href="/wp-content/themes/myTheme/src/assets/images/gallery/img (28).jpg"
-                data-caption="Imagine Draughting Services">
-                <img src="/wp-content/themes/myTheme/src/assets/images/gallery/img (28).jpg" alt="IDS" />
-            </a>
-
-            <a href="/wp-content/themes/myTheme/src/assets/images/gallery/img (29).jpg"
-                data-caption="Imagine Draughting Services">
-                <img src="/wp-content/themes/myTheme/src/assets/images/gallery/img (29).jpg" alt="IDS" />
-            </a>
-
-            <a href="/wp-content/themes/myTheme/src/assets/images/gallery/img (30).jpg"
-                data-caption="Imagine Draughting Services">
-                <img src="/wp-content/themes/myTheme/src/assets/images/gallery/img (30).jpg" alt="IDS" />
-            </a>
-
-            <a href="/wp-content/themes/myTheme/src/assets/images/gallery/img (31).jpg"
-                data-caption="Imagine Draughting Services">
-                <img src="/wp-content/themes/myTheme/src/assets/images/gallery/img (31).jpg" alt="IDS" />
-            </a>
-
-            <a href="/wp-content/themes/myTheme/src/assets/images/gallery/img (32).jpg"
-                data-caption="Imagine Draughting Services">
-                <img src="/wp-content/themes/myTheme/src/assets/images/gallery/img (32).jpg" alt="IDS" />
-            </a>
-
-            <a href="/wp-content/themes/myTheme/src/assets/images/gallery/img (33).jpg"
-                data-caption="Imagine Draughting Services">
-                <img src="/wp-content/themes/myTheme/src/assets/images/gallery/img (33).jpg" alt="IDS" />
-            </a>
-
-            <a href="/wp-content/themes/myTheme/src/assets/images/gallery/img (34).jpg"
-                data-caption="Imagine Draughting Services">
-                <img src="/wp-content/themes/myTheme/src/assets/images/gallery/img (34).jpg" alt="IDS" />
-            </a>
-
-            <a href="/wp-content/themes/myTheme/src/assets/images/gallery/img (35).jpg"
-                data-caption="Imagine Draughting Services">
-                <img src="/wp-content/themes/myTheme/src/assets/images/gallery/img (35).jpg" alt="IDS" />
-            </a>
-
-            <a href="/wp-content/themes/myTheme/src/assets/images/gallery/img (36).jpg"
-                data-caption="Imagine Draughting Services">
-                <img src="/wp-content/themes/myTheme/src/assets/images/gallery/img (36).jpg" alt="IDS" />
-            </a>
-
-            <a href="/wp-content/themes/myTheme/src/assets/images/gallery/img (37).jpg"
-                data-caption="Imagine Draughting Services">
-                <img src="/wp-content/themes/myTheme/src/assets/images/gallery/img (37).jpg" alt="IDS" />
-            </a>
-
-            <a href="/wp-content/themes/myTheme/src/assets/images/gallery/img (38).jpg"
-                data-caption="Imagine Draughting Services">
-                <img src="/wp-content/themes/myTheme/src/assets/images/gallery/img (38).jpg" alt="IDS" />
-            </a>
-
-            <a href="/wp-content/themes/myTheme/src/assets/images/gallery/img (39).jpg"
-                data-caption="Imagine Draughting Services">
-                <img src="/wp-content/themes/myTheme/src/assets/images/gallery/img (39).jpg" alt="IDS" />
-            </a>
-
-            <a href="/wp-content/themes/myTheme/src/assets/images/gallery/img (40).jpg"
-                data-caption="Imagine Draughting Services">
-                <img src="/wp-content/themes/myTheme/src/assets/images/gallery/img (40).jpg" alt="IDS" />
-            </a>
-
-            <a href="/wp-content/themes/myTheme/src/assets/images/gallery/img (41).jpg"
-                data-caption="Imagine Draughting Services">
-                <img src="/wp-content/themes/myTheme/src/assets/images/gallery/img (41).jpg" alt="IDS" />
-            </a>
-
-            <a href="/wp-content/themes/myTheme/src/assets/images/gallery/img (42).jpg"
-                data-caption="Imagine Draughting Services">
-                <img src="/wp-content/themes/myTheme/src/assets/images/gallery/img (42).jpg" alt="IDS" />
-            </a>
-
-            <a href="/wp-content/themes/myTheme/src/assets/images/gallery/img (43).jpg"
-                data-caption="Imagine Draughting Services">
-                <img src="/wp-content/themes/myTheme/src/assets/images/gallery/img (43).jpg" alt="IDS" />
-            </a>
-
-            <a href="/wp-content/themes/myTheme/src/assets/images/gallery/img (44).jpg"
-                data-caption="Imagine Draughting Services">
-                <img src="/wp-content/themes/myTheme/src/assets/images/gallery/img (44).jpg" alt="IDS" />
-            </a>
-
-            <a href="/wp-content/themes/myTheme/src/assets/images/gallery/img (45).jpg"
-                data-caption="Imagine Draughting Services">
-                <img src="/wp-content/themes/myTheme/src/assets/images/gallery/img (45).jpg" alt="IDS" />
-            </a>
-
-            <a href="/wp-content/themes/myTheme/src/assets/images/gallery/img (46).jpg"
-                data-caption="Imagine Draughting Services">
-                <img src="/wp-content/themes/myTheme/src/assets/images/gallery/img (46).jpg" alt="IDS" />
-            </a>
-
-            <a href="/wp-content/themes/myTheme/src/assets/images/gallery/img (47).jpg"
-                data-caption="Imagine Draughting Services">
-                <img src="/wp-content/themes/myTheme/src/assets/images/gallery/img (47).jpg" alt="IDS" />
-            </a>
-
-            <a href="/wp-content/themes/myTheme/src/assets/images/gallery/img (48).jpg"
-                data-caption="Imagine Draughting Services">
-                <img src="/wp-content/themes/myTheme/src/assets/images/gallery/img (48).jpg" alt="IDS" />
-            </a>
-
-            <a href="/wp-content/themes/myTheme/src/assets/images/gallery/img (49).jpg"
-                data-caption="Imagine Draughting Services">
-                <img src="/wp-content/themes/myTheme/src/assets/images/gallery/img (49).jpg" alt="IDS" />
-            </a>
-
-            <a href="/wp-content/themes/myTheme/src/assets/images/gallery/img (50).jpg"
-                data-caption="Imagine Draughting Services">
-                <img src="/wp-content/themes/myTheme/src/assets/images/gallery/img (50).jpg" alt="IDS" />
-            </a>
-
-            <a href="/wp-content/themes/myTheme/src/assets/images/gallery/img (51).jpg"
-                data-caption="Imagine Draughting Services">
-                <img src="/wp-content/themes/myTheme/src/assets/images/gallery/img (51).jpg" alt="IDS" />
-            </a>
-
-            <a href="/wp-content/themes/myTheme/src/assets/images/gallery/img (52).jpg"
-                data-caption="Imagine Draughting Services">
-                <img src="/wp-content/themes/myTheme/src/assets/images/gallery/img (52).jpg" alt="IDS" />
-            </a>
-
-            <a href="/wp-content/themes/myTheme/src/assets/images/gallery/img (53).jpg"
-                data-caption="Imagine Draughting Services">
-                <img src="/wp-content/themes/myTheme/src/assets/images/gallery/img (53).jpg" alt="IDS" />
-            </a>
-
-            <a href="/wp-content/themes/myTheme/src/assets/images/gallery/img (54).jpg"
-                data-caption="Imagine Draughting Services">
-                <img src="/wp-content/themes/myTheme/src/assets/images/gallery/img (54).jpg" alt="IDS" />
-            </a>
-
-            <a href="/wp-content/themes/myTheme/src/assets/images/gallery/img (55).jpg"
-                data-caption="Imagine Draughting Services">
-                <img src="/wp-content/themes/myTheme/src/assets/images/gallery/img (55).jpg" alt="IDS" />
-            </a>
-
-            <a href="/wp-content/themes/myTheme/src/assets/images/gallery/img (56).jpg"
-                data-caption="Imagine Draughting Services">
-                <img src="/wp-content/themes/myTheme/src/assets/images/gallery/img (56).jpg" alt="IDS" />
-            </a>
-
-            <a href="/wp-content/themes/myTheme/src/assets/images/gallery/img (57).jpg"
-                data-caption="Imagine Draughting Services">
-                <img src="/wp-content/themes/myTheme/src/assets/images/gallery/img (57).jpg" alt="IDS" />
-            </a>
-
-            <a href="/wp-content/themes/myTheme/src/assets/images/gallery/img (58).jpg"
-                data-caption="Imagine Draughting Services">
-                <img src="/wp-content/themes/myTheme/src/assets/images/gallery/img (58).jpg" alt="IDS" />
-            </a>
-
-            <a href="/wp-content/themes/myTheme/src/assets/images/gallery/img (59).jpg"
-                data-caption="Imagine Draughting Services">
-                <img src="/wp-content/themes/myTheme/src/assets/images/gallery/img (59).jpg" alt="IDS" />
-            </a>
-
-            <a href="/wp-content/themes/myTheme/src/assets/images/gallery/img (60).jpg"
-                data-caption="Imagine Draughting Services">
-                <img src="/wp-content/themes/myTheme/src/assets/images/gallery/img (60).jpg" alt="IDS" />
-            </a>
+                    <a href="/wp-content/themes/myTheme/src/assets/images/gallery/cad-conversion-img (4).jpg"
+                        data-caption="Imagine Draughting Services">
+                        <img src="/wp-content/themes/myTheme/src/assets/images/gallery/cad-conversion-thumbnail-3.jpg"
+                            alt="IDS" />
+                    </a>
+                </div>
+            </div>
+            <div class="gallery">
+                <h2 class="gallery__min-section-heading hidden-left">rendered images</h2>
+                <div class="gallery__inner-wrapper">
+                    <a href="/wp-content/themes/myTheme/src/assets/images/gallery/rendered-img (1).jpg"
+                        data-caption="Imagine Draughting Services">
+                        <img src="/wp-content/themes/myTheme/src/assets/images/gallery/rendered-img (1).jpg"
+                            alt="IDS" />
+                    </a>
+                    <a href="/wp-content/themes/myTheme/src/assets/images/gallery/rendered-img (2).jpg"
+                        data-caption="Imagine Draughting Services">
+                        <img src="/wp-content/themes/myTheme/src/assets/images/gallery/rendered-img (2).jpg"
+                            alt="IDS" />
+                    </a>
+                    <a href="/wp-content/themes/myTheme/src/assets/images/gallery/rendered-img (3).jpg"
+                        data-caption="Imagine Draughting Services">
+                        <img src="/wp-content/themes/myTheme/src/assets/images/gallery/rendered-img (3).jpg"
+                            alt="IDS" />
+                    </a>
+                    <a href="/wp-content/themes/myTheme/src/assets/images/gallery/rendered-img (4).jpg"
+                        data-caption="Imagine Draughting Services">
+                        <img src="/wp-content/themes/myTheme/src/assets/images/gallery/rendered-img (4).jpg"
+                            alt="IDS" />
+                    </a>
+                    <a href="/wp-content/themes/myTheme/src/assets/images/gallery/rendered-img (5).jpg"
+                        data-caption="Imagine Draughting Services">
+                        <img src="/wp-content/themes/myTheme/src/assets/images/gallery/rendered-img (5).jpg"
+                            alt="IDS" />
+                    </a>
+                    <a href="/wp-content/themes/myTheme/src/assets/images/gallery/rendered-img (6).jpg"
+                        data-caption="Imagine Draughting Services">
+                        <img src="/wp-content/themes/myTheme/src/assets/images/gallery/rendered-img (6).jpg"
+                            alt="IDS" />
+                    </a>
+                    <a href="/wp-content/themes/myTheme/src/assets/images/gallery/rendered-img (7).jpg"
+                        data-caption="Imagine Draughting Services">
+                        <img src="/wp-content/themes/myTheme/src/assets/images/gallery/rendered-img (7).jpg"
+                            alt="IDS" />
+                    </a>
+                    <a href="/wp-content/themes/myTheme/src/assets/images/gallery/rendered-img (8).jpg"
+                        data-caption="Imagine Draughting Services">
+                        <img src="/wp-content/themes/myTheme/src/assets/images/gallery/rendered-img (8).jpg"
+                            alt="IDS" />
+                    </a>
+                    <a href="/wp-content/themes/myTheme/src/assets/images/gallery/rendered-img (9).jpg"
+                        data-caption="Imagine Draughting Services">
+                        <img src="/wp-content/themes/myTheme/src/assets/images/gallery/rendered-img (9).jpg"
+                            alt="IDS" />
+                    </a>
+                    <a href="/wp-content/themes/myTheme/src/assets/images/gallery/rendered-img (10).jpg"
+                        data-caption="Imagine Draughting Services">
+                        <img src="/wp-content/themes/myTheme/src/assets/images/gallery/rendered-img (10).jpg"
+                            alt="IDS" />
+                    </a>
+                    <a href="/wp-content/themes/myTheme/src/assets/images/gallery/rendered-img (11).jpg"
+                        data-caption="Imagine Draughting Services">
+                        <img src="/wp-content/themes/myTheme/src/assets/images/gallery/rendered-img (11).jpg"
+                            alt="IDS" />
+                    </a>
+                    <a href="/wp-content/themes/myTheme/src/assets/images/gallery/rendered-img (12).jpg"
+                        data-caption="Imagine Draughting Services">
+                        <img src="/wp-content/themes/myTheme/src/assets/images/gallery/rendered-img (12).jpg"
+                            alt="IDS" />
+                    </a>
+                    <a href="/wp-content/themes/myTheme/src/assets/images/gallery/rendered-img (13).jpg"
+                        data-caption="Imagine Draughting Services">
+                        <img src="/wp-content/themes/myTheme/src/assets/images/gallery/rendered-img (13).jpg"
+                            alt="IDS" />
+                    </a>
+                    <a href="/wp-content/themes/myTheme/src/assets/images/gallery/rendered-img (14).jpg"
+                        data-caption="Imagine Draughting Services">
+                        <img src="/wp-content/themes/myTheme/src/assets/images/gallery/rendered-img (14).jpg"
+                            alt="IDS" />
+                    </a>
+                    <a href="/wp-content/themes/myTheme/src/assets/images/gallery/rendered-img (15).jpg"
+                        data-caption="Imagine Draughting Services">
+                        <img src="/wp-content/themes/myTheme/src/assets/images/gallery/rendered-img (15).jpg"
+                            alt="IDS" />
+                    </a>
+                    <a href="/wp-content/themes/myTheme/src/assets/images/gallery/rendered-img (16).jpg"
+                        data-caption="Imagine Draughting Services">
+                        <img src="/wp-content/themes/myTheme/src/assets/images/gallery/rendered-img (16).jpg"
+                            alt="IDS" />
+                    </a>
+                    <a href="/wp-content/themes/myTheme/src/assets/images/gallery/rendered-img (17).jpg"
+                        data-caption="Imagine Draughting Services">
+                        <img src="/wp-content/themes/myTheme/src/assets/images/gallery/rendered-img (17).jpg"
+                            alt="IDS" />
+                    </a>
+                    <a href="/wp-content/themes/myTheme/src/assets/images/gallery/rendered-img (18).jpg"
+                        data-caption="Imagine Draughting Services">
+                        <img src="/wp-content/themes/myTheme/src/assets/images/gallery/rendered-img (18).jpg"
+                            alt="IDS" />
+                    </a>
+                </div>
+            </div>
+            <div class="gallery">
+                <h2 class="gallery__min-section-heading hidden-left">reverse engineering</h2>
+                <div class="gallery__inner-wrapper">
+                    <a href="/wp-content/themes/myTheme/src/assets/images/gallery/reverse-img (1).jpg"
+                        data-caption="Imagine Draughting Services">
+                        <img src="/wp-content/themes/myTheme/src/assets/images/gallery/reverse-img (1).jpg" alt="IDS" />
+                    </a>
+                    <a href="/wp-content/themes/myTheme/src/assets/images/gallery/reverse-img (2).jpg"
+                        data-caption="Imagine Draughting Services">
+                        <img src="/wp-content/themes/myTheme/src/assets/images/gallery/reverse-img (2).jpg" alt="IDS" />
+                    </a>
+                    <a href="/wp-content/themes/myTheme/src/assets/images/gallery/reverse-img (3).jpg"
+                        data-caption="Imagine Draughting Services">
+                        <img src="/wp-content/themes/myTheme/src/assets/images/gallery/reverse-img (3).jpg" alt="IDS" />
+                    </a>
+                    <a href="/wp-content/themes/myTheme/src/assets/images/gallery/reverse-img (4).jpg"
+                        data-caption="Imagine Draughting Services">
+                        <img src="/wp-content/themes/myTheme/src/assets/images/gallery/reverse-img (4).jpg" alt="IDS" />
+                    </a>
+                    <a href="/wp-content/themes/myTheme/src/assets/images/gallery/reverse-img (5).jpg"
+                        data-caption="Imagine Draughting Services">
+                        <img src="/wp-content/themes/myTheme/src/assets/images/gallery/reverse-img (5).jpg" alt="IDS" />
+                    </a>
+                    <a href="/wp-content/themes/myTheme/src/assets/images/gallery/reverse-img (6).jpg"
+                        data-caption="Imagine Draughting Services">
+                        <img src="/wp-content/themes/myTheme/src/assets/images/gallery/reverse-img (6).jpg" alt="IDS" />
+                    </a>
+                    <a href="/wp-content/themes/myTheme/src/assets/images/gallery/reverse-img (7).jpg"
+                        data-caption="Imagine Draughting Services">
+                        <img src="/wp-content/themes/myTheme/src/assets/images/gallery/reverse-img (7).jpg" alt="IDS" />
+                    </a>
+                    <a href="/wp-content/themes/myTheme/src/assets/images/gallery/reverse-img (8).jpg"
+                        data-caption="Imagine Draughting Services">
+                        <img src="/wp-content/themes/myTheme/src/assets/images/gallery/reverse-img (8).jpg" alt="IDS" />
+                    </a>
+                    <a href="/wp-content/themes/myTheme/src/assets/images/gallery/reverse-img (9).jpg"
+                        data-caption="Imagine Draughting Services">
+                        <img src="/wp-content/themes/myTheme/src/assets/images/gallery/reverse-img (9).jpg" alt="IDS" />
+                    </a>
+                    <a href="/wp-content/themes/myTheme/src/assets/images/gallery/reverse-img (10).jpg"
+                        data-caption="Imagine Draughting Services">
+                        <img src="/wp-content/themes/myTheme/src/assets/images/gallery/reverse-img (10).jpg"
+                            alt="IDS" />
+                    </a>
+                    <a href="/wp-content/themes/myTheme/src/assets/images/gallery/reverse-img (11).jpg"
+                        data-caption="Imagine Draughting Services">
+                        <img src="/wp-content/themes/myTheme/src/assets/images/gallery/reverse-img (11).jpg"
+                            alt="IDS" />
+                    </a>
+                    <a href="/wp-content/themes/myTheme/src/assets/images/gallery/reverse-img (12).jpg"
+                        data-caption="Imagine Draughting Services">
+                        <img src="/wp-content/themes/myTheme/src/assets/images/gallery/reverse-img (12).jpg"
+                            alt="IDS" />
+                    </a>
+                </div>
+            </div>
+            <div class="gallery">
+                <h2 class="gallery__min-section-heading hidden-left">prototype</h2>
+                <div class="gallery__inner-wrapper">
+                    <a href="/wp-content/themes/myTheme/src/assets/images/gallery/prototype-img (1).jpg"
+                        data-caption="Imagine Draughting Services">
+                        <img src="/wp-content/themes/myTheme/src/assets/images/gallery/prototype-img (1).jpg"
+                            alt="IDS" />
+                    </a>
+                    <a href="/wp-content/themes/myTheme/src/assets/images/gallery/prototype-img (2).jpg"
+                        data-caption="Imagine Draughting Services">
+                        <img src="/wp-content/themes/myTheme/src/assets/images/gallery/prototype-img (2).jpg"
+                            alt="IDS" />
+                    </a>
+                    <a href="/wp-content/themes/myTheme/src/assets/images/gallery/prototype-img (3).jpg"
+                        data-caption="Imagine Draughting Services">
+                        <img src="/wp-content/themes/myTheme/src/assets/images/gallery/prototype-img (3).jpg"
+                            alt="IDS" />
+                    </a>
+                    <a href="/wp-content/themes/myTheme/src/assets/images/gallery/prototype-img (4).jpg"
+                        data-caption="Imagine Draughting Services">
+                        <img src="/wp-content/themes/myTheme/src/assets/images/gallery/prototype-img (4).jpg"
+                            alt="IDS" />
+                    </a>
+                    <a href="/wp-content/themes/myTheme/src/assets/images/gallery/prototype-img (5).jpg"
+                        data-caption="Imagine Draughting Services">
+                        <img src="/wp-content/themes/myTheme/src/assets/images/gallery/prototype-img (5).jpg"
+                            alt="IDS" />
+                    </a>
+                    <a href="/wp-content/themes/myTheme/src/assets/images/gallery/prototype-img (6).jpg"
+                        data-caption="Imagine Draughting Services">
+                        <img src="/wp-content/themes/myTheme/src/assets/images/gallery/prototype-img (6).jpg"
+                            alt="IDS" />
+                    </a>
+                    <a href="/wp-content/themes/myTheme/src/assets/images/gallery/prototype-img (7).jpg"
+                        data-caption="Imagine Draughting Services">
+                        <img src="/wp-content/themes/myTheme/src/assets/images/gallery/prototype-img (7).jpg"
+                            alt="IDS" />
+                    </a>
+                    <a href="/wp-content/themes/myTheme/src/assets/images/gallery/prototype-img (8).jpg"
+                        data-caption="Imagine Draughting Services">
+                        <img src="/wp-content/themes/myTheme/src/assets/images/gallery/prototype-img (8).jpg"
+                            alt="IDS" />
+                    </a>
+                    <a href="/wp-content/themes/myTheme/src/assets/images/gallery/prototype-img (9).jpg"
+                        data-caption="Imagine Draughting Services">
+                        <img src="/wp-content/themes/myTheme/src/assets/images/gallery/prototype-img (9).jpg"
+                            alt="IDS" />
+                    </a>
+                    <a href="/wp-content/themes/myTheme/src/assets/images/gallery/prototype-img (10).jpg"
+                        data-caption="Imagine Draughting Services">
+                        <img src="/wp-content/themes/myTheme/src/assets/images/gallery/prototype-img (10).jpg"
+                            alt="IDS" />
+                    </a>
+                    <a href="/wp-content/themes/myTheme/src/assets/images/gallery/prototype-img (11).jpg"
+                        data-caption="Imagine Draughting Services">
+                        <img src="/wp-content/themes/myTheme/src/assets/images/gallery/prototype-img (11).jpg"
+                            alt="IDS" />
+                    </a>
+                    <a href="/wp-content/themes/myTheme/src/assets/images/gallery/prototype-img (12).jpg"
+                        data-caption="Imagine Draughting Services">
+                        <img src="/wp-content/themes/myTheme/src/assets/images/gallery/prototype-img (12).jpg"
+                            alt="IDS" />
+                    </a>
+                </div>
+            </div>
         </div>
     </section>
 </main>

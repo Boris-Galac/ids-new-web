@@ -251,6 +251,26 @@
                         </div>
                     </figure>
                     <figure class="team-card">
+                        <div class="team-card__header">
+                            <img src="/wp-content/themes/myTheme/src/assets/images/avatars/honey.png"
+                                alt="profile image" class="team-card__avatar" />
+                        </div>
+                        <div class="team-card__body">
+                            <h3 class="team-card__heading-name">Honey</h3>
+                            <span class="team-card__role"> office pet </span>
+                        </div>
+                    </figure>
+                    <figure class="team-card">
+                        <div class="team-card__header">
+                            <img src="/wp-content/themes/myTheme/src/assets/images/avatars/peanut.png"
+                                alt="profile image" class="team-card__avatar" />
+                        </div>
+                        <div class="team-card__body">
+                            <h3 class="team-card__heading-name">Peanut</h3>
+                            <span class="team-card__role"> office pet </span>
+                        </div>
+                    </figure>
+                    <figure class="team-card">
                         <a href="https://forms.gle/zvH4VsZnmGmF7rLCA" target="_blank" class="team-card__header">
                             <img src="/wp-content/themes/myTheme/src/assets/images/avatars/hire-position-avatar.png"
                                 alt="profile image" class="team-card__avatar" />

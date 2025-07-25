@@ -15,7 +15,8 @@ function mytheme_load_scripts()
     wp_enqueue_script('baguettebox-js', 'https://cdnjs.cloudflare.com/ajax/libs/baguettebox.js/1.11.1/baguetteBox.min.js', array(), null, true);
 
     // ✅ Tvoj CSS
-    wp_enqueue_style('css-style', get_theme_file_uri('/dist/style.css'));
+    // wp_enqueue_style('css-style', get_theme_file_uri('/dist/style.css'));
+    wp_enqueue_style('css-style', get_theme_file_uri('/src/css/style.css'));
 
     // ✅ Tvoj JS - učitava se nakon svih ovisnosti
     wp_enqueue_script(

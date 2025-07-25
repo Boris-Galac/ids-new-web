@@ -1052,16 +1052,17 @@
                                     <span>Project description</span>
                                 </div>
                                 <p class="card-paragraph">
-                                    We have supported on Mechanical and Electrical projects over the last number of
-                                    years for this client.
+                                    We have provided ongoing support to this client on both Mechanical and Electrical
+                                    projects over the past several years.
                                     <br><br>
-                                    Should it be approval stage or as-built we support on progressing numerous types of
-                                    drawings. This may include numerous revisions while a project is undertaken and
-                                    meetings to discuss amendments.
+                                    Whether at the approval stage or final as-built documentation, we assist in
+                                    progressing a wide range of drawing types. This often involves multiple revisions
+                                    throughout the project lifecycle, as well as meetings to review and incorporate
+                                    required changes.
                                     <br><br>
-                                    Working closely with site representatives we take marked up drawings and implent
-                                    into CAD data. Should you have a project where 2D support is required, feel free to
-                                    get in touch today by email or phone.
+                                    By working closely with site representatives, we accurately translate marked-up
+                                    drawings into CAD formats. If your project requires reliable 2D drafting support,
+                                    don’t hesitate to contact us via email or phone today.
                                 </p>
                             </div>
                             <div class="project-card__body-row-tech-used">

@@ -380,12 +380,10 @@
                                 alt="3D work project" class="slide-img">
                             <img src="/wp-content/themes/myTheme/src/assets/images/home-gallery/slide-1-img-5.jpg"
                                 alt="3D work project" class="slide-img">
-                            <img src="/wp-content/themes/myTheme/src/assets/images/home-gallery/slide-1-img-6.jpg"
-                                alt="3D work project" class="slide-img">
+
                             <img src="/wp-content/themes/myTheme/src/assets/images/home-gallery/slide-1-img-7.jpg"
                                 alt="3D work project" class="slide-img">
                         </div>
-
                     </figure>
                     <figure class="mini-gallery__wrapper">
                         <div class="gallery">
@@ -399,8 +397,7 @@
                                 alt="3D work project" class="slide-img">
                             <img src="/wp-content/themes/myTheme/src/assets/images/home-gallery/slide-3-img-5.jpg"
                                 alt="3D work project" class="slide-img">
-                            <img src="/wp-content/themes/myTheme/src/assets/images/home-gallery/slide-3-img-6.jpg"
-                                alt="3D work project" class="slide-img">
+
                             <img src="/wp-content/themes/myTheme/src/assets/images/home-gallery/slide-3-img-7.jpg"
                                 alt="3D work project" class="slide-img">
                         </div>
@@ -417,8 +414,7 @@
                                 alt="3D work project" class="slide-img">
                             <img src="/wp-content/themes/myTheme/src/assets/images/home-gallery/slide-5-img-5.jpg"
                                 alt="3D work project" class="slide-img">
-                            <img src="/wp-content/themes/myTheme/src/assets/images/home-gallery/slide-5-img-6.jpg"
-                                alt="3D work project" class="slide-img">
+
                             <img src="/wp-content/themes/myTheme/src/assets/images/home-gallery/slide-5-img-7.jpg"
                                 alt="3D work project" class="slide-img">
                         </div>
@@ -435,8 +431,7 @@
                                 alt="3D work project" class="slide-img">
                             <img src="/wp-content/themes/myTheme/src/assets/images/home-gallery/slide-2-img-5.jpg"
                                 alt="3D work project" class="slide-img">
-                            <img src="/wp-content/themes/myTheme/src/assets/images/home-gallery/slide-2-img-6.jpg"
-                                alt="3D work project" class="slide-img">
+
                             <img src="/wp-content/themes/myTheme/src/assets/images/home-gallery/slide-2-img-7.jpg"
                                 alt="3D work project" class="slide-img">
                         </div>
@@ -453,8 +448,7 @@
                                 alt="3D work project" class="slide-img">
                             <img src="/wp-content/themes/myTheme/src/assets/images/home-gallery/slide-4-img-5.jpg"
                                 alt="3D work project" class="slide-img">
-                            <img src="/wp-content/themes/myTheme/src/assets/images/home-gallery/slide-4-img-6.jpg"
-                                alt="3D work project" class="slide-img">
+
                             <img src="/wp-content/themes/myTheme/src/assets/images/home-gallery/slide-4-img-7.jpg"
                                 alt="3D work project" class="slide-img">
                         </div>
@@ -471,8 +465,7 @@
                                 alt="3D work project" class="slide-img">
                             <img src="/wp-content/themes/myTheme/src/assets/images/home-gallery/slide-6-img-5.jpg"
                                 alt="3D work project" class="slide-img">
-                            <img src="/wp-content/themes/myTheme/src/assets/images/home-gallery/slide-6-img-6.jpg"
-                                alt="3D work project" class="slide-img">
+
                             <img src="/wp-content/themes/myTheme/src/assets/images/home-gallery/slide-6-img-7.jpg"
                                 alt="3D work project" class="slide-img">
                         </div>
@@ -489,8 +482,7 @@
                                 alt="3D work project" class="slide-img">
                             <img src="/wp-content/themes/myTheme/src/assets/images/home-gallery/slide-7-img-5.jpg"
                                 alt="3D work project" class="slide-img">
-                            <img src="/wp-content/themes/myTheme/src/assets/images/home-gallery/slide-7-img-6.jpg"
-                                alt="3D work project" class="slide-img">
+
                             <img src="/wp-content/themes/myTheme/src/assets/images/home-gallery/slide-7-img-7.jpg"
                                 alt="3D work project" class="slide-img">
                         </div>
@@ -507,8 +499,7 @@
                                 alt="3D work project" class="slide-img">
                             <img src="/wp-content/themes/myTheme/src/assets/images/home-gallery/slide-8-img-5.jpg"
                                 alt="3D work project" class="slide-img">
-                            <img src="/wp-content/themes/myTheme/src/assets/images/home-gallery/slide-8-img-6.jpg"
-                                alt="3D work project" class="slide-img">
+
                             <img src="/wp-content/themes/myTheme/src/assets/images/home-gallery/slide-8-img-7.jpg"
                                 alt="3D work project" class="slide-img">
                         </div>
@@ -684,205 +675,7 @@
                         alt="dream team designers" title="dream team designers" aria-label="dream team designers" />
                 </h2>
                 <div class="dream-team__inner-wrapper">
-                    <article class="dream-team-card">
-                        <div class="dream-team-card__inner">
-                            <div class="dream-team-card__front">
-                                <div class="dream-team-card__header">
-                                    <img src="/wp-content/themes/myTheme/src/assets/images/dream-team-designers/deepak.png"
-                                        alt="deepak" />
-                                </div>
-                                <div class="dream-team-card__title">
-                                    <div class="dream-team-card__name">deepak gupta</div>
-                                    <div class="dream-team-card__expertise">
-                                        <div class="dream-team-card__expertise-line"></div>
-                                        3d solidworks expert
-                                    </div>
-                                </div>
-                                <div class="dream-team-card__body">
-                                    <span class="award">Ranked #1 Worldwide in Solidworks Troubleshooting</span>
-                                    <ul>
-                                        <li class="dream-team-card__body-li">
-                                            <img src="/wp-content/themes/myTheme/src/assets/images/dream-team-designers/check-designers-icon.svg"
-                                                aria-hidden="true" />
-                                            Certified Solidworks Expert.
-                                        </li>
-                                        <li class="dream-team-card__body-li">
-                                            <img src="/wp-content/themes/myTheme/src/assets/images/dream-team-designers/check-designers-icon.svg"
-                                                aria-hidden="true" />
-                                            Certified DriveWorks Solo Professional.
-                                        </li>
-                                        <li class="dream-team-card__body-li">
-                                            <img src="/wp-content/themes/myTheme/src/assets/images/dream-team-designers/check-designers-icon.svg"
-                                                aria-hidden="true" />
-                                            Certified DriveWorksXpress Associate.
-                                        </li>
-                                        <li class="dream-team-card__body-li">
-                                            <img src="/wp-content/themes/myTheme/src/assets/images/dream-team-designers/check-designers-icon.svg"
-                                                aria-hidden="true" />
-                                            Certified Solidworks Sales Professional.
-                                        </li>
-                                        <li class="dream-team-card__body-li">
-                                            <img src="/wp-content/themes/myTheme/src/assets/images/dream-team-designers/check-designers-icon.svg"
-                                                aria-hidden="true" />
-                                            25 Years+ Experience
-                                        </li>
-                                    </ul>
-                                </div>
-                                <div class="dream-team-card__footer">
-                                    <div class="dream-team-card__footer-paragraph">
-                                        Software used
-                                    </div>
-                                    <img src="/wp-content/themes/myTheme/src/assets/images/dream-team-designers/dss.svg"
-                                        alt="dss" />
-                                </div>
-                            </div>
-                            <div class="dream-team-card__back">
-                                <ul class="dream-team__designer-work">
-                                    <li><img src="/wp-content/themes/myTheme/src/assets/images/dream-team-designers/deepak (1).png"
-                                            alt="project work"></li>
-                                    <li class="deepak-middle--work"><img
-                                            src="/wp-content/themes/myTheme/src/assets/images/dream-team-designers/deepak (2).png"
-                                            alt="project work"></li>
-                                    <li><img src="/wp-content/themes/myTheme/src/assets/images/dream-team-designers/deepak (3).png"
-                                            alt="project work"></li>
-                                </ul>
-                            </div>
-                        </div>
-                    </article>
-                    <article class="dream-team-card">
-                        <div class="dream-team-card__inner">
-                            <div class="dream-team-card__front">
-                                <div class="dream-team-card__header">
-                                    <img src="/wp-content/themes/myTheme/src/assets/images/dream-team-designers/mohammad.png"
-                                        alt="mohammad" />
-                                </div>
-                                <div class="dream-team-card__title">
-                                    <div class="dream-team-card__name">
-                                        Mohammad Safarabadi
-                                    </div>
-                                    <div class="dream-team-card__expertise">
-                                        <div class="dream-team-card__expertise-line"></div>
-                                        3D inventor Expert
-                                    </div>
-                                </div>
-                                <div class="dream-team-card__body">
-                                    <ul>
-                                        <li class="dream-team-card__body-li">
-                                            <img src="/wp-content/themes/myTheme/src/assets/images/dream-team-designers/check-designers-icon.svg"
-                                                aria-hidden="true" />
-                                            Over 55,000 followers online
-                                        </li>
-                                        <li class="dream-team-card__body-li">
-                                            <img src="/wp-content/themes/myTheme/src/assets/images/dream-team-designers/check-designers-icon.svg"
-                                                aria-hidden="true" />
-                                            Written over 10 published books on engineering
-                                            software
-                                        </li>
-                                        <li class="dream-team-card__body-li">
-                                            <img src="/wp-content/themes/myTheme/src/assets/images/dream-team-designers/check-designers-icon.svg"
-                                                aria-hidden="true" />
-                                            High level Inventor user
-                                        </li>
-                                        <li class="dream-team-card__body-li">
-                                            <img src="/wp-content/themes/myTheme/src/assets/images/dream-team-designers/check-designers-icon.svg"
-                                                aria-hidden="true" />
-                                            Designed, constructed, and ownership of a patent
-                                        </li>
-                                        <li class="dream-team-card__body-li">
-                                            <img src="/wp-content/themes/myTheme/src/assets/images/dream-team-designers/check-designers-icon.svg"
-                                                aria-hidden="true" />
-                                            20 Years+ Experience
-                                        </li>
-                                    </ul>
-                                </div>
-                                <div class="dream-team-card__footer">
-                                    <div class="dream-team-card__footer-paragraph">
-                                        Software used
-                                    </div>
-                                    <img src="/wp-content/themes/myTheme/src/assets/images/dream-team-designers/f-360.svg"
-                                        alt="dss" />
-                                </div>
-                            </div>
-                            <div class="dream-team-card__back">
-                                <ul class="dream-team__designer-work">
-                                    <li><img src="/wp-content/themes/myTheme/src/assets/images/dream-team-designers/mohammad (1).jpg"
-                                            alt="project work"></li>
-                                    <li><img src="/wp-content/themes/myTheme/src/assets/images/dream-team-designers/mohammad (2).jpg"
-                                            alt="project work"></li>
-                                    <li><img src="/wp-content/themes/myTheme/src/assets/images/dream-team-designers/mohammad (3).jpg"
-                                            alt="project work"></li>
-                                </ul>
-                            </div>
-                        </div>
-                    </article>
-                    <article class="dream-team-card">
-                        <div class="dream-team-card__inner">
-                            <div class="dream-team-card__front">
-                                <div class="dream-team-card__header">
-                                    <img src="/wp-content/themes/myTheme/src/assets/images/dream-team-designers/andrei.png"
-                                        alt="andrei" />
-                                </div>
-                                <div class="dream-team-card__title">
-                                    <div class="dream-team-card__name">andrei garbu</div>
-                                    <div class="dream-team-card__expertise">
-                                        <div class="dream-team-card__expertise-line"></div>
-                                        3D SOLIDWORKS & KEYSHOT EXPERT
-                                    </div>
-                                </div>
-                                <div class="dream-team-card__body">
-                                    <span class="award">Ranked #1 Europe in Keyshot and Animation</span>
-                                    <ul>
-                                        <li class="dream-team-card__body-li">
-                                            <img src="/wp-content/themes/myTheme/src/assets/images/dream-team-designers/check-designers-icon.svg"
-                                                aria-hidden="true" />
-                                            Multiple Freelance Project Compled
-                                        </li>
-                                        <li class="dream-team-card__body-li">
-                                            <img src="/wp-content/themes/myTheme/src/assets/images/dream-team-designers/check-designers-icon.svg"
-                                                aria-hidden="true" />
-                                            High level Solidworks user
-                                        </li>
-                                        <li class="dream-team-card__body-li">
-                                            <img src="/wp-content/themes/myTheme/src/assets/images/dream-team-designers/check-designers-icon.svg"
-                                                aria-hidden="true" />
-                                            High level Keyshot user
-                                        </li>
-                                        <li class="dream-team-card__body-li">
-                                            <img src="/wp-content/themes/myTheme/src/assets/images/dream-team-designers/check-designers-icon.svg"
-                                                aria-hidden="true" />
-                                            Over 4,000 followers online
-                                        </li>
-                                        <li class="dream-team-card__body-li">
-                                            <img src="/wp-content/themes/myTheme/src/assets/images/dream-team-designers/check-designers-icon.svg"
-                                                aria-hidden="true" />
-                                            15 Years+ Experience
-                                        </li>
-                                    </ul>
-                                </div>
-                                <div class="dream-team-card__footer">
-                                    <div class="dream-team-card__footer-paragraph">
-                                        Software used
-                                    </div>
-                                    <img src="/wp-content/themes/myTheme/src/assets/images/dream-team-designers/dss.svg"
-                                        alt="dss" />
-                                </div>
-                            </div>
-                            <div class="dream-team-card__back">
-                                <ul class="dream-team__designer-work">
-                                    <li><img src="/wp-content/themes/myTheme/src/assets/images/dream-team-designers/garbu-1.png"
-                                            alt="project work">
-                                    </li>
-                                    <li><img src="/wp-content/themes/myTheme/src/assets/images/dream-team-designers/garbu-2.png"
-                                            alt="project work">
-                                    </li>
-                                    <li><img src="/wp-content/themes/myTheme/src/assets/images/dream-team-designers/garbu-3.png"
-                                            alt="project work">
-                                    </li>
-                                </ul>
-                            </div>
-                        </div>
-                    </article>
-                    <article class="dream-team-card">
+                    <article class="dream-team-card" aria-label="alex cotterill-drew">
                         <div class="dream-team-card__inner">
                             <div class="dream-team-card__front">
                                 <div class="dream-team-card__header">
@@ -956,7 +749,139 @@
                             </div>
                         </div>
                     </article>
-                    <article class="dream-team-card">
+                    <article class="dream-team-card" aria-label="andrei garbu">
+                        <div class="dream-team-card__inner">
+                            <div class="dream-team-card__front">
+                                <div class="dream-team-card__header">
+                                    <img src="/wp-content/themes/myTheme/src/assets/images/dream-team-designers/andrei.png"
+                                        alt="andrei" />
+                                </div>
+                                <div class="dream-team-card__title">
+                                    <div class="dream-team-card__name">andrei garbu</div>
+                                    <div class="dream-team-card__expertise">
+                                        <div class="dream-team-card__expertise-line"></div>
+                                        3D SOLIDWORKS & KEYSHOT EXPERT
+                                    </div>
+                                </div>
+                                <div class="dream-team-card__body">
+                                    <span class="award">Ranked #1 Europe in Keyshot and Animation</span>
+                                    <ul>
+                                        <li class="dream-team-card__body-li">
+                                            <img src="/wp-content/themes/myTheme/src/assets/images/dream-team-designers/check-designers-icon.svg"
+                                                aria-hidden="true" />
+                                            Multiple Freelance Project Compled
+                                        </li>
+                                        <li class="dream-team-card__body-li">
+                                            <img src="/wp-content/themes/myTheme/src/assets/images/dream-team-designers/check-designers-icon.svg"
+                                                aria-hidden="true" />
+                                            High level Solidworks user
+                                        </li>
+                                        <li class="dream-team-card__body-li">
+                                            <img src="/wp-content/themes/myTheme/src/assets/images/dream-team-designers/check-designers-icon.svg"
+                                                aria-hidden="true" />
+                                            High level Keyshot user
+                                        </li>
+                                        <li class="dream-team-card__body-li">
+                                            <img src="/wp-content/themes/myTheme/src/assets/images/dream-team-designers/check-designers-icon.svg"
+                                                aria-hidden="true" />
+                                            Over 4,000 followers online
+                                        </li>
+                                        <li class="dream-team-card__body-li">
+                                            <img src="/wp-content/themes/myTheme/src/assets/images/dream-team-designers/check-designers-icon.svg"
+                                                aria-hidden="true" />
+                                            15 Years+ Experience
+                                        </li>
+                                    </ul>
+                                </div>
+                                <div class="dream-team-card__footer">
+                                    <div class="dream-team-card__footer-paragraph">
+                                        Software used
+                                    </div>
+                                    <img src="/wp-content/themes/myTheme/src/assets/images/dream-team-designers/dss.svg"
+                                        alt="dss" />
+                                </div>
+                            </div>
+                            <div class="dream-team-card__back">
+                                <ul class="dream-team__designer-work">
+                                    <li><img src="/wp-content/themes/myTheme/src/assets/images/dream-team-designers/garbu-1.png"
+                                            alt="project work">
+                                    </li>
+                                    <li><img src="/wp-content/themes/myTheme/src/assets/images/dream-team-designers/garbu-2.png"
+                                            alt="project work">
+                                    </li>
+                                    <li><img src="/wp-content/themes/myTheme/src/assets/images/dream-team-designers/garbu-3.png"
+                                            alt="project work">
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+                    </article>
+                    <article class="dream-team-card" aria-label="deepak">
+                        <div class="dream-team-card__inner">
+                            <div class="dream-team-card__front">
+                                <div class="dream-team-card__header">
+                                    <img src="/wp-content/themes/myTheme/src/assets/images/dream-team-designers/deepak.png"
+                                        alt="deepak" />
+                                </div>
+                                <div class="dream-team-card__title">
+                                    <div class="dream-team-card__name">deepak gupta</div>
+                                    <div class="dream-team-card__expertise">
+                                        <div class="dream-team-card__expertise-line"></div>
+                                        3d solidworks expert
+                                    </div>
+                                </div>
+                                <div class="dream-team-card__body">
+                                    <span class="award">Ranked #1 Worldwide in Solidworks Troubleshooting</span>
+                                    <ul>
+                                        <li class="dream-team-card__body-li">
+                                            <img src="/wp-content/themes/myTheme/src/assets/images/dream-team-designers/check-designers-icon.svg"
+                                                aria-hidden="true" />
+                                            Certified Solidworks Expert.
+                                        </li>
+                                        <li class="dream-team-card__body-li">
+                                            <img src="/wp-content/themes/myTheme/src/assets/images/dream-team-designers/check-designers-icon.svg"
+                                                aria-hidden="true" />
+                                            Certified DriveWorks Solo Professional.
+                                        </li>
+                                        <li class="dream-team-card__body-li">
+                                            <img src="/wp-content/themes/myTheme/src/assets/images/dream-team-designers/check-designers-icon.svg"
+                                                aria-hidden="true" />
+                                            Certified DriveWorksXpress Associate.
+                                        </li>
+                                        <li class="dream-team-card__body-li">
+                                            <img src="/wp-content/themes/myTheme/src/assets/images/dream-team-designers/check-designers-icon.svg"
+                                                aria-hidden="true" />
+                                            Certified Solidworks Sales Professional.
+                                        </li>
+                                        <li class="dream-team-card__body-li">
+                                            <img src="/wp-content/themes/myTheme/src/assets/images/dream-team-designers/check-designers-icon.svg"
+                                                aria-hidden="true" />
+                                            25 Years+ Experience
+                                        </li>
+                                    </ul>
+                                </div>
+                                <div class="dream-team-card__footer">
+                                    <div class="dream-team-card__footer-paragraph">
+                                        Software used
+                                    </div>
+                                    <img src="/wp-content/themes/myTheme/src/assets/images/dream-team-designers/dss.svg"
+                                        alt="dss" />
+                                </div>
+                            </div>
+                            <div class="dream-team-card__back">
+                                <ul class="dream-team__designer-work">
+                                    <li><img src="/wp-content/themes/myTheme/src/assets/images/dream-team-designers/deepak (1).png"
+                                            alt="project work"></li>
+                                    <li class="deepak-middle--work"><img
+                                            src="/wp-content/themes/myTheme/src/assets/images/dream-team-designers/deepak (2).png"
+                                            alt="project work"></li>
+                                    <li><img src="/wp-content/themes/myTheme/src/assets/images/dream-team-designers/deepak (3).png"
+                                            alt="project work"></li>
+                                </ul>
+                            </div>
+                        </div>
+                    </article>
+                    <article class="dream-team-card" aria-label="jonathan brazeau">
                         <div class="dream-team-card__inner">
                             <div class="dream-team-card__front">
                                 <div class="dream-team-card__header">
@@ -1027,7 +952,7 @@
                             </div>
                         </div>
                     </article>
-                    <article class="dream-team-card">
+                    <article class="dream-team-card" aria-label="mani ram">
                         <div class="dream-team-card__inner">
                             <div class="dream-team-card__front">
                                 <div class="dream-team-card__header">
@@ -1092,6 +1017,72 @@
                                     <li><img src="/wp-content/themes/myTheme/src/assets/images/dream-team-designers/mani (3).webp"
                                             alt="project work">
                                     </li>
+                                </ul>
+                            </div>
+                        </div>
+                    </article>
+                    <article class="dream-team-card" aria-label="Mohammad Safarabadi">
+                        <div class="dream-team-card__inner">
+                            <div class="dream-team-card__front">
+                                <div class="dream-team-card__header">
+                                    <img src="/wp-content/themes/myTheme/src/assets/images/dream-team-designers/mohammad.png"
+                                        alt="mohammad" />
+                                </div>
+                                <div class="dream-team-card__title">
+                                    <div class="dream-team-card__name">
+                                        Mohammad Safarabadi
+                                    </div>
+                                    <div class="dream-team-card__expertise">
+                                        <div class="dream-team-card__expertise-line"></div>
+                                        3D inventor Expert
+                                    </div>
+                                </div>
+                                <div class="dream-team-card__body">
+                                    <ul>
+                                        <li class="dream-team-card__body-li">
+                                            <img src="/wp-content/themes/myTheme/src/assets/images/dream-team-designers/check-designers-icon.svg"
+                                                aria-hidden="true" />
+                                            Over 55,000 followers online
+                                        </li>
+                                        <li class="dream-team-card__body-li">
+                                            <img src="/wp-content/themes/myTheme/src/assets/images/dream-team-designers/check-designers-icon.svg"
+                                                aria-hidden="true" />
+                                            Written over 10 published books on engineering
+                                            software
+                                        </li>
+                                        <li class="dream-team-card__body-li">
+                                            <img src="/wp-content/themes/myTheme/src/assets/images/dream-team-designers/check-designers-icon.svg"
+                                                aria-hidden="true" />
+                                            High level Inventor user
+                                        </li>
+                                        <li class="dream-team-card__body-li">
+                                            <img src="/wp-content/themes/myTheme/src/assets/images/dream-team-designers/check-designers-icon.svg"
+                                                aria-hidden="true" />
+                                            Designed, constructed, and ownership of a patent
+                                        </li>
+                                        <li class="dream-team-card__body-li">
+                                            <img src="/wp-content/themes/myTheme/src/assets/images/dream-team-designers/check-designers-icon.svg"
+                                                aria-hidden="true" />
+                                            20 Years+ Experience
+                                        </li>
+                                    </ul>
+                                </div>
+                                <div class="dream-team-card__footer">
+                                    <div class="dream-team-card__footer-paragraph">
+                                        Software used
+                                    </div>
+                                    <img src="/wp-content/themes/myTheme/src/assets/images/dream-team-designers/f-360.svg"
+                                        alt="dss" />
+                                </div>
+                            </div>
+                            <div class="dream-team-card__back">
+                                <ul class="dream-team__designer-work">
+                                    <li><img src="/wp-content/themes/myTheme/src/assets/images/dream-team-designers/mohammad (1).jpg"
+                                            alt="project work"></li>
+                                    <li><img src="/wp-content/themes/myTheme/src/assets/images/dream-team-designers/mohammad (2).jpg"
+                                            alt="project work"></li>
+                                    <li><img src="/wp-content/themes/myTheme/src/assets/images/dream-team-designers/mohammad (3).jpg"
+                                            alt="project work"></li>
                                 </ul>
                             </div>
                         </div>
