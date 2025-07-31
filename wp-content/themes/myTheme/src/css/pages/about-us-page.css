@@ -73,15 +73,15 @@
   display: grid;
   place-items: center;
   max-width: 1000px;
-  box-shadow: 0 0 10px white;
-  mask: linear-gradient(90deg, transparent, white 5%, white 95%, transparent);
+  /* box-shadow: 0 0 10px white; */
+  /* mask: linear-gradient(90deg, transparent, white 5%, white 95%, transparent);
   -webkit-mask: linear-gradient(
     90deg,
     transparent,
     black 33%,
     black 65%,
     transparent
-  );
+  ); */
   height: 930px;
 }
 .about-us-page .swiper {
@@ -92,8 +92,6 @@
   background-position: center;
   background-size: cover;
   width: 300px;
-  /* height: 300px; */
-  /* border-radius: 50px; */
   overflow: hidden;
   transition: 1s;
 }
@@ -112,6 +110,14 @@
 .swiper-slide-prev {
   /* position: absolute; */
   /* z-index: 10000; */
+}
+.swiper-button-next,
+.swiper-button-prev {
+  color: #fff !important;
+  -webkit-transform: translateY(10rem);
+  -ms-transform: translateY(10rem);
+  transform: translateY(3rem);
+  z-index: 100;
 }
 /* timeline card */
 .timeline-card__body {
@@ -153,6 +159,7 @@
   position: absolute;
   top: 42%;
   transition: 0.5s;
+  user-select: none;
 }
 .timeline-gif {
   border-radius: 100%;
@@ -162,7 +169,7 @@
 .swiper-button-prev {
   color: #fff !important;
   z-index: 100;
-  background-color: white;
+  transform: translateY(10rem);
 }
 .timeline-card--shares li:first-child {
   background-color: white;
@@ -184,7 +191,7 @@
     display: grid;
     place-items: center;
     max-width: 1000px;
-    box-shadow: 0 0 10px white;
+    /* box-shadow: 0 0 10px white; */
     border-radius: 10px;
     mask: unset;
     height: 930px;
@@ -197,5 +204,13 @@
   .about-us-page-section .page-heading-wrapper {
     margin-inline: auto;
     margin-top: 70px;
+  }
+  .swiper-button-next,
+  .swiper-button-prev {
+    color: #fff !important;
+    -webkit-transform: translateY(10rem);
+    -ms-transform: translateY(10rem);
+    transform: translateY(16rem);
+    z-index: 100;
   }
 }

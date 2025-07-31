@@ -148,6 +148,11 @@
                         <img src="/wp-content/themes/myTheme/src/assets/images/gallery/cad-conversion-thumbnail-3.jpg"
                             alt="IDS" />
                     </a>
+                    <a href="/wp-content/themes/myTheme/src/assets/images/gallery/cad-conversion-img (5).jpg"
+                        data-caption="Imagine Draughting Services">
+                        <img src="/wp-content/themes/myTheme/src/assets/images/gallery/cad-conversion-thumbnail-4.jpg"
+                            alt="IDS" />
+                    </a>
                 </div>
             </div>
             <div class="gallery">

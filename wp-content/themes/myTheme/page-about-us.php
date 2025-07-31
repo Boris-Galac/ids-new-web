@@ -246,9 +246,8 @@
                         <img class="cog"
                             src="/wp-content/themes/myTheme/src/assets/images/about-us-timeline/cog-img.png"
                             alt="cog" />
-                        <!-- <div class="swiper-button-next"></div>
-        <div class="swiper-button-prev"></div> -->
-                        <div class="swiper-pagination"></div>
+                        <div class="swiper-button-next"></div>
+                        <div class="swiper-button-prev"></div>
                     </div>
                 </div>
             </div>
