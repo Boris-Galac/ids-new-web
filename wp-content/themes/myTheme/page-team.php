@@ -252,6 +252,16 @@
                     </figure>
                     <figure class="team-card">
                         <div class="team-card__header">
+                            <img src="/wp-content/themes/myTheme/src/assets/images/avatars/mark.png" alt="profile image"
+                                class="team-card__avatar" />
+                        </div>
+                        <div class="team-card__body">
+                            <h3 class="team-card__heading-name">mark muncaster</h3>
+                            <span class="team-card__role"> design engineer </span>
+                        </div>
+                    </figure>
+                    <figure class="team-card">
+                        <div class="team-card__header">
                             <img src="/wp-content/themes/myTheme/src/assets/images/avatars/honey.png"
                                 alt="profile image" class="team-card__avatar" />
                         </div>

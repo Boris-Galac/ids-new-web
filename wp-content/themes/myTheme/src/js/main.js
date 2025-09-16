@@ -311,7 +311,7 @@ const gsapAnimations = [
   { selector: ".agency-card-logo", y: -50 },
   { selector: ".blog-article", x: -50 },
   { selector: ".team-card", x: -50 },
-  { selector: ".gallery__inner-wrapper > *", x: -50 },
+  // { selector: ".gallery__inner-wrapper > *", x: -50 },
 ];
 
 gsapAnimations.forEach(({ selector, x = 0, y = 0 }) => {

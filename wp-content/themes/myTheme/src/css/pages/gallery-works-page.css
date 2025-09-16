@@ -1,18 +1,21 @@
 .gallery-works-main {
   background-color: var(--black);
 }
-.gallery-black-overlay {
-  background-color: var(--black);
-  position: fixed;
-  inset: 0;
-  z-index: -5;
-}
 .gallery-works-main .page-banner {
   background: linear-gradient(to right, #2f2926, #626262);
 }
 .gallery-works-inner-wrapper {
   columns: 150px;
   gap: 0;
+}
+.gallery-works--overlay {
+  position: fixed;
+  inset: 0;
+  height: 100%;
+  width: 100%;
+  z-index: -1;
+  background: url("/wp-content/themes/myTheme/src/assets/images/brochure-overlay.jpg")
+    no-repeat center center/cover;
 }
 .gallery-works-inner-wrapper a {
   transition: 0.8s;
@@ -46,7 +49,7 @@
 }
 .gallery__outter-wrapper .gallery img {
   width: 100%;
-  height: 100%;
+  /* height: 100%; */
   border-radius: 6px;
   outline: 2px solid white;
   /* aspect-ratio: 9/16; */

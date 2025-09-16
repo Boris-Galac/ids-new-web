@@ -30,7 +30,7 @@ p {
 .hero__paragraph {
   text-transform: uppercase;
   line-height: 120%;
-  color: hsl(0, 0%, 38%);
+  color: var(--white);
   font-weight: 300;
   font-size: 14px;
 }
