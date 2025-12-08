@@ -204,7 +204,6 @@
   .header__contact-info img {
     aspect-ratio: 1;
     border-radius: 50%;
-    background-color: var(--white);
     padding-inline: 2px;
   }
   .header.active {

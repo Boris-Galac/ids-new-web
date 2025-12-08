@@ -133,227 +133,284 @@
         </div>
     </section>
     <!-- ðŸ‘‰ ABOUT-US section -->
-    <section class="about-us" id="about">
+    <section class="about-us-section ">
         <div class="container">
-            <div class="about-us__wrapper">
+            <div class="about-us-inner-container">
                 <h2 class="h2-heading" data-h2-heading="who we are">
                     who we are
                     <span class="heading-line"></span>
                 </h2>
-                <div class="about-us__inner-wrapper">
-                    <div class="about-us__row hidden-left">
-                        <p class="body-paragraph">
-                            Are you looking for 3D CAD Services or 2D CAD Services. Do you
-                            have a personal or business project that needs Draughting?
-                            Imagine Draughting Services are a solution that can branch
-                            onto your current team and can provide detailed drawings for
-                            manufacture, marketing use.
-                        </p>
-                        <div class="about-us__btn-wrapper">
-                            <a href="<?php echo site_url('team') ?>"
-                                class="btn meet-the-team-btn secondary-btn--hover">Meet the team
-                                <img src="/wp-content/themes/myTheme/src/assets/icons/meat-the-team-icon.svg"
-                                    alt="team" /></a>
-                            <a href="https://wa.me/447588449656" target="_blank"
-                                class="btn request-free-quote-btn secondary-btn--hover">Request free quote
-                                <img src="/wp-content/themes/myTheme/src/assets/icons/rewuest-free-quote-icon.svg"
-                                    alt="whatsapp" /></a>
+                <div class="about-us-section-wrapper">
+                    <div class="about-us-content-box-wrapper">
+                        <div class="about-us-content-box">
+                            <video src="/wp-content/themes/myTheme/src/assets/balcon-video.mp4" preload="metadata"
+                                class="about-us-content-box-promo-video" playsinline autoplay muted loop
+                                crossorigin="anonymous" aria-label="Promo video"></video>
+                            <button class="about-us-video-play-btn">
+                                <img src="/wp-content/themes/myTheme/src/assets/images/who-are-we-play-btn.svg"
+                                    alt="play button" />
+                            </button>
                         </div>
-                    </div>
-                    <div class="about-us__row hidden-right">
-                        <img src="/wp-content/themes/myTheme/src/assets/icons/about-us-video-play-icon.svg"
-                            alt="play icon" class="play-the-video--icon">
-                        <video class="play-the-video" src="/wp-content/themes/myTheme/src/assets/balcon-video.mp4" muted
-                            autoplay loop></video>
-                    </div>
-                </div>
-                <div class="reviews">
-                    <h3 class="h3-heading">google reviews</h3>
-                    <div class="reviews__wrapper">
-                        <!-- Swiper -->
-                        <div class="swiper reviews-swiper">
-                            <div class="swiper-wrapper">
-                                <article class="review swiper-slide">
-                                    <div class="review__header">
-                                        <div class="review__col">
-                                            <img src="/wp-content/themes/myTheme/src/assets/images/google-review-avatar.png"
-                                                alt="avatar image" class="img-contain" />
-                                            <div class="review__info-wrapper">
-                                                <div class="review__name">Tom Berry</div>
-                                                <div class="review__date">14 december 2023</div>
-                                            </div>
-                                        </div>
-                                        <div class="review__col">
-                                            <img src="/wp-content/themes/myTheme/src/assets/icons/google-reviw-icon.png"
-                                                alt="google icon" />
-                                        </div>
-                                    </div>
-                                    <div class="review__stars">
-                                        <img src="/wp-content/themes/myTheme/src/assets/images/google-review-stars-illustration.png"
-                                            alt="review stars" />
-                                    </div>
-                                    <p class="body-paragraph">
-                                        I have used Ryan & Imagine Draughting Services for around 5
-                                        years now for various mechanical service drawings including,
-                                        adaptation of existing drawings and production of new, all
-                                        produced from my hand sketches and turned around in a timely
-                                        manner, excellent service provided.
-                                    </p>
-                                </article>
-                                <article class="review swiper-slide">
-                                    <div class="review__header">
-                                        <div class="review__col">
-                                            <img src="/wp-content/themes/myTheme/src/assets/images/Frame 687.svg"
-                                                alt="avatar image" class="img-contain" />
-                                            <div class="review__info-wrapper">
-                                                <div class="review__name">Guy Cook</div>
-                                                <div class="review__date">12 october 2023</div>
-                                            </div>
-                                        </div>
-                                        <div class="review__col">
-                                            <img src="/wp-content/themes/myTheme/src/assets/icons/google-reviw-icon.png"
-                                                alt="google icon" />
-                                        </div>
-                                    </div>
-                                    <div class="review__stars">
-                                        <img src="/wp-content/themes/myTheme/src/assets/images/google-review-stars-illustration.png"
-                                            alt="review stars" />
-                                    </div>
-                                    <p class="body-paragraph">
-                                        From start to finish, the service was brilliant. My designer Alex was patient,
-                                        professional and went above and beyond to get my project going. I canâ€™t
-                                        recommend
-                                        Imagine Draughting Services enough. I will 100% be using their services again on
-                                        my
-                                        future projects.
-                                    </p>
-                                </article>
-                                <article class="review swiper-slide">
-                                    <div class="review__header">
-                                        <div class="review__col">
-                                            <img src="/wp-content/themes/myTheme/src/assets/images/Frame 688.png"
-                                                alt="avatar image" class="img-contain" />
-                                            <div class="review__info-wrapper">
-                                                <div class="review__name">Andy Spencer</div>
-                                                <div class="review__date">8 february 2023</div>
-                                            </div>
-                                        </div>
-                                        <div class="review__col">
-                                            <img src="/wp-content/themes/myTheme/src/assets/icons/google-reviw-icon.png"
-                                                alt="google icon" />
-                                        </div>
-                                    </div>
-                                    <div class="review__stars">
-                                        <img src="/wp-content/themes/myTheme/src/assets/images/google-review-stars-illustration.png"
-                                            alt="review stars" />
-                                    </div>
-                                    <p class="body-paragraph">
-                                        I used Ryan and his team recently to help design a plant room layout we needed
-                                        for
-                                        an upcoming project, excellent service and communication throughout the process.
-                                        Boni, who drew up our design was brillaint, highly reccomend!
-                                    </p>
-                                </article>
-                                <article class="review swiper-slide">
-                                    <div class="review__header">
-                                        <div class="review__col">
-                                            <img src="/wp-content/themes/myTheme/src/assets/images/Frame 689.svg"
-                                                alt="avatar image" class="img-contain" />
-                                            <div class="review__info-wrapper">
-                                                <div class="review__name">Steve Warren</div>
-                                                <div class="review__date">21 september 2023</div>
-                                            </div>
-                                        </div>
-                                        <div class="review__col">
-                                            <img src="/wp-content/themes/myTheme/src/assets/icons/google-reviw-icon.png"
-                                                alt="google icon" />
-                                        </div>
-                                    </div>
-                                    <div class="review__stars">
-                                        <img src="/wp-content/themes/myTheme/src/assets/images/google-review-stars-illustration.png"
-                                            alt="review stars" />
-                                    </div>
-                                    <p class="body-paragraph">
-                                        Very quick turn around, value for money and an all round good service, they will
-                                        hopefully be long term suppliers!
-                                    </p>
-                                </article>
-                                <article class="review swiper-slide">
-                                    <div class="review__header">
-                                        <div class="review__col">
-                                            <img src="/wp-content/themes/myTheme/src/assets/images/Frame 689 (1).svg"
-                                                alt="avatar image" class="img-contain" />
-                                            <div class="review__info-wrapper">
-                                                <div class="review__name">Jane Lucas</div>
-                                                <div class="review__date">18 march 2023</div>
-                                            </div>
-                                        </div>
-                                        <div class="review__col">
-                                            <img src="/wp-content/themes/myTheme/src/assets/icons/google-reviw-icon.png"
-                                                alt="google icon" />
-                                        </div>
-                                    </div>
-                                    <div class="review__stars">
-                                        <img src="/wp-content/themes/myTheme/src/assets/images/google-review-stars-illustration.png"
-                                            alt="review stars" />
-                                    </div>
-                                    <p class="body-paragraph">
-                                        This was our 3rd or 4th time using Imagine Draughting Services and the service
-                                        was
-                                        great as usual. Boni produced perfect drawings within a day, and our various
-                                        amendments were made within hours. Very happy customers.
-                                    </p>
-                                </article>
-                                <article class="review swiper-slide">
-                                    <div class="review__header">
-                                        <div class="review__col">
-                                            <img src="/wp-content/themes/myTheme/src/assets/images/Frame 6.svg"
-                                                alt="avatar image" class="img-contain" />
-                                            <div class="review__info-wrapper">
-                                                <div class="review__name">Zoe White</div>
-                                                <div class="review__date">9 january 2022</div>
-                                            </div>
-                                        </div>
-                                        <div class="review__col">
-                                            <img src="/wp-content/themes/myTheme/src/assets/icons/google-reviw-icon.png"
-                                                alt="google icon" />
-                                        </div>
-                                    </div>
-                                    <div class="review__stars">
-                                        <img src="/wp-content/themes/myTheme/src/assets/images/google-review-stars-illustration.png"
-                                            alt="review stars" />
-                                    </div>
-                                    <p class="body-paragraph">
-                                        Brilliant service received by Ryan and Mark. They were really professional,
-                                        helpful,
-                                        quick and very responsive to changes i needed when navigating this area of
-                                        submitting planning permission for my commercial property.
-                                    </p>
-                                </article>
+                        <div
+                            class="about-us-content-box about-us-content-box--meet-the-team about-us-content-box-fixed-size ">
+                            <div class="about-us-content-box-header">
+                                <img src="/wp-content/themes/myTheme/src/assets/images/who-are-we-box-logo.png"
+                                    alt="" />
+                                <span class="about-us-content-box-header-headline">meet the team</span>
+                            </div>
+                            <div class="about-us-content-box-body">
+                                <img src="/wp-content/themes/myTheme/src/assets/images/who-are-we-meet-the-team-person.png"
+                                    alt="team" />
+                                <img src="/wp-content/themes/myTheme/src/assets/images/who-are-we-meet-the-team-logo.png"
+                                    class="about-us-content-box--meet-the-team-logo" />
+                                <a href="<?php echo site_url('team') ?>"><img
+                                        src="/wp-content/themes/myTheme/src/assets/icons/who-are-we-whatsapp-arrow-icon.svg"
+                                        class="icon who-are-we-whatsapp-arrow-icon" alt="" /></a>
                             </div>
                         </div>
-                        <a href="https://tinyurl.com/y5ckf7da" target="_blank" class="google-review__counts">
-                            <div class="google-review__row">
-                                <div class="google-review__google">
-                                    <img src="/wp-content/themes/myTheme/src/assets/icons/google-reviw-icon.png"
-                                        alt="google" />
-                                    Google
-                                </div>
-                                <div class="google-review__stars-box">
-                                    <img src="/wp-content/themes/myTheme/src/assets/images/google-review-stars-illustration.png"
-                                        alt="">
-                                </div>
-                                <div class="google-review__link">
-                                    <img class="icon"
-                                        src="/wp-content/themes/myTheme/src/assets/icons/external-link-icon.svg"
-                                        alt="external link icon" />
+                        <div
+                            class="about-us-content-box about-us-content-box--google-stats about-us-content-box-fixed-size ">
+                            <div class="about-us-content-box-header">
+                                <img src="/wp-content/themes/myTheme/src/assets/icons/about-us-google-review-google-icon.svg"
+                                    alt="google" />
+                                <span class="google-reviews-bar-count">5/5</span>
+                            </div>
+                            <img src="/wp-content/themes/myTheme/src/assets/images/who-we-are-since-2014.svg"
+                                alt="since 2014" class="who-we-are-since-2014-heading" />
+                            <div class="about-us-content-box-body about-us-content-box--google-stats-body">
+                                <span class="google-reviews-bar-reviews-count">95 reviews</span>
+                                <div class="about-us-content-box--google-stats-footer">
+                                    <img src="/wp-content/themes/myTheme/src/assets/images/who-we-are-google-review-stars-illustration.png"
+                                        class="icon" alt="stars" />
+                                    <a href="https://tinyurl.com/y5ckf7da" target="_blank">
+                                        <img src="/wp-content/themes/myTheme/src/assets/icons/external-icon.svg"
+                                            class="icon external-icon" alt="external icon" />
+                                    </a>
                                 </div>
                             </div>
-                            <div class="google-review__row">
-                                <div class="google-review__counts-box">5/5 stars</div>
-                                <div class="google-review__reviews-box">83 reviews</div>
+                        </div>
+                        <div
+                            class="about-us-content-box about-us-content-box-row--whatsapp about-us-content-box-fixed-size ">
+                            <div class="about-us-content-box-header">
+                                <img src="/wp-content/themes/myTheme/src/assets/images/who-are-we-box-logo.png"
+                                    alt="" />
+                                <div class="about-us-content-box-header-headline-wrapper">
+                                    <span class="about-us-content-box-header-first-headline">WhatsApp</span>
+                                    <span class="about-us-content-box-header-headline">contact</span>
+                                </div>
                             </div>
-                        </a>
+                            <div class="about-us-content-box-body">
+                                <img src="/wp-content/themes/myTheme/src/assets/images/who-are-we-whatsapp-logo.png"
+                                    alt="whatsapp" class="who-are-we-whatsapp-logo" />
+                                <a href="https://wa.me/447588449656" class="btn about-us-request-quote-btn">
+                                    request a free quote
+                                    <img src="/wp-content/themes/myTheme/src/assets/icons/who-are-we-whatsapp-arrow-icon.svg"
+                                        class="icon" />
+                                </a>
+                            </div>
+                        </div>
+                        <div class="about-us-content-box about-us-content-box--google-reviews">
+                            <div class="swiper about-us-google-review-bar">
+                                <div class="swiper-wrapper">
+                                    <article class="swiper-slide about-us-google-review">
+                                        <div class="about-us-google-review-header">
+                                            <img src="/wp-content/themes/myTheme/src/assets/icons/about-us-google-review-google-icon.svg"
+                                                alt="google" class="icon about-us-google-review-google-icon" />
+                                            <div class="about-us-google-review-header-first-row">
+                                                <img src="/wp-content/themes/myTheme/src/assets/icons/about-us-google-review-avatar-1.svg"
+                                                    class="icon about-us-google-review-header-avatar" />
+                                                <div class="about-us-google-review-header-name-wrapper">
+                                                    <span class="about-us-google-review-header-name">Kate
+                                                        Richardson</span>
+                                                    <span class="about-us-google-review-header-date">18 February
+                                                        2025</span>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="about-us-google-review-body">
+                                            <p class="about-us-google-review-paragraph">
+                                                This company have been very helpful over the years.
+                                                They are willing to go the extra mile to provide an
+                                                excellent service. The drawings they produce are
+                                                very good and if alterations need to be made they do
+                                                so quickly and without complaint.
+                                            </p>
+                                        </div>
+                                        <img src="/wp-content/themes/myTheme/src/assets/images/who-we-are-google-review-stars-illustration.png"
+                                            alt="stars" class="icon about-us-google-review-stars-illustration" />
+                                    </article>
+                                    <article class="swiper-slide about-us-google-review">
+                                        <div class="about-us-google-review-header">
+                                            <img src="/wp-content/themes/myTheme/src/assets/icons/about-us-google-review-google-icon.svg"
+                                                alt="google" class="icon about-us-google-review-google-icon" />
+                                            <div class="about-us-google-review-header-first-row">
+                                                <img src="/wp-content/themes/myTheme/src/assets/icons/about-us-google-review-avatar-2.svg"
+                                                    class="icon about-us-google-review-header-avatar" />
+                                                <div class="about-us-google-review-header-name-wrapper">
+                                                    <span class="about-us-google-review-header-name">Tom Berry</span>
+                                                    <span class="about-us-google-review-header-date">14 November
+                                                        2024</span>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="about-us-google-review-body">
+                                            <p class="about-us-google-review-paragraph">
+                                                I have used Ryan & Imagine Draughting Services for
+                                                around 5 years now for various mechanical service
+                                                drawings including, adaptation of existing drawings
+                                                and production of new, all produced from my hand
+                                                sketches and turned around in a timely manner,
+                                                excellent service provided.
+                                            </p>
+                                        </div>
+                                        <img src="/wp-content/themes/myTheme/src/assets/images/who-we-are-google-review-stars-illustration.png"
+                                            alt="stars" class="icon about-us-google-review-stars-illustration" />
+                                    </article>
+                                    <article class="swiper-slide about-us-google-review">
+                                        <div class="about-us-google-review-header">
+                                            <img src="/wp-content/themes/myTheme/src/assets/icons/about-us-google-review-google-icon.svg"
+                                                alt="google" class="icon about-us-google-review-google-icon" />
+                                            <div class="about-us-google-review-header-first-row">
+                                                <img src="/wp-content/themes/myTheme/src/assets/icons/about-us-google-review-avatar-5.svg"
+                                                    class="icon about-us-google-review-header-avatar" />
+                                                <div class="about-us-google-review-header-name-wrapper">
+                                                    <span class="about-us-google-review-header-name">Peter
+                                                        Durrans</span>
+                                                    <span class="about-us-google-review-header-date">23 June 2023</span>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="about-us-google-review-body">
+                                            <p class="about-us-google-review-paragraph">
+                                                Imagine Draughting recently produced some As Built
+                                                drawings for us, the service was excellent. They
+                                                turned around our request over a weekend. From the
+                                                initial appointment, to having the opportunity to
+                                                review and approve the drawings prior to final issue
+                                                was first class. I will definitely be using their
+                                                services again and would recommend their services to
+                                                anyone.
+                                            </p>
+                                        </div>
+                                        <img src="/wp-content/themes/myTheme/src/assets/images/who-we-are-google-review-stars-illustration.png"
+                                            alt="stars" class="icon about-us-google-review-stars-illustration" />
+                                    </article>
+                                    <article class="swiper-slide about-us-google-review">
+                                        <div class="about-us-google-review-header">
+                                            <img src="/wp-content/themes/myTheme/src/assets/icons/about-us-google-review-google-icon.svg"
+                                                alt="google" class="icon about-us-google-review-google-icon" />
+                                            <div class="about-us-google-review-header-first-row">
+                                                <img src="/wp-content/themes/myTheme/src/assets/icons/about-us-google-review-avatar-3.svg"
+                                                    class="icon about-us-google-review-header-avatar" />
+                                                <div class="about-us-google-review-header-name-wrapper">
+                                                    <span class="about-us-google-review-header-name">Guy Cook</span>
+                                                    <span class="about-us-google-review-header-date">30 September
+                                                        2023</span>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="about-us-google-review-body">
+                                            <p class="about-us-google-review-paragraph">
+                                                From start to finish, the service was brilliant. My
+                                                designer Alex was patient, professional and went
+                                                above and beyond to get my project going. I can’t
+                                                recommend Imagine Draughting Services enough. I will
+                                                100% be using their services again on my future
+                                                projects.
+                                            </p>
+                                        </div>
+                                        <img src="/wp-content/themes/myTheme/src/assets/images/who-we-are-google-review-stars-illustration.png"
+                                            alt="stars" class="icon about-us-google-review-stars-illustration" />
+                                    </article>
+                                    <article class="swiper-slide about-us-google-review">
+                                        <div class="about-us-google-review-header">
+                                            <img src="/wp-content/themes/myTheme/src/assets/icons/about-us-google-review-google-icon.svg"
+                                                alt="google" class="icon about-us-google-review-google-icon" />
+                                            <div class="about-us-google-review-header-first-row">
+                                                <img src="/wp-content/themes/myTheme/src/assets/icons/about-us-google-review-avatar-6.svg"
+                                                    class="icon about-us-google-review-header-avatar" />
+                                                <div class="about-us-google-review-header-name-wrapper">
+                                                    <span class="about-us-google-review-header-name">Andy Spencer</span>
+                                                    <span class="about-us-google-review-header-date">6 October
+                                                        2025</span>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="about-us-google-review-body">
+                                            <p class="about-us-google-review-paragraph">
+                                                I used Ryan and his team recently to help design a
+                                                plant room layout we needed for an upcoming project,
+                                                excellent service and communication throughout the
+                                                process. Boni, who drew up our design was brillaint,
+                                                highly reccomend!
+                                            </p>
+                                        </div>
+                                        <img src="/wp-content/themes/myTheme/src/assets/images/who-we-are-google-review-stars-illustration.png"
+                                            alt="stars" class="icon about-us-google-review-stars-illustration" />
+                                    </article>
+                                    <article class="swiper-slide about-us-google-review">
+                                        <div class="about-us-google-review-header">
+                                            <img src="/wp-content/themes/myTheme/src/assets/icons/about-us-google-review-google-icon.svg"
+                                                alt="google" class="icon about-us-google-review-google-icon" />
+                                            <div class="about-us-google-review-header-first-row">
+                                                <img src="/wp-content/themes/myTheme/src/assets/icons/about-us-google-review-avatar-7.svg"
+                                                    class="icon about-us-google-review-header-avatar" />
+                                                <div class="about-us-google-review-header-name-wrapper">
+                                                    <span class="about-us-google-review-header-name">Zoe White</span>
+                                                    <span class="about-us-google-review-header-date">18 September
+                                                        2025</span>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="about-us-google-review-body">
+                                            <p class="about-us-google-review-paragraph">
+                                                Brilliant service received by Ryan and Mark. They
+                                                were really professional, helpful, quick and very
+                                                responsive to changes i needed when navigating this
+                                                area of submitting planning permission for my
+                                                commercial property.
+                                            </p>
+                                        </div>
+                                        <img src="/wp-content/themes/myTheme/src/assets/images/who-we-are-google-review-stars-illustration.png"
+                                            alt="stars" class="icon about-us-google-review-stars-illustration" />
+                                    </article>
+                                </div>
+                                <!-- <div class="swiper-button-next"></div>
+                    <div class="swiper-button-prev"></div> -->
+                                <div class="swiper-pagination"></div>
+                            </div>
+                        </div>
+                        <div
+                            class="about-us-content-box about-us-content-box--software about-us-content-box-fixed-size ">
+                            <div class="about-us-content-box-header-headline-wrapper">
+                                <span class="about-us-content-box-header-first-headline">Software</span>
+                                <span class="about-us-content-box-header-headline">WE USE</span>
+                            </div>
+                            <div class="about-us-content-box-body">
+                                <img src="/wp-content/themes/myTheme/src/assets/images/about-us-tech-stack-img.svg"
+                                    alt="technologies">
+                            </div>
+                        </div>
+                        <div
+                            class="about-us-content-box about-us-content-box--example-drawing about-us-content-box-fixed-size ">
+                            <img src="/wp-content/themes/myTheme/src/assets/images/about-us-example-drawing-img.jpg"
+                                alt="image">
+                            <button class="zoom-in-btn">
+                                <img src="/wp-content/themes/myTheme/src/assets/icons/zoom-in-btn-icon.svg"
+                                    alt="zoom icon" class="icon">
+                            </button>
+                        </div>
+                        <div
+                            class="about-us-content-box about-us-content-box--designers-locations about-us-content-box-fixed-size ">
+                            <div class="about-us-content-box-header-headline-wrapper">
+                                <span class="about-us-content-box-header-first-headline">DESIGNERS</span>
+                                <span class="about-us-content-box-header-headline">LOCATIONS</span>
+                            </div>
+
+                            <img src="/wp-content/themes/myTheme/src/assets/images/about-us-designers-locations-img.png"
+                                alt="designers locations" class="about-us-designers-locations-img">
+
+                        </div>
                     </div>
                 </div>
             </div>

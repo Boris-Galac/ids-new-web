@@ -1101,6 +1101,65 @@
                             </a>
                         </div>
                     </article>
+                    <article class="project-card card--styling hidden-right">
+                        <div class="project-card__header">
+                            <h3 class="card-heading">Shaw Pipework & Fabrication Ltd</h3>
+                            <img src="/wp-content/themes/myTheme/src/assets/images/project-card-logo.png"
+                                alt="ids logo" />
+                        </div>
+                        <div class="project-card__body">
+                            <div class="projects-card__body-row">
+                                <div
+                                    class="project-card__body-row-inner-header project-card__body-row-inner-header--mb-16">
+                                    <img src="/wp-content/themes/myTheme/src/assets/icons/project-info-icon.svg"
+                                        class="icon" alt="info icon" />
+                                    <span>Project description</span>
+                                </div>
+                                <p class="card-paragraph">
+                                    Imagine Draughting Services provided full 3D CAD design and fabrication drawings for
+                                    a small steel structure used as a warehouse and pallet cover. <br><br>Working
+                                    closely
+                                    with the client and structural engineer, the team developed an accurate 3D model and
+                                    detailed documentation package ready for manufacturing — ensuring precision,
+                                    efficiency, and structural integrity throughout the project.
+                                </p>
+                            </div>
+                            <div class="project-card__body-row-tech-used">
+                                <div class="project-card__body-row-inner-header">
+                                    <img src="/wp-content/themes/myTheme/src/assets/icons/project-tech-used-icon.svg"
+                                        alt="tech icon" class="icon" />
+                                    <span>Technologies used</span>
+                                </div>
+                                <div>
+
+                                    <img src="/wp-content/themes/myTheme/src/assets/images/tech-solidworks.png"
+                                        class="icon" alt="tech icon" />
+                                </div>
+                            </div>
+                        </div>
+                        <div class="project-card__footer-gallery gallery">
+                            <a href="/wp-content/themes/myTheme/src/assets/images/project-gallery/img (63).jpg"
+                                data-caption="Allcool">
+                                <img src="/wp-content/themes/myTheme/src/assets/images/project-gallery/img (63).jpg"
+                                    alt="IDS" />
+                            </a>
+                            <a href="/wp-content/themes/myTheme/src/assets/images/project-gallery/img (64).jpg"
+                                data-caption="Allcool">
+                                <img src="/wp-content/themes/myTheme/src/assets/images/project-gallery/img (64).jpg"
+                                    alt="IDS" />
+                            </a>
+                            <a href="/wp-content/themes/myTheme/src/assets/images/project-gallery/img (65).jpg"
+                                data-caption="Allcool">
+                                <img src="/wp-content/themes/myTheme/src/assets/images/project-gallery/img (65).jpg"
+                                    alt="IDS" />
+                            </a>
+                            <a href="/wp-content/themes/myTheme/src/assets/images/project-gallery/img (66).jpg"
+                                data-caption="Allcool">
+                                <img src="/wp-content/themes/myTheme/src/assets/images/project-gallery/img (66).jpg"
+                                    alt="IDS" />
+                            </a>
+                        </div>
+                    </article>
                 </div>
             </div>
         </div>

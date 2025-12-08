@@ -117,6 +117,107 @@ document.querySelector(".back-to-top-btn")?.addEventListener("click", () => {
 
 // ✅ Gallery slide (index page)
 if (document.querySelector(".main")?.classList.contains("index-main")) {
+  // SWIPER
+
+  var swiper = new Swiper(".about-us-google-review-bar", {
+    slidesPerView: 1,
+    spaceBetween: 30,
+    loop: true,
+    autoplay: {
+      delay: 3000,
+    },
+    speed: 1500,
+    pagination: {
+      el: ".swiper-pagination",
+      clickable: true,
+    },
+    navigation: {
+      nextEl: ".swiper-button-next",
+      prevEl: ".swiper-button-prev",
+    },
+  });
+
+  // MODALS: VIDEO + TECH IMAGE
+  document.addEventListener("DOMContentLoaded", () => {
+    /* --------------------------------------
+     VIDEO MODAL
+  -------------------------------------- */
+    const playBtn = document.querySelector(".about-us-video-play-btn");
+
+    if (playBtn) {
+      const videoModal = document.createElement("div");
+      videoModal.classList.add("video-modal-overlay");
+      videoModal.id = "videoModal";
+
+      videoModal.innerHTML = `
+      <div class="video-modal-content">
+        <button class="video-modal-close" aria-label="Close video">&times;</button>
+        <video id="modalVideo" src="/wp-content/themes/myTheme/src/assets/balcon-video.mp4" playsinline controls></video>
+      </div>
+    `;
+
+      document.body.append(videoModal);
+
+      const modalVideo = videoModal.querySelector("#modalVideo");
+      const closeVideoBtn = videoModal.querySelector(".video-modal-close");
+
+      const openVideoModal = () => {
+        videoModal.classList.add("active");
+        modalVideo.currentTime = 0;
+        modalVideo.play();
+      };
+
+      const closeVideoModal = () => {
+        videoModal.classList.remove("active");
+        modalVideo.pause();
+        modalVideo.currentTime = 0;
+      };
+
+      playBtn.addEventListener("click", openVideoModal);
+      closeVideoBtn.addEventListener("click", closeVideoModal);
+
+      videoModal.addEventListener("click", (e) => {
+        if (e.target === videoModal) closeVideoModal();
+      });
+    }
+
+    /* --------------------------------------
+     TECH STACK IMAGE MODAL (UPDATED IMG)
+  -------------------------------------- */
+    const techTrigger = document.querySelector(
+      ".about-us-content-box--example-drawing"
+    );
+
+    if (techTrigger) {
+      const techModal = document.createElement("div");
+      techModal.classList.add("video-modal-overlay"); // isti overlay kao video modal
+      techModal.id = "techModal";
+
+      techModal.innerHTML = `
+      <div class="video-modal-content">
+        <button class="video-modal-close" aria-label="Close image">&times;</button>
+        <img src="/wp-content/themes/myTheme/src/assets/images/about-us-example-drawing-img.jpg" 
+             alt="example drawing"
+             style="width:100%; border-radius:10px;">
+      </div>
+    `;
+
+      document.body.append(techModal);
+
+      const closeTechBtn = techModal.querySelector(".video-modal-close");
+
+      const openTechModal = () => techModal.classList.add("active");
+      const closeTechModal = () => techModal.classList.remove("active");
+
+      techTrigger.addEventListener("click", openTechModal);
+      closeTechBtn.addEventListener("click", closeTechModal);
+
+      techModal.addEventListener("click", (e) => {
+        if (e.target === techModal) closeTechModal();
+      });
+    }
+  });
+
   const galleries = document.querySelectorAll(".gallery");
   const intervalTime = 3000;
 

@@ -1,7 +1,7 @@
 /* HERO section */
 
 .hero {
-  padding-bottom: 6rem;
+  /* padding-bottom: 6rem; */
 }
 .hero__credits {
   padding: 0.5rem;
@@ -418,7 +418,7 @@
 /* MINI GALLERY section */
 
 .mini-gallery {
-  padding-bottom: 15rem;
+  padding-block: 10rem;
 }
 .mini-gallery .container {
   width: min(100% - 32px, 1400px);

@@ -34,35 +34,26 @@
                                 Below you can see some of examples:
                             </p>
                         </div>
-                        <figure class="services-page-section__gallery gallery">
-                            <a href="/wp-content/themes/myTheme/src/assets/images/services-page-imgs/conversion-img (1).png"
+                        <figure
+                            class="services-page-section__gallery gallery services-page-section__gallery--conversion-desktop">
+                            <a href="/wp-content/themes/myTheme/src/assets/images/services-page-imgs/cad-conversion-img (1)-img.jpg"
                                 data-caption="Imagine Draughting Services">
                                 <img src="/wp-content/themes/myTheme/src/assets/images/services-page-imgs/conversion-img (1).png"
                                     alt="IDS" />
                             </a>
-                            <a href="/wp-content/themes/myTheme/src/assets/images/services-page-imgs/conversion-img (4).png"
+                            <a href="/wp-content/themes/myTheme/src/assets/images/services-page-imgs/cad-conversion-img (2)-img.jpg"
                                 data-caption="Imagine Draughting Services">
-                                <img src="/wp-content/themes/myTheme/src/assets/images/services-page-imgs/conversion-img (4).png"
+                                <img src="/wp-content/themes/myTheme/src/assets/images/services-page-imgs/conversion-img (2).jpg"
                                     alt="IDS" />
                             </a>
-                            <a href="/wp-content/themes/myTheme/src/assets/images/services-page-imgs/conversion-img (6).png"
+                            <a href="/wp-content/themes/myTheme/src/assets/images/services-page-imgs/conversion-img (3)-img.png"
                                 data-caption="Imagine Draughting Services">
-                                <img src="/wp-content/themes/myTheme/src/assets/images/services-page-imgs/conversion-img (6).png"
+                                <img src="/wp-content/themes/myTheme/src/assets/images/services-page-imgs/conversion-img (3).jpg"
                                     alt="IDS" />
                             </a>
-                            <a href="/wp-content/themes/myTheme/src/assets/images/services-page-imgs/conversion-img (2).png"
+                            <a href="/wp-content/themes/myTheme/src/assets/images/services-page-imgs/conversion-img (4)-img.png"
                                 data-caption="Imagine Draughting Services">
-                                <img src="/wp-content/themes/myTheme/src/assets/images/services-page-imgs/conversion-img (2).png"
-                                    alt="IDS" />
-                            </a>
-                            <a href="/wp-content/themes/myTheme/src/assets/images/services-page-imgs/conversion-img (3).png"
-                                data-caption="Imagine Draughting Services">
-                                <img src="/wp-content/themes/myTheme/src/assets/images/services-page-imgs/conversion-img (3).png"
-                                    alt="IDS" />
-                            </a>
-                            <a href="/wp-content/themes/myTheme/src/assets/images/services-page-imgs/conversion-img (5).png"
-                                data-caption="Imagine Draughting Services">
-                                <img src="/wp-content/themes/myTheme/src/assets/images/services-page-imgs/conversion-img (5).png"
+                                <img src="/wp-content/themes/myTheme/src/assets/images/services-page-imgs/conversion-img (4).jpg"
                                     alt="IDS" />
                             </a>
                         </figure>

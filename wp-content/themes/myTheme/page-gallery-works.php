@@ -9,541 +9,1089 @@
             <img src="/wp-content/themes/myTheme/src/assets/images/gallery-works-page-gallery.gif "
                 alt="gallery illustration" class="page-banner-img img-contain" />
         </figure>
-        <div class="gallery-works-page__container container subpage-margin-block">
-            <div class="gallery-works-wrapper">
-                <div class="page-heading-wrapper">
-                    <h2 class="page-h2-heading">Selection of our work</h2>
-                    <p class="page-subheading">
-                        See below a selection of our work at Imagine Draughting Services
-                        Ltd. Should you require specific examples contact us and we’ll
-                        email you a sample from our archives.
-                    </p>
+
+        <div class="gallery__outter-wrapper main-gallery">
+            <div class="container">
+                <div class="web-gallery">
+                    <div class="web-gallery-intro-text">
+                        <p class="web-gallery-heading">Selection of our work</p>
+                        <p>
+                            See below a selection of our work at Imagine Draughting Services
+                            Ltd. Should you require specific examples contact us and we’ll
+                            email you a sample from our archives.
+                        </p>
+                    </div>
+                    <div class="accordion gallery-accordion">
+                        <h2 class="accordion-header">
+                            <button class="accordion-button">
+                                <img src="/wp-content/themes/myTheme/src/assets/images/2d-drawings.gif"
+                                    alt="gallery-tab-icon" />
+                                <span>Imagine Draughting Services</span>
+                            </button>
+                        </h2>
+                        <div class="accordion-body">
+                            <h3 class="accordion-service-heading">
+                                <span>2D CAD SERVICES</span>
+                                <div class="accordion-contact-bar">
+                                    <div class="accordion-contact-bar-row">
+                                        <span><img
+                                                src="/wp-content/themes/myTheme/src/assets/images/new-gallery/accordion-gallery-phone-icon.svg"
+                                                alt="phone" class="img-contain" />01253 543259
+                                        </span>
+                                        <span><img
+                                                src="/wp-content/themes/myTheme/src/assets/images/new-gallery/accordion-gallery-gmail-icon.svg"
+                                                alt="mail" class="img-contain" />info@imagine-dsuk.com
+                                        </span>
+                                        <span><img
+                                                src="/wp-content/themes/myTheme/src/assets/images/new-gallery/accordion-gallery-web-icon.svg"
+                                                alt="web planet" class="img-contain" />www.imagine-dsuk.com
+                                        </span>
+                                    </div>
+                                    <img src="/wp-content/themes/myTheme/src/assets/images/new-gallery/accordion-gallery-logo.png"
+                                        alt="imagine draughting services logo" class="img-contain" />
+                                </div>
+                            </h3>
+                            <div class="accordion-service-inner-container">
+                                <div class="accordion-content-header">
+                                    <p class="accordion-service-question">
+                                        Do you have 2D CAD Drawings to progress and need Support?
+                                    </p>
+                                    <p>
+                                        The main standard for shop floor and manufacturing are 2D
+                                        CAD Drawings to read against when creating parts for
+                                        products. <br /><br />
+                                        As 3D Software has progressed it's now quicker and more
+                                        efficient to project a 3D Modelled part onto a drawing
+                                        template to create Front, Side, Top and Isometric views.
+                                    </p>
+                                    <ol class="accordion-ol">
+                                        <h4 class="accordion-heading">List of our services:</h4>
+                                        <div class="accordion-ol-wrapper">
+                                            <div class="accordion-ol-row">
+                                                <li>Mechanical Drawing Layouts</li>
+                                                <li>HVAC Drawing Layouts</li>
+                                                <li>Electrical Drawing Layouts</li>
+                                                <li>As Fitted Drawing Layouts</li>
+                                                <li>Site Plan and Location Plan Drawings</li>
+                                            </div>
+                                            <div class="accordion-ol-row">
+                                                <li>Change of Use Drawings</li>
+                                                <li>Building Regulation Drawings</li>
+                                                <li>Capturing Existing Building Layouts</li>
+                                                <li>3 No Revisions Included throughout process</li>
+                                                <li>Fast Track Service Available</li>
+                                            </div>
+                                        </div>
+                                    </ol>
+                                    <div class="accordion-gallery-testimonial">
+                                        <div class="accordion-gallery-testimonial__header">
+                                            <img src="/wp-content/themes/myTheme/src/assets/images/new-gallery/testimonial-alcool.png"
+                                                alt="alcool" />
+                                        </div>
+                                        <div class="accordion-gallery-testimonial__body">
+                                            <p>
+                                                I have used Ryan & Imagine Draughting Services for
+                                                around 5 years now for various mechanical service
+                                                drawings including, adaptation of existing drawings and
+                                                production of new, all produced from my hand sketches
+                                                and turned around in a timely manner, excellent service
+                                                provided.
+                                            </p>
+                                            <span class="accordion-gallery-testimonial__person">
+                                                <span>Tom Berry - Allcool</span>
+                                                <img src="/wp-content/themes/myTheme/src/assets/images/new-gallery/accordion-gallery-five-stars.png"
+                                                    alt="five stars" />
+                                            </span>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="accordion-content">
+                                    <div class="accordion-technologies-wrapper">
+                                        <div class="accordion-technologies-inner-wrapper">
+                                            <img src="/wp-content/themes/myTheme/src/assets/images/new-gallery/tech-autocad.png"
+                                                alt="technology" />
+                                            <img src="/wp-content/themes/myTheme/src/assets/images/new-gallery/tech-electrical.png"
+                                                alt="technology" />
+                                        </div>
+                                    </div>
+                                    <div class="web-gallery-imgs-container web-gallery-imgs-container--2d gallery ">
+                                        <div class="web-gallery-2d-first-row">
+                                            <a
+                                                href="/wp-content/themes/myTheme/src/assets/images/new-gallery/web-gallery/2d-img (1)--mobile.png"><img
+                                                    src="/wp-content/themes/myTheme/src/assets/images/new-gallery/web-gallery/2d-img (1)--mobile.png"
+                                                    alt="Imagine Draughting Services"
+                                                    data-caption="Imagine Draughting Services" /></a>
+                                            <a
+                                                href="/wp-content/themes/myTheme/src/assets/images/new-gallery/web-gallery/2d-img (2)--mobile.png"><img
+                                                    src="/wp-content/themes/myTheme/src/assets/images/new-gallery/web-gallery/2d-img (2)--mobile.png"
+                                                    alt="Imagine Draughting Services"
+                                                    data-caption="Imagine Draughting Services" /></a>
+                                        </div>
+                                        <div class="web-gallery-2d-second-row">
+                                            <a
+                                                href="/wp-content/themes/myTheme/src/assets/images/new-gallery/web-gallery/2d-img (1)--desktop.png"><img
+                                                    src="/wp-content/themes/myTheme/src/assets/images/new-gallery/web-gallery/2d-img (1)--desktop.png"
+                                                    alt="Imagine Draughting Services"
+                                                    data-caption="Imagine Draughting Services" /></a>
+                                            <a
+                                                href="/wp-content/themes/myTheme/src/assets/images/new-gallery/web-gallery/2d-img (2)--desktop.png"><img
+                                                    src="/wp-content/themes/myTheme/src/assets/images/new-gallery/web-gallery/2d-img (2)--desktop.png"
+                                                    alt="Imagine Draughting Services"
+                                                    data-caption="Imagine Draughting Services" /></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                        <h2 class="accordion-header">
+                            <button class="accordion-button">
+                                <img src="/wp-content/themes/myTheme/src/assets/images/3d-cad-services.gif"
+                                    alt="gallery-tab-icon" />
+                                <span>Imagine Draughting Services</span>
+                            </button>
+                        </h2>
+                        <div class="accordion-body">
+                            <h3 class="accordion-service-heading">
+                                <span>3D CAD SERVICES</span>
+                                <div class="accordion-contact-bar">
+                                    <div class="accordion-contact-bar-row">
+                                        <span><img
+                                                src="/wp-content/themes/myTheme/src/assets/images/new-gallery/accordion-gallery-phone-icon.svg"
+                                                alt="phone" class="img-contain" />01253 543259
+                                        </span>
+                                        <span><img
+                                                src="/wp-content/themes/myTheme/src/assets/images/new-gallery/accordion-gallery-gmail-icon.svg"
+                                                alt="mail" class="img-contain" />info@imagine-dsuk.com
+                                        </span>
+                                        <span><img
+                                                src="/wp-content/themes/myTheme/src/assets/images/new-gallery/accordion-gallery-web-icon.svg"
+                                                alt="web planet" class="img-contain" />www.imagine-dsuk.com
+                                        </span>
+                                    </div>
+                                    <img src="/wp-content/themes/myTheme/src/assets/images/new-gallery/accordion-gallery-logo.png"
+                                        alt="imagine draughting services logo" class="img-contain" />
+                                </div>
+                            </h3>
+                            <div class="accordion-service-inner-container">
+                                <div class="accordion-content-header">
+                                    <p>
+                                        Using a range of 3D CAD Software, our Engineers create
+                                        designs ranging from sheet metal to plastics, once the model
+                                        is created a number of services can be offered such as
+                                        Rendered Images, 3D Videos, 3D Printing and Technical
+                                        Drawings which is an output from the 3D data created.
+                                        <br /><br />
+                                        Once your project has been completed we can also provide a
+                                        free viewable version of your 3D CAD product using eDrawings
+                                        software, which can be rotated, zoomed-in and measured.
+                                    </p>
+                                    <ol class="accordion-ol">
+                                        <h4 class="accordion-heading">List of our services:</h4>
+                                        <div class="accordion-ol-wrapper">
+                                            <div class="accordion-ol-row">
+                                                <li>Product Design Concepts</li>
+                                                <li>3D Printing Models Created</li>
+                                                <li>Sheet Metal Assemblies and Parts</li>
+                                                <li>Plastic Assemblies and Parts</li>
+                                                <li>Manufacturing Stage of Product Design</li>
+                                            </div>
+                                            <div class="accordion-ol-row">
+                                                <li>Revisions to Existing Designs</li>
+                                                <li>Comparison of 3D Models against captured data</li>
+                                                <li>3D Models created for Rendering Purposes</li>
+                                                <li>Parametric Models for variable outcomes</li>
+                                                <li>Involvement of clients throughout the process</li>
+                                            </div>
+                                        </div>
+                                    </ol>
+                                    <div class="accordion-gallery-testimonial">
+                                        <div class="accordion-gallery-testimonial__header">
+                                            <img src="/wp-content/themes/myTheme/src/assets/images/new-gallery/testimonial-doble.png"
+                                                alt="doble" />
+                                        </div>
+                                        <div class="accordion-gallery-testimonial__body">
+                                            <p>
+                                                Doble Engineering have been working directly with both
+                                                Alex and Ryan at Imagine Draughting Services over a
+                                                number of years.Both are superb at their roles and
+                                                deliver high quality designs which will match your
+                                                projects brief.
+                                            </p>
+                                            <span class="accordion-gallery-testimonial__person">
+                                                <span>Paul Kirkman - Doble Engineering</span>
+                                                <img src="/wp-content/themes/myTheme/src/assets/images/new-gallery/accordion-gallery-five-stars.png"
+                                                    alt="five stars" />
+                                            </span>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="accordion-content">
+                                    <div class="accordion-technologies-wrapper">
+                                        <div class="accordion-technologies-inner-wrapper">
+                                            <img src="/wp-content/themes/myTheme/src/assets/images/new-gallery/tech-keyshot.png"
+                                                alt="technology" />
+                                            <img src="/wp-content/themes/myTheme/src/assets/images/new-gallery/tech-solidworks.png"
+                                                alt="technology" />
+                                        </div>
+                                    </div>
+                                    <div class="web-gallery-imgs-container gallery">
+                                        <a
+                                            href="/wp-content/themes/myTheme/src/assets/images/new-gallery/web-gallery/3d-img (1).jpg"><img
+                                                src="/wp-content/themes/myTheme/src/assets/images/new-gallery/web-gallery/3d-img (1).jpg"
+                                                alt="Imagine Draughting Services"
+                                                data-caption="Imagine Draughting Services" /></a>
+                                        <a
+                                            href="/wp-content/themes/myTheme/src/assets/images/new-gallery/web-gallery/3d-img (2).jpg"><img
+                                                src="/wp-content/themes/myTheme/src/assets/images/new-gallery/web-gallery/3d-img (2).jpg"
+                                                alt="" /></a>
+                                        <a
+                                            href="/wp-content/themes/myTheme/src/assets/images/new-gallery/web-gallery/3d-img (3).jpg"><img
+                                                src="/wp-content/themes/myTheme/src/assets/images/new-gallery/web-gallery/3d-img (3).jpg"
+                                                alt="" /></a>
+                                        <a
+                                            href="/wp-content/themes/myTheme/src/assets/images/new-gallery/web-gallery/3d-img (4).jpg"><img
+                                                src="/wp-content/themes/myTheme/src/assets/images/new-gallery/web-gallery/3d-img (4).jpg"
+                                                alt="" /></a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                        <h2 class="accordion-header">
+                            <button class="accordion-button">
+                                <img src="/wp-content/themes/myTheme/src/assets/images/conversion.gif"
+                                    alt="gallery-tab-icon" />
+                                <span>Imagine Draughting Services</span>
+                            </button>
+                        </h2>
+                        <div class="accordion-body">
+                            <h3 class="accordion-service-heading">
+                                <span>CAD Conversion service</span>
+                                <div class="accordion-contact-bar">
+                                    <div class="accordion-contact-bar-row">
+                                        <span><img
+                                                src="/wp-content/themes/myTheme/src/assets/images/new-gallery/accordion-gallery-phone-icon.svg"
+                                                alt="phone" class="img-contain" />01253 543259
+                                        </span>
+                                        <span><img
+                                                src="/wp-content/themes/myTheme/src/assets/images/new-gallery/accordion-gallery-gmail-icon.svg"
+                                                alt="mail" class="img-contain" />info@imagine-dsuk.com
+                                        </span>
+                                        <span><img
+                                                src="/wp-content/themes/myTheme/src/assets/images/new-gallery/accordion-gallery-web-icon.svg"
+                                                alt="web planet" class="img-contain" />www.imagine-dsuk.com
+                                        </span>
+                                    </div>
+                                    <img src="/wp-content/themes/myTheme/src/assets/images/new-gallery/accordion-gallery-logo.png"
+                                        alt="imagine draughting services logo" class="img-contain" />
+                                </div>
+                            </h3>
+                            <div class="accordion-service-inner-container">
+                                <div class="accordion-content-header">
+                                    <p>
+                                        On some Projects valuable information already exists and can
+                                        be implemented to speed up the 3D Design process. Drawings
+                                        may have already been created providing dimensions,
+                                        materials used, thickness and geometry to illustrate parts
+                                        that make up a product.
+                                    </p>
+                                    <ol class="accordion-ol">
+                                        <h4 class="accordion-heading">List of our services:</h4>
+                                        <div class="accordion-ol-wrapper">
+                                            <div class="accordion-ol-row">
+                                                <li>Paper to CAD Conversion</li>
+                                                <li>2D AutoCAD to Solidworks</li>
+                                                <li>2D AutoCAD to Inventor</li>
+                                                <li>DXF flat patterns to 3D Parts</li>
+                                                <li>STEP file to Parametric Model</li>
+                                            </div>
+                                            <div class="accordion-ol-row">
+                                                <li>STL file to Parametric Model</li>
+                                                <li>PDF to DWG Conversion</li>
+                                                <li>PDF to 3D CAD Conversion</li>
+                                                <li>Hand Drawn Sketch to CAD Conversion</li>
+                                                <li>Fast Track Service Available</li>
+                                            </div>
+                                        </div>
+                                    </ol>
+                                    <div class="accordion-gallery-testimonial">
+                                        <div class="accordion-gallery-testimonial__header">
+                                            <img src="/wp-content/themes/myTheme/src/assets/images/new-gallery/testimonial-predator.png"
+                                                alt="predator" />
+                                        </div>
+                                        <div class="accordion-gallery-testimonial__body">
+                                            <p>
+                                                Ryan and his team delivered well, immediately freeing up
+                                                resource for an urgent sheet metal re-draw project for
+                                                one of my customers. They stuck to an agreed price
+                                                despite some curveballs that inevitably showed up! An
+                                                ideal solution for self-employed business that can't
+                                                justify recruiting more staff due to unpredictable work.
+                                            </p>
+                                            <span class="accordion-gallery-testimonial__person">
+                                                <span>Eamon McVeigh - Predator Trailers</span>
+                                                <img src="/wp-content/themes/myTheme/src/assets/images/new-gallery/accordion-gallery-five-stars.png"
+                                                    alt="five stars" />
+                                            </span>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="accordion-content">
+                                    <div class="accordion-technologies-wrapper">
+                                        <div class="accordion-technologies-inner-wrapper">
+                                            <img src="/wp-content/themes/myTheme/src/assets/images/new-gallery/tech-autocad.png"
+                                                alt="technology" />
+                                            <img src="/wp-content/themes/myTheme/src/assets/images/new-gallery/tech-keyshot.png"
+                                                alt="technology" />
+                                        </div>
+                                    </div>
+                                    <div class="web-gallery-imgs-container gallery">
+                                        <a
+                                            href="/wp-content/themes/myTheme/src/assets/images/new-gallery/web-gallery/cad-converions-img (1).jpg"><img
+                                                src="/wp-content/themes/myTheme/src/assets/images/new-gallery/web-gallery/cad-converions-img (1).jpg"
+                                                alt="Imagine Draughting Services"
+                                                data-caption="Imagine Draughting Services" /></a>
+                                        <a
+                                            href="/wp-content/themes/myTheme/src/assets/images/new-gallery/web-gallery/cad-converions-img (2).jpg"><img
+                                                src="/wp-content/themes/myTheme/src/assets/images/new-gallery/web-gallery/cad-converions-img (2).jpg"
+                                                alt="Imagine Draughting Services" /></a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                        <h2 class="accordion-header">
+                            <button class="accordion-button">
+                                <img src="/wp-content/themes/myTheme/src/assets/images/new-gallery/render.gif"
+                                    alt="gallery-tab-icon" />
+                                <span>Imagine Draughting Services</span>
+                            </button>
+                        </h2>
+                        <div class="accordion-body">
+                            <h3 class="accordion-service-heading">
+                                <span>Rendered images</span>
+                                <div class="accordion-contact-bar">
+                                    <div class="accordion-contact-bar-row">
+                                        <span><img
+                                                src="/wp-content/themes/myTheme/src/assets/images/new-gallery/accordion-gallery-phone-icon.svg"
+                                                alt="phone" class="img-contain" />01253 543259
+                                        </span>
+                                        <span><img
+                                                src="/wp-content/themes/myTheme/src/assets/images/new-gallery/accordion-gallery-gmail-icon.svg"
+                                                alt="mail" class="img-contain" />info@imagine-dsuk.com
+                                        </span>
+                                        <span><img
+                                                src="/wp-content/themes/myTheme/src/assets/images/new-gallery/accordion-gallery-web-icon.svg"
+                                                alt="web planet" class="img-contain" />www.imagine-dsuk.com
+                                        </span>
+                                    </div>
+                                    <img src="/wp-content/themes/myTheme/src/assets/images/new-gallery/accordion-gallery-logo.png"
+                                        alt="imagine draughting services logo" class="img-contain" />
+                                </div>
+                            </h3>
+                            <div class="accordion-service-inner-container">
+                                <div class="accordion-content-header">
+                                    <p class="accordion-service-question">
+                                        You may have a product that doesn’t exist and want to bring
+                                        to life?
+                                    </p>
+                                    <p>
+                                        CAD Animation and Rendered Images are an excellent way to
+                                        showcase your idea to potential clients. <br /><br />
+                                        If you want to improve the look of an existing product on
+                                        your website CAD Animation and Rendered Images can be a
+                                        cheaper alternative to hiring a professional photographer,
+                                        click below for more details.
+                                    </p>
+                                    <ol class="accordion-ol">
+                                        <h4 class="accordion-heading">List of our services:</h4>
+                                        <div class="accordion-ol-wrapper">
+                                            <div class="accordion-ol-row">
+                                                <li>Various Materials Applied in Keyshot</li>
+                                                <li>Numerous Camera Angles of Renders</li>
+                                                <li>Section Views of Products</li>
+                                                <li>Exploded View of Products</li>
+                                                <li>Realistic Quality of Images provided</li>
+                                            </div>
+                                            <div class="accordion-ol-row">
+                                                <li>Different Stages of Product Uses</li>
+                                                <li>360 Spinning Renders Available</li>
+                                                <li>New Images Provided if Revisions Applied</li>
+                                                <li>Architectural Renders Available</li>
+                                                <li>Fast Track Service Available</li>
+                                            </div>
+                                        </div>
+                                    </ol>
+                                    <div class="accordion-gallery-testimonial">
+                                        <div class="accordion-gallery-testimonial__header">
+                                            Clients review
+                                        </div>
+                                        <div class="accordion-gallery-testimonial__body">
+                                            <p>
+                                                Absolutely professional company with great communication
+                                                and service. Imagine Draughting Services Ltd worked
+                                                precisely and quick, I definitely recommend them and
+                                                will surely use them in the future.
+                                            </p>
+                                            <span class="accordion-gallery-testimonial__person">
+                                                <span>David F - Entrepreneur</span>
+                                                <img src="/wp-content/themes/myTheme/src/assets/images/new-gallery/accordion-gallery-five-stars.png"
+                                                    alt="five stars" />
+                                            </span>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="accordion-content">
+                                    <div class="accordion-technologies-wrapper">
+                                        <div class="accordion-technologies-inner-wrapper">
+                                            <img src="/wp-content/themes/myTheme/src/assets/images/new-gallery/tech-solidworks.png"
+                                                alt="technology" />
+                                            <img src="/wp-content/themes/myTheme/src/assets/images/new-gallery/tech-keyshot.png"
+                                                alt="technology" />
+                                        </div>
+                                    </div>
+                                    <div class="web-gallery-imgs-container gallery">
+                                        <a
+                                            href="/wp-content/themes/myTheme/src/assets/images/new-gallery/web-gallery/render-img (1).jpg"><img
+                                                src="/wp-content/themes/myTheme/src/assets/images/new-gallery/web-gallery/render-img (1).jpg"
+                                                alt="Imagine Draughting Services"
+                                                data-caption="Imagine Draughting Services" /></a>
+                                        <a
+                                            href="/wp-content/themes/myTheme/src/assets/images/new-gallery/web-gallery/render-img (2).jpg"><img
+                                                src="/wp-content/themes/myTheme/src/assets/images/new-gallery/web-gallery/render-img (2).jpg"
+                                                alt="" /></a>
+                                        <a
+                                            href="/wp-content/themes/myTheme/src/assets/images/new-gallery/web-gallery/render-img (3).jpg"><img
+                                                src="/wp-content/themes/myTheme/src/assets/images/new-gallery/web-gallery/render-img (3).jpg"
+                                                alt="" /></a>
+                                        <a
+                                            href="/wp-content/themes/myTheme/src/assets/images/new-gallery/web-gallery/render-img (4).jpg"><img
+                                                src="/wp-content/themes/myTheme/src/assets/images/new-gallery/web-gallery/render-img (4).jpg"
+                                                alt="" /></a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                        <h2 class="accordion-header">
+                            <button class="accordion-button">
+                                <img src="/wp-content/themes/myTheme/src/assets/images/services.gif"
+                                    alt="gallery-tab-icon" />
+                                <span>Imagine Draughting Services</span>
+                            </button>
+                        </h2>
+                        <div class="accordion-body">
+                            <h3 class="accordion-service-heading">
+                                <span>Reverse engineering</span>
+                                <div class="accordion-contact-bar">
+                                    <div class="accordion-contact-bar-row">
+                                        <span><img
+                                                src="/wp-content/themes/myTheme/src/assets/images/new-gallery/accordion-gallery-phone-icon.svg"
+                                                alt="phone" class="img-contain" />01253 543259
+                                        </span>
+                                        <span><img
+                                                src="/wp-content/themes/myTheme/src/assets/images/new-gallery/accordion-gallery-gmail-icon.svg"
+                                                alt="mail" class="img-contain" />info@imagine-dsuk.com
+                                        </span>
+                                        <span><img
+                                                src="/wp-content/themes/myTheme/src/assets/images/new-gallery/accordion-gallery-web-icon.svg"
+                                                alt="web planet" class="img-contain" />www.imagine-dsuk.com
+                                        </span>
+                                    </div>
+                                    <img src="/wp-content/themes/myTheme/src/assets/images/new-gallery/accordion-gallery-logo.png"
+                                        alt="imagine draughting services logo" class="img-contain" />
+                                </div>
+                            </h3>
+                            <div class="accordion-service-inner-container">
+                                <div class="accordion-content-header">
+                                    <p class="accordion-service-question">PRODUCTS</p>
+                                    <p>
+                                        Existing Products can be Reverse Engineered in various ways,
+                                        if you don’t have CAD data available but want range of
+                                        services we offer then Imagine Draughting Services Ltd can
+                                        assist. <br /><br />
+                                        This can be done by 3D Scanning individual items or
+                                        Assemblies and importing into Solidworks or Autodesk
+                                        Inventor, alternatively more simple items can be measured
+                                        with a vernier at our office.
+                                    </p>
+                                    <ol class="accordion-ol">
+                                        <h4 class="accordion-heading">List of our services:</h4>
+                                        <div class="accordion-ol-wrapper">
+                                            <div class="accordion-ol-row">
+                                                <li>Individual Items Scanned</li>
+                                                <li>Existing Assemblies Scanned</li>
+                                                <li>Buildings Scanned via Site Visit</li>
+                                                <li>STL to CAD Conversion</li>
+                                                <li>3D Models progressed from Scan Data</li>
+                                            </div>
+                                            <div class="accordion-ol-row">
+                                                <li>3D Models progressed from vernier sizes</li>
+                                                <li>Production Drawings produced</li>
+                                                <li>UK site visits for scanning</li>
+                                                <li>Items sent to our office for Scanning</li>
+                                                <li>Fast Track Service Available</li>
+                                            </div>
+                                        </div>
+                                    </ol>
+                                    <div class="accordion-gallery-testimonial">
+                                        <div class="accordion-gallery-testimonial__header">
+                                            <img src="/wp-content/themes/myTheme/src/assets/images/new-gallery/testimonial-bison.png"
+                                                alt="bison" />
+                                        </div>
+                                        <div class="accordion-gallery-testimonial__body">
+                                            <p>
+                                                This company have been very helpful over the years. They
+                                                are willing to go the extra mile to provide an excellent
+                                                service. The drawings they produce are very good and if
+                                                alterations need to be made they do so quickly and
+                                                without complaint.
+                                            </p>
+                                            <span class="accordion-gallery-testimonial__person">
+                                                <span>Johnna Caunce - Bison Products Ltd</span>
+                                                <img src="/wp-content/themes/myTheme/src/assets/images/new-gallery/accordion-gallery-five-stars.png"
+                                                    alt="five stars" />
+                                            </span>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="accordion-content">
+                                    <div class="accordion-technologies-wrapper">
+                                        <div class="accordion-technologies-inner-wrapper">
+                                            <img src="/wp-content/themes/myTheme/src/assets/images/new-gallery/tech-solidworks.png"
+                                                alt="technology" />
+                                            <img src="/wp-content/themes/myTheme/src/assets/images/new-gallery/tech-keyshot.png"
+                                                alt="technology" />
+                                        </div>
+                                    </div>
+                                    <div class="web-gallery-imgs-container gallery">
+                                        <a
+                                            href="/wp-content/themes/myTheme/src/assets/images/new-gallery/web-gallery/reverse-img (1).jpg"><img
+                                                src="/wp-content/themes/myTheme/src/assets/images/new-gallery/web-gallery/reverse-img (1).jpg"
+                                                alt="Imagine Draughting Services"
+                                                data-caption="Imagine Draughting Services" /></a>
+                                        <a
+                                            href="/wp-content/themes/myTheme/src/assets/images/new-gallery/web-gallery/reverse-img (2).jpg"><img
+                                                src="/wp-content/themes/myTheme/src/assets/images/new-gallery/web-gallery/reverse-img (2).jpg"
+                                                alt="Imagine Draughting Services" /></a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                        <h2 class="accordion-header">
+                            <button class="accordion-button">
+                                <img src="/wp-content/themes/myTheme/src/assets/images/services.gif"
+                                    alt="gallery-tab-icon" />
+                                <span>Imagine Draughting Services</span>
+                            </button>
+                        </h2>
+                        <div class="accordion-body">
+                            <h3 class="accordion-service-heading">
+                                <span>Reverse engineering</span>
+                                <div class="accordion-contact-bar">
+                                    <div class="accordion-contact-bar-row">
+                                        <span><img
+                                                src="/wp-content/themes/myTheme/src/assets/images/new-gallery/accordion-gallery-phone-icon.svg"
+                                                alt="phone" class="img-contain" />01253 543259
+                                        </span>
+                                        <span><img
+                                                src="/wp-content/themes/myTheme/src/assets/images/new-gallery/accordion-gallery-gmail-icon.svg"
+                                                alt="mail" class="img-contain" />info@imagine-dsuk.com
+                                        </span>
+                                        <span><img
+                                                src="/wp-content/themes/myTheme/src/assets/images/new-gallery/accordion-gallery-web-icon.svg"
+                                                alt="web planet" class="img-contain" />www.imagine-dsuk.com
+                                        </span>
+                                    </div>
+                                    <img src="/wp-content/themes/myTheme/src/assets/images/new-gallery/accordion-gallery-logo.png"
+                                        alt="imagine draughting services logo" class="img-contain" />
+                                </div>
+                            </h3>
+                            <div class="accordion-service-inner-container">
+                                <div class="accordion-content-header">
+                                    <p class="accordion-service-question">BUILDINGS</p>
+                                    <p class="accordion-service-question">
+                                        Do you need to capture existing geometry of Building or
+                                        Structure?
+                                    </p>
+                                    <p>
+                                        At Imagine Draughting Services we can attend site anywhere
+                                        within the UK to survey and capture existing buildings or
+                                        structures. <br /><br />
+                                        The captured mesh data is then converted into usable CAD
+                                        data, should 2D or 3D CAD be required, depending on your
+                                        requirements.
+                                    </p>
+                                    <ol class="accordion-ol">
+                                        <h4 class="accordion-heading">List of our services:</h4>
+                                        <div class="accordion-ol-wrapper">
+                                            <div class="accordion-ol-row">
+                                                <li>Houses, apartments and flats</li>
+                                                <li>Commercial buildings, offices, shops and stores</li>
+                                                <li>Industrial buildings, factories and warehouses</li>
+                                                <li>Leisure facilities, restaurants, cafes</li>
+                                                <li>Hospitals and clinics</li>
+                                            </div>
+                                            <div class="accordion-ol-row">
+                                                <li>Educational buildings</li>
+                                                <li>Public buildings</li>
+                                                <li>Agricultural buildings, Farms</li>
+                                                <li>Religious buildings</li>
+                                                <li>Fast Track Service Available</li>
+                                            </div>
+                                        </div>
+                                    </ol>
+                                    <div class="accordion-gallery-testimonial">
+                                        <div class="accordion-gallery-testimonial__header">
+                                            Clients review
+                                        </div>
+                                        <div class="accordion-gallery-testimonial__body">
+                                            <p>
+                                                Imagine Draughting recently produced some As Built
+                                                drawings for us, the service was excellent. They turned
+                                                around our request over a weekend. From the initial
+                                                appointment, to having the opportunity to review and
+                                                approve the drawings prior to final issue was first
+                                                class. I will definitely be using their services again
+                                                and would recommend their services to anyone.
+                                            </p>
+                                            <span class="accordion-gallery-testimonial__person">
+                                                <span>Peter Durrans - Client</span>
+                                                <img src="/wp-content/themes/myTheme/src/assets/images/new-gallery/accordion-gallery-five-stars.png"
+                                                    alt="five stars" />
+                                            </span>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="accordion-content">
+                                    <div class="accordion-technologies-wrapper">
+                                        <div class="accordion-technologies-inner-wrapper">
+                                            <img src="/wp-content/themes/myTheme/src/assets/images/new-gallery/tech-leica.png"
+                                                alt="technology" />
+                                            <img src="/wp-content/themes/myTheme/src/assets/images/new-gallery/tech-autocad.png"
+                                                alt="technology" />
+                                        </div>
+                                    </div>
+                                    <div class="web-gallery-imgs-container gallery">
+                                        <a
+                                            href="/wp-content/themes/myTheme/src/assets/images/new-gallery/web-gallery/reverse-img (3).jpg"><img
+                                                src="/wp-content/themes/myTheme/src/assets/images/new-gallery/web-gallery/reverse-img (3).jpg"
+                                                alt="Imagine Draughting Services" /></a>
+                                        <a
+                                            href="/wp-content/themes/myTheme/src/assets/images/new-gallery/web-gallery/reverse-img (4).jpg"><img
+                                                src="/wp-content/themes/myTheme/src/assets/images/new-gallery/web-gallery/reverse-img (4).jpg"
+                                                alt="Imagine Draughting Services" /></a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                        <h2 class="accordion-header">
+                            <button class="accordion-button">
+                                <img src="/wp-content/themes/myTheme/src/assets/images/new-gallery/video-services.gif"
+                                    alt="gallery-tab-icon" />
+                                <span>3D VIDEO services</span>
+                            </button>
+                        </h2>
+                        <div class="accordion-body">
+                            <h3 class="accordion-service-heading">
+                                <span>3D VIDEO services</span>
+                                <div class="accordion-contact-bar">
+                                    <div class="accordion-contact-bar-row">
+                                        <span><img
+                                                src="/wp-content/themes/myTheme/src/assets/images/new-gallery/accordion-gallery-phone-icon.svg"
+                                                alt="phone" class="img-contain" />01253 543259
+                                        </span>
+                                        <span><img
+                                                src="/wp-content/themes/myTheme/src/assets/images/new-gallery/accordion-gallery-gmail-icon.svg"
+                                                alt="mail" class="img-contain" />info@imagine-dsuk.com
+                                        </span>
+                                        <span><img
+                                                src="/wp-content/themes/myTheme/src/assets/images/new-gallery/accordion-gallery-web-icon.svg"
+                                                alt="web planet" class="img-contain" />www.imagine-dsuk.com
+                                        </span>
+                                    </div>
+                                    <img src="/wp-content/themes/myTheme/src/assets/images/new-gallery/accordion-gallery-logo.png"
+                                        alt="imagine draughting services logo" class="img-contain" />
+                                </div>
+                            </h3>
+                            <div class="accordion-service-inner-container">
+                                <div class="accordion-content-header">
+                                    <p class="accordion-service-question">
+                                        Do you require a 3D Video for your Product or Project?
+                                    </p>
+                                    <p>
+                                        Do you require a 3D Video to illustrate your existing
+                                        product or perhaps a product that does not exist yet? At
+                                        Imagine Draughting Services Ltd, we can progress a 3D Model
+                                        on your behalf, then produce a Video to illustrate features,
+                                        which can be easier for potential investors or users to
+                                        understand.
+                                    </p>
+                                    <ol class="accordion-ol">
+                                        <h4 class="accordion-heading">List of our services:</h4>
+                                        <div class="accordion-ol-wrapper">
+                                            <div class="accordion-ol-row">
+                                                <li>360 Degree Video Illustrating Product</li>
+                                                <li>Key Features of Products (Operational)</li>
+                                                <li>Zooming into specific details</li>
+                                                <li>Making parts transparent</li>
+                                                <li>Exploding Products then Collapsing</li>
+                                            </div>
+                                            <div class="accordion-ol-row">
+                                                <li>Adding specific text or voice-over</li>
+                                                <li>Compressing for website use</li>
+                                                <li>Illustrating various colours and finishes</li>
+                                                <li>Showing Fixing Methods of Products</li>
+                                                <li>Fast Track Service Available</li>
+                                            </div>
+                                        </div>
+                                    </ol>
+                                    <div class="accordion-gallery-testimonial">
+                                        <div class="accordion-gallery-testimonial__header">
+                                            <img src="/wp-content/themes/myTheme/src/assets/images/new-gallery/testimonial-fibaform.png"
+                                                alt="fibaform" />
+                                        </div>
+                                        <div class="accordion-gallery-testimonial__body">
+                                            <p>
+                                                Imagine Draughting Services have great customer service
+                                                and drawings always provided in a timely manner. 100%
+                                                recommend.
+                                            </p>
+                                            <span class="accordion-gallery-testimonial__person">
+                                                <span>Niamh Whittle - Fibaform Products</span>
+                                                <img src="/wp-content/themes/myTheme/src/assets/images/new-gallery/accordion-gallery-five-stars.png"
+                                                    alt="five stars" />
+                                            </span>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="accordion-content">
+                                    <div class="accordion-technologies-wrapper">
+                                        <div class="accordion-technologies-inner-wrapper">
+                                            <img src="/wp-content/themes/myTheme/src/assets/images/new-gallery/tech-solidworks.png"
+                                                alt="technology" />
+                                            <img src="/wp-content/themes/myTheme/src/assets/images/new-gallery/tech-keyshot.png"
+                                                alt="technology" />
+                                        </div>
+                                    </div>
+                                    <div class="web-gallery-imgs-container gallery">
+                                        <a
+                                            href="/wp-content/themes/myTheme/src/assets/images/new-gallery/web-gallery/3d-video-img (1).jpg"><img
+                                                src="/wp-content/themes/myTheme/src/assets/images/new-gallery/web-gallery/3d-video-img (1).jpg"
+                                                alt="Imagine Draughting Services"
+                                                data-caption="Imagine Draughting Services" /></a>
+                                        <a
+                                            href="/wp-content/themes/myTheme/src/assets/images/new-gallery/web-gallery/3d-video-img (2).jpg"><img
+                                                src="/wp-content/themes/myTheme/src/assets/images/new-gallery/web-gallery/3d-video-img (2).jpg"
+                                                alt="Imagine Draughting Services"
+                                                data-caption="Imagine Draughting Services" /></a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                        <h2 class="accordion-header">
+                            <button class="accordion-button">
+                                <img src="/wp-content/themes/myTheme/src/assets/images/plotting.gif"
+                                    alt="gallery-tab-icon" />
+                                <span>prototype services</span>
+                            </button>
+                        </h2>
+                        <div class="accordion-body">
+                            <h3 class="accordion-service-heading">
+                                <span>Prototype services</span>
+                                <div class="accordion-contact-bar">
+                                    <div class="accordion-contact-bar-row">
+                                        <span><img
+                                                src="/wp-content/themes/myTheme/src/assets/images/new-gallery/accordion-gallery-phone-icon.svg"
+                                                alt="phone" class="img-contain" />01253 543259
+                                        </span>
+                                        <span><img
+                                                src="/wp-content/themes/myTheme/src/assets/images/new-gallery/accordion-gallery-gmail-icon.svg"
+                                                alt="mail" class="img-contain" />info@imagine-dsuk.com
+                                        </span>
+                                        <span><img
+                                                src="/wp-content/themes/myTheme/src/assets/images/new-gallery/accordion-gallery-web-icon.svg"
+                                                alt="web planet" class="img-contain" />www.imagine-dsuk.com
+                                        </span>
+                                    </div>
+                                    <img src="/wp-content/themes/myTheme/src/assets/images/new-gallery/accordion-gallery-logo.png"
+                                        alt="imagine draughting services logo" class="img-contain" />
+                                </div>
+                            </h3>
+                            <div class="accordion-service-inner-container">
+                                <div class="accordion-content-header">
+                                    <p class="accordion-service-question">
+                                        Prototype and 3D Printing Support Required?
+                                    </p>
+                                    <p>
+                                        One of the main benefits of being able to progress 3D CAD
+                                        Designs is the possibility of a physical prototype, this can
+                                        be useful to get a feel for a product or show a potential
+                                        inventor. <br /><br />
+                                        Using a combination of 3D Printing and outsourcing off the
+                                        shelf parts we can create a 1:1 scale prototype for you.
+                                        Initially we will create a 3D CAD Model in Solidworks CAD
+                                        software then adjust and revise directly with you, following
+                                        which we are ready to progress the prototype.
+                                    </p>
+                                    <ol class="accordion-ol">
+                                        <h4 class="accordion-heading">List of our services:</h4>
+                                        <div class="accordion-ol-wrapper">
+                                            <div class="accordion-ol-row">
+                                                <li>3D Printed Individual Parts</li>
+                                                <li>Physical Prototype Provided</li>
+                                                <li>Scaled Down Version of items</li>
+                                                <li>Testing of Fixing methods</li>
+                                                <li>Testing of Assembly methods</li>
+                                            </div>
+                                            <div class="accordion-ol-row">
+                                                <li>Carry Case Provided to protect parts</li>
+                                                <li>Numerous Materials available to print</li>
+                                                <li>Numerous Colours available to print</li>
+                                                <li>Outsourcing Supplier Quotation</li>
+                                                <li>Fast Track Service Available</li>
+                                            </div>
+                                        </div>
+                                    </ol>
+                                    <div class="accordion-gallery-testimonial">
+                                        <div class="accordion-gallery-testimonial__header">
+                                            Clients review
+                                        </div>
+                                        <div class="accordion-gallery-testimonial__body">
+                                            <p>
+                                                From start to finish, the service was brilliant. My
+                                                designer Alex was patient, professional and went above
+                                                and beyond to get my project going. I can’t recommend
+                                                Imagine Draughting Services enough. I will 100% be using
+                                                their services again on my future projects.
+                                            </p>
+                                            <span class="accordion-gallery-testimonial__person">
+                                                <span>Guy Cook - Entrepreneur</span>
+                                                <img src="/wp-content/themes/myTheme/src/assets/images/new-gallery/accordion-gallery-five-stars.png"
+                                                    alt="five stars" />
+                                            </span>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="accordion-content">
+                                    <div class="web-gallery-imgs-container gallery">
+                                        <a
+                                            href="/wp-content/themes/myTheme/src/assets/images/new-gallery/web-gallery/prototype-img (1).jpg"><img
+                                                src="/wp-content/themes/myTheme/src/assets/images/new-gallery/web-gallery/prototype-img (1).jpg"
+                                                alt="Imagine Draughting Services"
+                                                data-caption="Imagine Draughting Services" /></a>
+                                        <a
+                                            href="/wp-content/themes/myTheme/src/assets/images/new-gallery/web-gallery/prototype-img (2).jpg"><img
+                                                src="/wp-content/themes/myTheme/src/assets/images/new-gallery/web-gallery/prototype-img (2).jpg"
+                                                alt="Imagine Draughting Services"
+                                                data-caption="Imagine Draughting Services" /></a>
+                                        <a
+                                            href="/wp-content/themes/myTheme/src/assets/images/new-gallery/web-gallery/prototype-img (3).jpg"><img
+                                                src="/wp-content/themes/myTheme/src/assets/images/new-gallery/web-gallery/prototype-img (3).jpg"
+                                                alt="Imagine Draughting Services"
+                                                data-caption="Imagine Draughting Services" /></a>
+                                        <a
+                                            href="/wp-content/themes/myTheme/src/assets/images/new-gallery/web-gallery/prototype-img (4).jpg"><img
+                                                src="/wp-content/themes/myTheme/src/assets/images/new-gallery/web-gallery/prototype-img (4).jpg"
+                                                alt="Imagine Draughting Services"
+                                                data-caption="Imagine Draughting Services" /></a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                        <h2 class="accordion-header">
+                            <button class="accordion-button">
+                                <img src="/wp-content/themes/myTheme/src/assets/images/fast-track.gif"
+                                    alt="gallery-tab-icon" />
+                                <span>fast track services</span>
+                            </button>
+                        </h2>
+                        <div class="accordion-body accordion-body--fast-track">
+                            <h3 class="accordion-service-heading">
+                                <span>fast track services</span>
+                                <div class="accordion-contact-bar">
+                                    <div class="accordion-contact-bar-row">
+                                        <span><img
+                                                src="/wp-content/themes/myTheme/src/assets/images/new-gallery/accordion-gallery-phone-icon.svg"
+                                                alt="phone" class="img-contain" />01253 543259
+                                        </span>
+                                        <span><img
+                                                src="/wp-content/themes/myTheme/src/assets/images/new-gallery/accordion-gallery-gmail-icon.svg"
+                                                alt="mail" class="img-contain" />info@imagine-dsuk.com
+                                        </span>
+                                        <span><img
+                                                src="/wp-content/themes/myTheme/src/assets/images/new-gallery/accordion-gallery-web-icon.svg"
+                                                alt="web planet" class="img-contain" />www.imagine-dsuk.com
+                                        </span>
+                                    </div>
+                                    <img src="/wp-content/themes/myTheme/src/assets/images/new-gallery/accordion-gallery-logo.png"
+                                        alt="imagine draughting services logo" class="img-contain" />
+                                </div>
+                            </h3>
+                            <div
+                                class="accordion-service-inner-container accordion-service-inner-container--fast-track">
+                                <div class="accordion-content-header">
+                                    <p class="accordion-service-question">
+                                        Prototype and 3D Printing Support Required?
+                                    </p>
+                                    <div class="fast-track-body">
+                                        <div class="accordion-fast-track-header-box">
+                                            <img src="/wp-content/themes/myTheme/src/assets/images/new-gallery/fast-track-img.svg"
+                                                alt="clock" />
+                                            <p>
+                                                Should you have a project that is an urgent deadline or
+                                                quick turn around required we can assist with our unique
+                                                Fast Track Service. <br /><br />
+                                                This reduces our lead time on 2D CAD and 3D CAD Projects
+                                                by ensuring it's assigned to an appropriate Designer
+                                                swiftly and prioritised internally. <br /><br />
+                                                Our fee for this service is 15% amount of total quoted
+                                                price, with some projects turned around in 1-2 days as
+                                                opposed to 7 days. <br /><br />
+                                                For larger projects our standard lead time can be longer
+                                                than a week, however the Fast Track Service still
+                                                applies reducing turn around where possible. To assist
+                                                further we can allocate a pair of designers or a
+                                                dedicated team depending on the scale of the project.
+                                            </p>
+                                        </div>
+                                        <div class="accordion-content accordion-content--fast-track gallery">
+                                            <div class="fast-track-row">
+                                                <span class="accordion-fast-track-heading">
+                                                    IDS-373: As Built Drawing layouts – Sections and Plans
+                                                </span>
+                                                <div class="fast-track-row-list-container">
+                                                    <ul class="accordion-fast-track-list">
+                                                        <li class="accordion-fast-track-item">
+                                                            30 No drawings, similar to attached examples in
+                                                            your previous email, liaising with the Architect
+                                                            for any existing detail available.
+                                                        </li>
+                                                        <li class="accordion-fast-track-item">
+                                                            Titleblock creation with your company logo sent
+                                                            for comment / mark-up by one of your staff /
+                                                            engineers.
+                                                        </li>
+                                                        <li class="accordion-fast-track-item">
+                                                            Amendment of detail to suit mark-up.
+                                                        </li>
+                                                        <li class="accordion-fast-track-item">
+                                                            Up to 3 No revisions included as standard (i.e
+                                                            minor tweaks text changes etc).
+                                                        </li>
+                                                    </ul>
+                                                    <a
+                                                        href="/wp-content/themes/myTheme/src/assets/images/new-gallery/web-gallery/fast-track-img (1).png"><img
+                                                            src="/wp-content/themes/myTheme/src/assets/images/new-gallery/web-gallery/fast-track-img (1).png"
+                                                            alt="Imagine Draughting Services"
+                                                            data-caption="Imagine Draughting Services" /></a>
+                                                </div>
+                                            </div>
+                                            <div class="fast-track-row">
+                                                <span class="accordion-fast-track-heading">
+                                                    IDS-426: Planning Permission Drawing – Elevations and
+                                                    Plans
+                                                </span>
+                                                <div class="fast-track-row-list-container">
+                                                    <ul class="accordion-fast-track-list">
+                                                        <li class="accordion-fast-track-item">
+                                                            AutoCAD Elevation of Existing Layout created.
+                                                        </li>
+                                                        <li class="accordion-fast-track-item">
+                                                            AutoCAD Elevation of Proposed Layout created.
+                                                        </li>
+                                                        <li class="accordion-fast-track-item">
+                                                            AutoCAD Plan View of Existing Layout created.
+                                                        </li>
+                                                        <li class="accordion-fast-track-item">
+                                                            AutoCAD Plan View of Proposed Layout created.
+                                                        </li>
+                                                        <li class="accordion-fast-track-item">
+                                                            Location Plan at appropriate scale created.
+                                                        </li>
+                                                        <li class="accordion-fast-track-item">
+                                                            Site Plan at appropriate scale created.
+                                                        </li>
+                                                        <li class="accordion-fast-track-item">
+                                                            Handover and 3x minor revisions included if
+                                                            required.
+                                                        </li>
+                                                    </ul>
+                                                    <a
+                                                        href="/wp-content/themes/myTheme/src/assets/images/new-gallery/web-gallery/fast-track-img (2).png"><img
+                                                            src="/wp-content/themes/myTheme/src/assets/images/new-gallery/web-gallery/fast-track-img (2).png"
+                                                            alt="Imagine Draughting Services"
+                                                            data-caption="Imagine Draughting Services" /></a>
+                                                </div>
+                                            </div>
+                                            <div class="fast-track-row">
+                                                <span class="accordion-fast-track-heading">
+                                                    IDS-327: Reverse Engineering and Production Drawings –
+                                                    Part Drawings and Assembly Drawings
+                                                </span>
+                                                <div class="fast-track-row-list-container">
+                                                    <ul class="accordion-fast-track-list">
+                                                        <li class="accordion-fast-track-item">
+                                                            Receive Machine and Reverse Engineer parts,
+                                                            sub-assemblies.
+                                                        </li>
+                                                        <li class="accordion-fast-track-item">
+                                                            Gather relevant information on motors, pipework
+                                                            involved.
+                                                        </li>
+                                                        <li class="accordion-fast-track-item">
+                                                            Draw Sheet Metal, Box Section, Round Bar parts
+                                                            individually, adding unique drawing numbers and
+                                                            properties.
+                                                        </li>
+                                                        <li class="accordion-fast-track-item">
+                                                            Create any Sub-Assemblies required, combination of
+                                                            parts.
+                                                        </li>
+                                                        <li class="accordion-fast-track-item">
+                                                            Create Main Assembly 3D Model with all Parts
+                                                            Sub-Assemblies within along with fixings.
+                                                        </li>
+                                                        <li class="accordion-fast-track-item">
+                                                            Once all 3D Models are completed, provide
+                                                            individual drawings for manufacture, along with
+                                                            DXF (for laser / cnc) and PDF for general viewing.
+                                                        </li>
+                                                        <li class="accordion-fast-track-item">
+                                                            Finally create a front end drawing with various
+                                                            views such as Front, Side, Top, Sections,
+                                                            Isometric, Exploded, along with clear Bill of
+                                                            Materials and balloon items.
+                                                        </li>
+                                                        <li class="accordion-fast-track-item">
+                                                            Send package for checking on Interference
+                                                            Detection, Hole Alignment, Quantity / BOM
+                                                            review.Project prioritised with numerous Designers
+                                                            involved internally, Reverse Engineered initially
+                                                            with parts and sub-assemblies submitted, followed
+                                                            by further design changes and improvements.
+                                                        </li>
+                                                    </ul>
+                                                    <a
+                                                        href="/wp-content/themes/myTheme/src/assets/images/new-gallery/web-gallery/fast-track-img (3).png"><img
+                                                            src="/wp-content/themes/myTheme/src/assets/images/new-gallery/web-gallery/fast-track-img (3).png"
+                                                            alt="Imagine Draughting Services"
+                                                            data-caption="Imagine Draughting Services" /></a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
                 </div>
             </div>
-        </div>
-        <div class="gallery__outter-wrapper">
-            <div class="gallery">
-                <h2 class="gallery__min-section-heading hidden-left">2d cad services</h2>
-                <div class="gallery__inner-wrapper">
-                    <a href="/wp-content/themes/myTheme/src/assets/images/gallery/2d-img (1).jpg"
-                        data-caption="2D CAD Drafting Services - Imagine Draughting Services">
-                        <img src="/wp-content/themes/myTheme/src/assets/images/gallery/2d-img (1).jpg"
-                            alt="2D CAD Drafting Service example - Imagine Draughting Services"
-                            title="2D CAD Drafting Service example - Imagine Draughting Services" />
-                    </a>
-                    <a href="/wp-content/themes/myTheme/src/assets/images/gallery/2d-img (2).jpg"
-                        data-caption="Architectural CAD Drawings - Imagine Draughting Services">
-                        <img src="/wp-content/themes/myTheme/src/assets/images/gallery/2d-img (2).jpg"
-                            alt="Architectural 2D CAD drawing for building plans"
-                            title="Architectural 2D CAD drawing for building plans" />
-                    </a>
-                    <a href="/wp-content/themes/myTheme/src/assets/images/gallery/2d-img (3).jpg"
-                        data-caption="Engineering CAD Services - Imagine Draughting Services">
-                        <img src="/wp-content/themes/myTheme/src/assets/images/gallery/2d-img (3).jpg"
-                            alt="Engineering 2D CAD drafting service project"
-                            title="Engineering 2D CAD drafting service project" />
-                    </a>
-                    <a href="/wp-content/themes/myTheme/src/assets/images/gallery/2d-img (4).jpg"
-                        data-caption="Technical Drafting in 2D CAD - Imagine Draughting Services">
-                        <img src="/wp-content/themes/myTheme/src/assets/images/gallery/2d-img (4).jpg"
-                            alt="Technical 2D CAD drafting for architectural design"
-                            title="Technical 2D CAD drafting for architectural design" />
-                    </a>
-                    <a href="/wp-content/themes/myTheme/src/assets/images/gallery/2d-img (5).jpg"
-                        data-caption="2D CAD Floor Plans - Imagine Draughting Services">
-                        <img src="/wp-content/themes/myTheme/src/assets/images/gallery/2d-img (5).jpg"
-                            alt="2D CAD floor plan drafting service" title="2D CAD floor plan drafting service" />
-                    </a>
-                    <a href="/wp-content/themes/myTheme/src/assets/images/gallery/2d-img (6).jpg"
-                        data-caption="Architectural Drafting CAD Services - Imagine Draughting Services">
-                        <img src="/wp-content/themes/myTheme/src/assets/images/gallery/2d-img (6).jpg"
-                            alt="Architectural 2D CAD drafting and drawing services"
-                            title="Architectural 2D CAD drafting and drawing services" />
-                    </a>
-                    <a href="/wp-content/themes/myTheme/src/assets/images/gallery/2d-img (7).jpg"
-                        data-caption="Professional 2D CAD Services - Imagine Draughting Services">
-                        <img src="/wp-content/themes/myTheme/src/assets/images/gallery/2d-img (7).jpg"
-                            alt="Professional 2D CAD drafting service example"
-                            title="Professional 2D CAD drafting service example" />
-                    </a>
-                    <a href="/wp-content/themes/myTheme/src/assets/images/gallery/2d-img (8).jpg"
-                        data-caption="2D CAD Technical Drawings - Imagine Draughting Services">
-                        <img src="/wp-content/themes/myTheme/src/assets/images/gallery/2d-img (8).jpg"
-                            alt="2D CAD technical drawing service example"
-                            title="2D CAD technical drawing service example" />
-                    </a>
-                    <a href="/wp-content/themes/myTheme/src/assets/images/gallery/2d-img (9).jpg"
-                        data-caption="Architectural CAD Drafting - Imagine Draughting Services">
-                        <img src="/wp-content/themes/myTheme/src/assets/images/gallery/2d-img (9).jpg"
-                            alt="Architectural CAD drafting in 2D format"
-                            title="Architectural CAD drafting in 2D format" />
-                    </a>
-                    <a href="/wp-content/themes/myTheme/src/assets/images/gallery/2d-img (10).jpg"
-                        data-caption="Engineering Drafting Services in CAD - Imagine Draughting Services">
-                        <img src="/wp-content/themes/myTheme/src/assets/images/gallery/2d-img (10).jpg"
-                            alt="Engineering 2D CAD drafting service for technical projects"
-                            title="Engineering 2D CAD drafting service for technical projects" />
-                    </a>
-                    <a href="/wp-content/themes/myTheme/src/assets/images/gallery/2d-img (11).jpg"
-                        data-caption="2D CAD Floor Plan Drafting - Imagine Draughting Services">
-                        <img src="/wp-content/themes/myTheme/src/assets/images/gallery/2d-img (11).jpg"
-                            alt="2D CAD floor plan drafting and design service"
-                            title="2D CAD floor plan drafting and design service" />
-                    </a>
-                    <a href="/wp-content/themes/myTheme/src/assets/images/gallery/2d-img (12).jpg"
-                        data-caption="Professional 2D CAD Drawings - Imagine Draughting Services">
-                        <img src="/wp-content/themes/myTheme/src/assets/images/gallery/2d-img (12).jpg"
-                            alt="Professional 2D CAD drawing example for architectural design"
-                            title="Professional 2D CAD drawing example for architectural design" />
-                    </a>
-                    <a href="/wp-content/themes/myTheme/src/assets/images/gallery/2d-img (13).jpg"
-                        data-caption="Architectural Plans in CAD - Imagine Draughting Services">
-                        <img src="/wp-content/themes/myTheme/src/assets/images/gallery/2d-img (13).jpg"
-                            alt="Detailed architectural plans created with 2D CAD drafting"
-                            title="Detailed architectural plans created with 2D CAD drafting" />
-                    </a>
-                    <a href="/wp-content/themes/myTheme/src/assets/images/gallery/2d-img (14).jpg"
-                        data-caption="2D CAD Drafting for Engineering Projects - Imagine Draughting Services">
-                        <img src="/wp-content/themes/myTheme/src/assets/images/gallery/2d-img (14).jpg"
-                            alt="2D CAD drafting for engineering project example"
-                            title="2D CAD drafting for engineering project example" />
-                    </a>
-                    <a href="/wp-content/themes/myTheme/src/assets/images/gallery/2d-img (15).jpg"
-                        data-caption="Technical 2D CAD Drawings - Imagine Draughting Services">
-                        <img src="/wp-content/themes/myTheme/src/assets/images/gallery/2d-img (15).jpg"
-                            alt="Technical 2D CAD drawing service example"
-                            title="Technical 2D CAD drawing service example" />
-                    </a>
-                    <a href="/wp-content/themes/myTheme/src/assets/images/gallery/2d-img (16).jpg"
-                        data-caption="Architectural CAD Drafting Services - Imagine Draughting Services">
-                        <img src="/wp-content/themes/myTheme/src/assets/images/gallery/2d-img (16).jpg"
-                            alt="Architectural 2D CAD drafting for building design"
-                            title="Architectural 2D CAD drafting for building design" />
-                    </a>
-                    <a href="/wp-content/themes/myTheme/src/assets/images/gallery/2d-img (17).jpg"
-                        data-caption="2D CAD Service for Floor Plans - Imagine Draughting Services">
-                        <img src="/wp-content/themes/myTheme/src/assets/images/gallery/2d-img (17).jpg"
-                            alt="2D CAD service example for detailed floor plans"
-                            title="2D CAD service example for detailed floor plans" />
-                    </a>
-                    <a href="/wp-content/themes/myTheme/src/assets/images/gallery/2d-img (18).jpg"
-                        data-caption="CAD Drafting and Design Services - Imagine Draughting Services">
-                        <img src="/wp-content/themes/myTheme/src/assets/images/gallery/2d-img (18).jpg"
-                            alt="CAD drafting and 2D design service example"
-                            title="CAD drafting and 2D design service example" />
-                    </a>
-                </div>
-            </div>
-            <div class="gallery">
-                <h2 class="gallery__min-section-heading hidden-left">3D CAD Services Gallery</h2>
-                <div class="gallery__inner-wrapper">
-
-                    <a href="/wp-content/themes/myTheme/src/assets/images/gallery/3d-img (1).jpg"
-                        data-caption="3D CAD architectural rendering by Imagine Draughting Services">
-                        <img src="/wp-content/themes/myTheme/src/assets/images/gallery/3d-img (1).jpg"
-                            alt="3D CAD architectural rendering - Imagine Draughting Services"
-                            title="3D CAD architectural rendering by Imagine Draughting Services" loading="lazy" />
-                    </a>
-
-                    <a href="/wp-content/themes/myTheme/src/assets/images/gallery/3d-img (2).jpg"
-                        data-caption="Mechanical 3D CAD model by Imagine Draughting Services">
-                        <img src="/wp-content/themes/myTheme/src/assets/images/gallery/3d-img (2).jpg"
-                            alt="Mechanical 3D CAD model - Imagine Draughting Services"
-                            title="Mechanical 3D CAD model by Imagine Draughting Services" loading="lazy" />
-                    </a>
-
-                    <a href="/wp-content/themes/myTheme/src/assets/images/gallery/3d-img (3).jpg"
-                        data-caption="Industrial 3D CAD design by Imagine Draughting Services">
-                        <img src="/wp-content/themes/myTheme/src/assets/images/gallery/3d-img (3).jpg"
-                            alt="Industrial 3D CAD design - Imagine Draughting Services"
-                            title="Industrial 3D CAD design by Imagine Draughting Services" loading="lazy" />
-                    </a>
-
-                    <a href="/wp-content/themes/myTheme/src/assets/images/gallery/3d-img (4).jpg"
-                        data-caption="Product prototype CAD rendering by Imagine Draughting Services">
-                        <img src="/wp-content/themes/myTheme/src/assets/images/gallery/3d-img (4).jpg"
-                            alt="Product prototype CAD rendering - Imagine Draughting Services"
-                            title="Product prototype CAD rendering by Imagine Draughting Services" loading="lazy" />
-                    </a>
-
-                    <a href="/wp-content/themes/myTheme/src/assets/images/gallery/3d-img (5).jpg"
-                        data-caption="Architectural CAD visualization by Imagine Draughting Services">
-                        <img src="/wp-content/themes/myTheme/src/assets/images/gallery/3d-img (5).jpg"
-                            alt="Architectural CAD visualization - Imagine Draughting Services"
-                            title="Architectural CAD visualization by Imagine Draughting Services" loading="lazy" />
-                    </a>
-
-                    <a href="/wp-content/themes/myTheme/src/assets/images/gallery/3d-img (6).jpg"
-                        data-caption="Engineering CAD drawing in 3D by Imagine Draughting Services">
-                        <img src="/wp-content/themes/myTheme/src/assets/images/gallery/3d-img (6).jpg"
-                            alt="Engineering CAD drawing in 3D - Imagine Draughting Services"
-                            title="Engineering CAD drawing in 3D by Imagine Draughting Services" loading="lazy" />
-                    </a>
-
-                    <a href="/wp-content/themes/myTheme/src/assets/images/gallery/3d-img (7).jpg"
-                        data-caption="3D CAD building design by Imagine Draughting Services">
-                        <img src="/wp-content/themes/myTheme/src/assets/images/gallery/3d-img (7).jpg"
-                            alt="3D CAD building design - Imagine Draughting Services"
-                            title="3D CAD building design by Imagine Draughting Services" loading="lazy" />
-                    </a>
-
-                    <a href="/wp-content/themes/myTheme/src/assets/images/gallery/3d-img (8).jpg"
-                        data-caption="Interior CAD modeling in 3D by Imagine Draughting Services">
-                        <img src="/wp-content/themes/myTheme/src/assets/images/gallery/3d-img (8).jpg"
-                            alt="Interior CAD modeling in 3D - Imagine Draughting Services"
-                            title="Interior CAD modeling in 3D by Imagine Draughting Services" loading="lazy" />
-                    </a>
-
-                    <a href="/wp-content/themes/myTheme/src/assets/images/gallery/3d-img (9).jpg"
-                        data-caption="Mechanical assembly CAD model by Imagine Draughting Services">
-                        <img src="/wp-content/themes/myTheme/src/assets/images/gallery/3d-img (9).jpg"
-                            alt="Mechanical assembly CAD model - Imagine Draughting Services"
-                            title="Mechanical assembly CAD model by Imagine Draughting Services" loading="lazy" />
-                    </a>
-
-                    <a href="/wp-content/themes/myTheme/src/assets/images/gallery/3d-img (10).jpg"
-                        data-caption="Structural CAD visualization in 3D by Imagine Draughting Services">
-                        <img src="/wp-content/themes/myTheme/src/assets/images/gallery/3d-img (10).jpg"
-                            alt="Structural CAD visualization in 3D - Imagine Draughting Services"
-                            title="Structural CAD visualization in 3D by Imagine Draughting Services" loading="lazy" />
-                    </a>
-
-                    <a href="/wp-content/themes/myTheme/src/assets/images/gallery/3d-img (11).jpg"
-                        data-caption="Prototype 3D CAD design by Imagine Draughting Services">
-                        <img src="/wp-content/themes/myTheme/src/assets/images/gallery/3d-img (11).jpg"
-                            alt="Prototype 3D CAD design - Imagine Draughting Services"
-                            title="Prototype 3D CAD design by Imagine Draughting Services" loading="lazy" />
-                    </a>
-
-                    <a href="/wp-content/themes/myTheme/src/assets/images/gallery/3d-img (12).jpg"
-                        data-caption="CAD rendering for mechanical parts by Imagine Draughting Services">
-                        <img src="/wp-content/themes/myTheme/src/assets/images/gallery/3d-img (12).jpg"
-                            alt="CAD rendering for mechanical parts - Imagine Draughting Services"
-                            title="CAD rendering for mechanical parts by Imagine Draughting Services" loading="lazy" />
-                    </a>
-
-                    <a href="/wp-content/themes/myTheme/src/assets/images/gallery/3d-img (13).jpg"
-                        data-caption="Industrial 3D CAD project by Imagine Draughting Services">
-                        <img src="/wp-content/themes/myTheme/src/assets/images/gallery/3d-img (13).jpg"
-                            alt="Industrial 3D CAD project - Imagine Draughting Services"
-                            title="Industrial 3D CAD project by Imagine Draughting Services" loading="lazy" />
-                    </a>
-
-                    <a href="/wp-content/themes/myTheme/src/assets/images/gallery/3d-img (14).jpg"
-                        data-caption="3D CAD visualization of architectural plan by Imagine Draughting Services">
-                        <img src="/wp-content/themes/myTheme/src/assets/images/gallery/3d-img (14).jpg"
-                            alt="3D CAD visualization of architectural plan - Imagine Draughting Services"
-                            title="3D CAD visualization of architectural plan by Imagine Draughting Services"
-                            loading="lazy" />
-                    </a>
-
-                    <a href="/wp-content/themes/myTheme/src/assets/images/gallery/3d-img (15).jpg"
-                        data-caption="Detailed 3D CAD modeling by Imagine Draughting Services">
-                        <img src="/wp-content/themes/myTheme/src/assets/images/gallery/3d-img (15).jpg"
-                            alt="Detailed 3D CAD modeling - Imagine Draughting Services"
-                            title="Detailed 3D CAD modeling by Imagine Draughting Services" loading="lazy" />
-                    </a>
-
-                    <a href="/wp-content/themes/myTheme/src/assets/images/gallery/3d-img (16).jpg"
-                        data-caption="Engineering CAD concept in 3D by Imagine Draughting Services">
-                        <img src="/wp-content/themes/myTheme/src/assets/images/gallery/3d-img (16).jpg"
-                            alt="Engineering CAD concept in 3D - Imagine Draughting Services"
-                            title="Engineering CAD concept in 3D by Imagine Draughting Services" loading="lazy" />
-                    </a>
-
-                    <a href="/wp-content/themes/myTheme/src/assets/images/gallery/3d-img (17).jpg"
-                        data-caption="Industrial machine CAD rendering by Imagine Draughting Services">
-                        <img src="/wp-content/themes/myTheme/src/assets/images/gallery/3d-img (17).jpg"
-                            alt="Industrial machine CAD rendering - Imagine Draughting Services"
-                            title="Industrial machine CAD rendering by Imagine Draughting Services" loading="lazy" />
-                    </a>
-
-                    <a href="/wp-content/themes/myTheme/src/assets/images/gallery/3d-img (18).jpg"
-                        data-caption="3D CAD model for product design by Imagine Draughting Services">
-                        <img src="/wp-content/themes/myTheme/src/assets/images/gallery/3d-img (18).jpg"
-                            alt="3D CAD model for product design - Imagine Draughting Services"
-                            title="3D CAD model for product design by Imagine Draughting Services" loading="lazy" />
-                    </a>
-
-                </div>
-            </div>
-            <div class="gallery">
-                <h2 class="gallery__min-section-heading hidden-left">CAD conversions</h2>
-                <div class="gallery__inner-wrapper">
-                    <a href="/wp-content/themes/myTheme/src/assets/images/gallery/cad-conversion-img (1).jpg"
-                        data-caption="CAD Conversion Services - Imagine Draughting Services">
-                        <img src="/wp-content/themes/myTheme/src/assets/images/gallery/cad-conversion-thumbnail-1.jpg"
-                            alt="Example of CAD conversion service - Imagine Draughting Services"
-                            title="Example of CAD conversion service - Imagine Draughting Services" />
-                    </a>
-                    <a href="/wp-content/themes/myTheme/src/assets/images/gallery/cad-conversion-img (2).jpg"
-                        data-caption="PDF to CAD Conversion - Imagine Draughting Services">
-                        <img src="/wp-content/themes/myTheme/src/assets/images/gallery/cad-conversion-thumbnail-2.jpg"
-                            alt="PDF to CAD conversion example - Imagine Draughting Services"
-                            title="PDF to CAD conversion example - Imagine Draughting Services" />
-                    </a>
-                    <a href="/wp-content/themes/myTheme/src/assets/images/gallery/cad-conversion-img (4).jpg"
-                        data-caption="Image to CAD Drafting - Imagine Draughting Services">
-                        <img src="/wp-content/themes/myTheme/src/assets/images/gallery/cad-conversion-thumbnail-3.jpg"
-                            alt="Raster image converted to CAD drawing" title="Raster image converted to CAD drawing" />
-                    </a>
-                    <a href="/wp-content/themes/myTheme/src/assets/images/gallery/cad-conversion-img (5).jpg"
-                        data-caption="Old Drawings to CAD Conversion - Imagine Draughting Services">
-                        <img src="/wp-content/themes/myTheme/src/assets/images/gallery/cad-conversion-thumbnail-4.jpg"
-                            alt="Old technical drawing converted into CAD format"
-                            title="Old technical drawing converted into CAD format" />
-                    </a>
-                </div>
-            </div>
-
-            <div class="gallery">
-                <h2 class="gallery__min-section-heading hidden-left">Rendered images</h2>
-                <div class="gallery__inner-wrapper">
-                    <a href="/wp-content/themes/myTheme/src/assets/images/gallery/rendered-img (1).jpg"
-                        data-caption="Architectural 3D rendering - Imagine Draughting Services">
-                        <img src="/wp-content/themes/myTheme/src/assets/images/gallery/rendered-img (1).jpg"
-                            alt="Architectural 3D rendered visualization - Imagine Draughting Services"
-                            title="Architectural 3D rendered visualization - Imagine Draughting Services" />
-                    </a>
-                    <a href="/wp-content/themes/myTheme/src/assets/images/gallery/rendered-img (2).jpg"
-                        data-caption="Interior rendering - Imagine Draughting Services">
-                        <img src="/wp-content/themes/myTheme/src/assets/images/gallery/rendered-img (2).jpg"
-                            alt="Photorealistic interior rendering service"
-                            title="Photorealistic interior rendering service" />
-                    </a>
-                    <a href="/wp-content/themes/myTheme/src/assets/images/gallery/rendered-img (3).jpg"
-                        data-caption="Product rendering - Imagine Draughting Services">
-                        <img src="/wp-content/themes/myTheme/src/assets/images/gallery/rendered-img (3).jpg"
-                            alt="3D rendered product visualization" title="3D rendered product visualization" />
-                    </a>
-                    <a href="/wp-content/themes/myTheme/src/assets/images/gallery/rendered-img (4).jpg"
-                        data-caption="Exterior building rendering - Imagine Draughting Services">
-                        <img src="/wp-content/themes/myTheme/src/assets/images/gallery/rendered-img (4).jpg"
-                            alt="Exterior architectural rendering of building design"
-                            title="Exterior architectural rendering of building design" />
-                    </a>
-                    <a href="/wp-content/themes/myTheme/src/assets/images/gallery/rendered-img (5).jpg"
-                        data-caption="Landscape rendering - Imagine Draughting Services">
-                        <img src="/wp-content/themes/myTheme/src/assets/images/gallery/rendered-img (5).jpg"
-                            alt="3D landscape rendering for architectural project"
-                            title="3D landscape rendering for architectural project" />
-                    </a>
-                    <a href="/wp-content/themes/myTheme/src/assets/images/gallery/rendered-img (6).jpg"
-                        data-caption="Engineering rendering - Imagine Draughting Services">
-                        <img src="/wp-content/themes/myTheme/src/assets/images/gallery/rendered-img (6).jpg"
-                            alt="Engineering visualization rendered in 3D CAD"
-                            title="Engineering visualization rendered in 3D CAD" />
-                    </a>
-                    <a href="/wp-content/themes/myTheme/src/assets/images/gallery/rendered-img (7).jpg"
-                        data-caption="Furniture rendering - Imagine Draughting Services">
-                        <img src="/wp-content/themes/myTheme/src/assets/images/gallery/rendered-img (7).jpg"
-                            alt="3D rendered furniture visualization" title="3D rendered furniture visualization" />
-                    </a>
-                    <a href="/wp-content/themes/myTheme/src/assets/images/gallery/rendered-img (8).jpg"
-                        data-caption="Industrial rendering - Imagine Draughting Services">
-                        <img src="/wp-content/themes/myTheme/src/assets/images/gallery/rendered-img (8).jpg"
-                            alt="Industrial design rendered in 3D" title="Industrial design rendered in 3D" />
-                    </a>
-                    <a href="/wp-content/themes/myTheme/src/assets/images/gallery/rendered-img (9).jpg"
-                        data-caption="Concept rendering - Imagine Draughting Services">
-                        <img src="/wp-content/themes/myTheme/src/assets/images/gallery/rendered-img (9).jpg"
-                            alt="Conceptual rendering for design presentation"
-                            title="Conceptual rendering for design presentation" />
-                    </a>
-                    <a href="/wp-content/themes/myTheme/src/assets/images/gallery/rendered-img (10).jpg"
-                        data-caption="Architectural visualization - Imagine Draughting Services">
-                        <img src="/wp-content/themes/myTheme/src/assets/images/gallery/rendered-img (10).jpg"
-                            alt="Architectural visualization rendered in 3D"
-                            title="Architectural visualization rendered in 3D" />
-                    </a>
-                    <a href="/wp-content/themes/myTheme/src/assets/images/gallery/rendered-img (11).jpg"
-                        data-caption="Photorealistic rendering - Imagine Draughting Services">
-                        <img src="/wp-content/themes/myTheme/src/assets/images/gallery/rendered-img (11).jpg"
-                            alt="Photorealistic 3D rendering example" title="Photorealistic 3D rendering example" />
-                    </a>
-                    <a href="/wp-content/themes/myTheme/src/assets/images/gallery/rendered-img (12).jpg"
-                        data-caption="Exterior house rendering - Imagine Draughting Services">
-                        <img src="/wp-content/themes/myTheme/src/assets/images/gallery/rendered-img (12).jpg"
-                            alt="Exterior house rendered visualization" title="Exterior house rendered visualization" />
-                    </a>
-                    <a href="/wp-content/themes/myTheme/src/assets/images/gallery/rendered-img (13).jpg"
-                        data-caption="Interior design rendering - Imagine Draughting Services">
-                        <img src="/wp-content/themes/myTheme/src/assets/images/gallery/rendered-img (13).jpg"
-                            alt="Interior design visualization rendering"
-                            title="Interior design visualization rendering" />
-                    </a>
-                    <a href="/wp-content/themes/myTheme/src/assets/images/gallery/rendered-img (14).jpg"
-                        data-caption="Product concept rendering - Imagine Draughting Services">
-                        <img src="/wp-content/themes/myTheme/src/assets/images/gallery/rendered-img (14).jpg"
-                            alt="3D product concept rendering example" title="3D product concept rendering example" />
-                    </a>
-                    <a href="/wp-content/themes/myTheme/src/assets/images/gallery/rendered-img (15).jpg"
-                        data-caption="Mechanical rendering - Imagine Draughting Services">
-                        <img src="/wp-content/themes/myTheme/src/assets/images/gallery/rendered-img (15).jpg"
-                            alt="Mechanical CAD rendering example" title="Mechanical CAD rendering example" />
-                    </a>
-                    <a href="/wp-content/themes/myTheme/src/assets/images/gallery/rendered-img (16).jpg"
-                        data-caption="Architectural model rendering - Imagine Draughting Services">
-                        <img src="/wp-content/themes/myTheme/src/assets/images/gallery/rendered-img (16).jpg"
-                            alt="Architectural model rendering in 3D" title="Architectural model rendering in 3D" />
-                    </a>
-                    <a href="/wp-content/themes/myTheme/src/assets/images/gallery/rendered-img (17).jpg"
-                        data-caption="Visualization rendering - Imagine Draughting Services">
-                        <img src="/wp-content/themes/myTheme/src/assets/images/gallery/rendered-img (17).jpg"
-                            alt="3D visualization rendering service" title="3D visualization rendering service" />
-                    </a>
-                    <a href="/wp-content/themes/myTheme/src/assets/images/gallery/rendered-img (18).jpg"
-                        data-caption="High-quality rendering - Imagine Draughting Services">
-                        <img src="/wp-content/themes/myTheme/src/assets/images/gallery/rendered-img (18).jpg"
-                            alt="High-quality 3D rendering service example"
-                            title="High-quality 3D rendering service example" />
-                    </a>
-                </div>
-            </div>
-
-            <div class="gallery">
-                <h2 class="gallery__min-section-heading hidden-left">Reverse engineering</h2>
-                <div class="gallery__inner-wrapper">
-                    <a href="/wp-content/themes/myTheme/src/assets/images/gallery/reverse-img (1).jpg"
-                        data-caption="3D scanned part reverse engineered - Imagine Draughting Services">
-                        <img src="/wp-content/themes/myTheme/src/assets/images/gallery/reverse-img (1).jpg"
-                            alt="3D scanned part reverse engineered" title="3D scanned part reverse engineered" />
-                    </a>
-                    <a href="/wp-content/themes/myTheme/src/assets/images/gallery/reverse-img (2).jpg"
-                        data-caption="Mechanical component reverse engineered into CAD - Imagine Draughting Services">
-                        <img src="/wp-content/themes/myTheme/src/assets/images/gallery/reverse-img (2).jpg"
-                            alt="Mechanical component reverse engineered into CAD"
-                            title="Mechanical component reverse engineered into CAD" />
-                    </a>
-                    <a href="/wp-content/themes/myTheme/src/assets/images/gallery/reverse-img (3).jpg"
-                        data-caption="Product reverse engineering drawing - Imagine Draughting Services">
-                        <img src="/wp-content/themes/myTheme/src/assets/images/gallery/reverse-img (3).jpg"
-                            alt="Reverse engineering drawing of a product"
-                            title="Reverse engineering drawing of a product" />
-                    </a>
-                    <a href="/wp-content/themes/myTheme/src/assets/images/gallery/reverse-img (4).jpg"
-                        data-caption="Legacy part reverse engineered - Imagine Draughting Services">
-                        <img src="/wp-content/themes/myTheme/src/assets/images/gallery/reverse-img (4).jpg"
-                            alt="Legacy part reverse engineered into CAD format"
-                            title="Legacy part reverse engineered into CAD format" />
-                    </a>
-                    <a href="/wp-content/themes/myTheme/src/assets/images/gallery/reverse-img (5).jpg"
-                        data-caption="Complex geometry reverse engineered - Imagine Draughting Services">
-                        <img src="/wp-content/themes/myTheme/src/assets/images/gallery/reverse-img (5).jpg"
-                            alt="Complex geometry part reverse engineered"
-                            title="Complex geometry part reverse engineered" />
-                    </a>
-                    <a href="/wp-content/themes/myTheme/src/assets/images/gallery/reverse-img (6).jpg"
-                        data-caption="Component scanned and reverse engineered - Imagine Draughting Services">
-                        <img src="/wp-content/themes/myTheme/src/assets/images/gallery/reverse-img (6).jpg"
-                            alt="Component scanned and reverse engineered"
-                            title="Component scanned and reverse engineered" />
-                    </a>
-                    <a href="/wp-content/themes/myTheme/src/assets/images/gallery/reverse-img (7).jpg"
-                        data-caption="Old drawing converted through reverse engineering - Imagine Draughting Services">
-                        <img src="/wp-content/themes/myTheme/src/assets/images/gallery/reverse-img (7).jpg"
-                            alt="Old drawing reverse engineered into CAD"
-                            title="Old drawing reverse engineered into CAD" />
-                    </a>
-                    <a href="/wp-content/themes/myTheme/src/assets/images/gallery/reverse-img (8).jpg"
-                        data-caption="3D part reverse engineered for manufacturing - Imagine Draughting Services">
-                        <img src="/wp-content/themes/myTheme/src/assets/images/gallery/reverse-img (8).jpg"
-                            alt="3D part reverse engineered for manufacturing"
-                            title="3D part reverse engineered for manufacturing" />
-                    </a>
-                    <a href="/wp-content/themes/myTheme/src/assets/images/gallery/reverse-img (9).jpg"
-                        data-caption="Mechanical assembly reverse engineered - Imagine Draughting Services">
-                        <img src="/wp-content/themes/myTheme/src/assets/images/gallery/reverse-img (9).jpg"
-                            alt="Mechanical assembly reverse engineered"
-                            title="Mechanical assembly reverse engineered" />
-                    </a>
-                    <a href="/wp-content/themes/myTheme/src/assets/images/gallery/reverse-img (10).jpg"
-                        data-caption="Industrial part reverse engineered - Imagine Draughting Services">
-                        <img src="/wp-content/themes/myTheme/src/assets/images/gallery/reverse-img (10).jpg"
-                            alt="Industrial part reverse engineered into CAD"
-                            title="Industrial part reverse engineered into CAD" />
-                    </a>
-                    <a href="/wp-content/themes/myTheme/src/assets/images/gallery/reverse-img (11).jpg"
-                        data-caption="Technical reverse engineering of components - Imagine Draughting Services">
-                        <img src="/wp-content/themes/myTheme/src/assets/images/gallery/reverse-img (11).jpg"
-                            alt="Technical reverse engineering of components"
-                            title="Technical reverse engineering of components" />
-                    </a>
-                    <a href="/wp-content/themes/myTheme/src/assets/images/gallery/reverse-img (12).jpg"
-                        data-caption="Detailed CAD model from reverse engineering - Imagine Draughting Services">
-                        <img src="/wp-content/themes/myTheme/src/assets/images/gallery/reverse-img (12).jpg"
-                            alt="Detailed CAD model created through reverse engineering"
-                            title="Detailed CAD model created through reverse engineering" />
-                    </a>
-                </div>
-            </div>
-
-            <div class="gallery">
-                <h2 class="gallery__min-section-heading hidden-left">Prototype</h2>
-                <div class="gallery__inner-wrapper">
-                    <a href="/wp-content/themes/myTheme/src/assets/images/gallery/prototype-img (1).jpg"
-                        data-caption="3D printed prototype part - Imagine Draughting Services">
-                        <img src="/wp-content/themes/myTheme/src/assets/images/gallery/prototype-img (1).jpg"
-                            alt="3D printed prototype part" title="3D printed prototype part" />
-                    </a>
-                    <a href="/wp-content/themes/myTheme/src/assets/images/gallery/prototype-img (2).jpg"
-                        data-caption="Functional prototype model - Imagine Draughting Services">
-                        <img src="/wp-content/themes/myTheme/src/assets/images/gallery/prototype-img (2).jpg"
-                            alt="Functional prototype model" title="Functional prototype model" />
-                    </a>
-                    <a href="/wp-content/themes/myTheme/src/assets/images/gallery/prototype-img (3).jpg"
-                        data-caption="Engineering prototype example - Imagine Draughting Services">
-                        <img src="/wp-content/themes/myTheme/src/assets/images/gallery/prototype-img (3).jpg"
-                            alt="Engineering prototype example" title="Engineering prototype example" />
-                    </a>
-                    <a href="/wp-content/themes/myTheme/src/assets/images/gallery/prototype-img (4).jpg"
-                        data-caption="Prototype component design - Imagine Draughting Services">
-                        <img src="/wp-content/themes/myTheme/src/assets/images/gallery/prototype-img (4).jpg"
-                            alt="Prototype component design" title="Prototype component design" />
-                    </a>
-                    <a href="/wp-content/themes/myTheme/src/assets/images/gallery/prototype-img (5).jpg"
-                        data-caption="Mechanical prototype assembly - Imagine Draughting Services">
-                        <img src="/wp-content/themes/myTheme/src/assets/images/gallery/prototype-img (5).jpg"
-                            alt="Mechanical prototype assembly" title="Mechanical prototype assembly" />
-                    </a>
-                    <a href="/wp-content/themes/myTheme/src/assets/images/gallery/prototype-img (6).jpg"
-                        data-caption="Detailed prototype model - Imagine Draughting Services">
-                        <img src="/wp-content/themes/myTheme/src/assets/images/gallery/prototype-img (6).jpg"
-                            alt="Detailed prototype model" title="Detailed prototype model" />
-                    </a>
-                    <a href="/wp-content/themes/myTheme/src/assets/images/gallery/prototype-img (7).jpg"
-                        data-caption="Industrial prototype part - Imagine Draughting Services">
-                        <img src="/wp-content/themes/myTheme/src/assets/images/gallery/prototype-img (7).jpg"
-                            alt="Industrial prototype part" title="Industrial prototype part" />
-                    </a>
-                    <a href="/wp-content/themes/myTheme/src/assets/images/gallery/prototype-img (8).jpg"
-                        data-caption="Physical prototype development - Imagine Draughting Services">
-                        <img src="/wp-content/themes/myTheme/src/assets/images/gallery/prototype-img (8).jpg"
-                            alt="Physical prototype development" title="Physical prototype development" />
-                    </a>
-                    <a href="/wp-content/themes/myTheme/src/assets/images/gallery/prototype-img (9).jpg"
-                        data-caption="Product prototype testing - Imagine Draughting Services">
-                        <img src="/wp-content/themes/myTheme/src/assets/images/gallery/prototype-img (9).jpg"
-                            alt="Product prototype testing" title="Product prototype testing" />
-                    </a>
-                    <a href="/wp-content/themes/myTheme/src/assets/images/gallery/prototype-img (10).jpg"
-                        data-caption="CAD to prototype conversion - Imagine Draughting Services">
-                        <img src="/wp-content/themes/myTheme/src/assets/images/gallery/prototype-img (10).jpg"
-                            alt="CAD to prototype conversion" title="CAD to prototype conversion" />
-                    </a>
-                    <a href="/wp-content/themes/myTheme/src/assets/images/gallery/prototype-img (11).jpg"
-                        data-caption="Prototype assembly demonstration - Imagine Draughting Services">
-                        <img src="/wp-content/themes/myTheme/src/assets/images/gallery/prototype-img (11).jpg"
-                            alt="Prototype assembly demonstration" title="Prototype assembly demonstration" />
-                    </a>
-                    <a href="/wp-content/themes/myTheme/src/assets/images/gallery/prototype-img (12).jpg"
-                        data-caption="Finished prototype example - Imagine Draughting Services">
-                        <img src="/wp-content/themes/myTheme/src/assets/images/gallery/prototype-img (12).jpg"
-                            alt="Finished prototype example" title="Finished prototype example" />
-                    </a>
-                </div>
-            </div>
-
         </div>
     </section>
 </main>
