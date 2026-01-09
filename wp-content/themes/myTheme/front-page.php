@@ -9,37 +9,44 @@
                 <div class="hero__headline-wrapper">
                     <h2 class="hero__subheadline" style="animation-delay: .6s;">
                         <img src="/wp-content/themes/myTheme/src/assets/images/hero-subheadline.svg"
-                            alt="subheadlije: precision cad solutions" aria-label="precision cad solutions"
-                            title="PRECISION CAD SOLUTIONS" class="img-contain" />
-                        <img src="/wp-content/themes/myTheme/src/assets/images/hero-subheadline-cogs.png" alt="cogs"
-                            class="icon hero-subheadline--cogs">
+                            alt="Precision CAD solutions for 2D and 3D design projects"
+                            aria-label="precision cad solutions" title="PRECISION CAD SOLUTIONS" class="img-contain" />
+                        <img src="/wp-content/themes/myTheme/src/assets/images/hero-subheadline-cogs.png"
+                            alt="CAD engineering cogs symbolising precision design" class="icon hero-subheadline--cogs">
                     </h2>
                     <h1 class="hero__headline" style="animation-delay: 1s;">
                         <img src="/wp-content/themes/myTheme/src/assets/images/hero-headline.svg"
-                            alt="headline: for every project you imagine" aria-label="for every project you imagine"
-                            title="FOR EVERY PROJECT YOU IMAGINE" class="hero-headline--mobile" />
+                            alt="Professional 2D and 3D CAD services for every project you imagine"
+                            aria-label="for every project you imagine" title="FOR EVERY PROJECT YOU IMAGINE"
+                            class="hero-headline--mobile" />
                         <img src="/wp-content/themes/myTheme/src/assets/images/hero-headline.svg"
-                            alt="headline: for every project you imagine" aria-label="for every project you imagine"
-                            title="FOR EVERY PROJECT YOU IMAGINE" class="icon hero-headline--desktop" />
+                            alt="CAD services statistics showing experience in 2D and 3D design"
+                            aria-label="for every project you imagine" title="FOR EVERY PROJECT YOU IMAGINE"
+                            class="icon hero-headline--desktop" />
                     </h1>
                     <p class="hero__paragraph">
-                        From 2D to 3D CAD Services, Imagine Draughting Services Offers
-                        Expert Support for Your Design and Manufacturing Needs. Explore
-                        Our Gallery and Contact Us Today for a Tailored Quote.
+                        Imagine Draughting Services is a professional CAD agency providing
+                        <strong>2D CAD services</strong>, <strong>3D CAD services</strong>,
+                        <strong>AutoCAD</strong> and <strong>SolidWorks</strong> solutions.
+                        We specialise in <strong>3D models</strong>, <strong>CAD conversion</strong>,
+                        technical <strong>rendering</strong> and <strong>plotting</strong>
+                        for design and manufacturing projects across the UK.
                     </p>
                 </div>
                 <div class="hero__cta-wrapper">
                     <a href="#about" class="btn cta--btn-find-out">find out more
                         <img src="/wp-content/themes/myTheme/src/assets/icons/hero-cta-arrow-icon.svg"
-                            aria-hidden="true" /></a>
+                            aria-hidden="true"
+                            alt="CAD services statistics showing experience in 2D and 3D design" /></a>
                     <a href="<?php echo site_url('gallery-works') ?>" class="btn cta--our-projects">our gallery
-                        <img src="/wp-content/themes/myTheme/src/assets/icons/hero-cta-projects-icon.svg"
+                        <img alt="2D and 3D CAD Services gallery"
+                            src="/wp-content/themes/myTheme/src/assets/icons/hero-cta-projects-icon.svg"
                             aria-hidden="true" /></a>
                 </div>
             </div>
             <div class="hero__visual-wrapper">
-                <img src="/wp-content/themes/myTheme/src/assets/images/stats-visual-mobile.svg" alt="stats visual"
-                    class="hero-visual--mobile" />
+                <img src="/wp-content/themes/myTheme/src/assets/images/stats-visual-mobile.svg"
+                    alt="2D CAD technical drawing produced in AutoCAD" class="hero-visual--mobile" />
             </div>
             <div class="hero__footer">
                 <div class="hero__footer-contact">
@@ -57,50 +64,61 @@
         <div class="hero__visual-wrapper--desktop">
             <div class="hero-visual__box">
                 <div class="gallery">
-                    <img src="/wp-content/themes/myTheme/src/assets/images/hero-slider/img-1.jpg" class="slide-img " />
+                    <img src="/wp-content/themes/myTheme/src/assets/images/hero-slider/img-1.jpg" class="slide-img "
+                        alt="3D CAD model created in SolidWorks for manufacturing" />
                     <img src="/wp-content/themes/myTheme/src/assets/images/hero-slider/img-2.jpg"
-                        class="slide-img current" />
-                    <img src="/wp-content/themes/myTheme/src/assets/images/hero-slider/img-3.jpeg" class="slide-img" />
-                    <img src="/wp-content/themes/myTheme/src/assets/images/hero-slider/img-4.jpeg" class="slide-img" />
-                    <img src="/wp-content/themes/myTheme/src/assets/images/hero-slider/img-5.jpeg" class="slide-img" />
+                        class="slide-img current" alt="2D CAD technical drawing produced in AutoCAD" />
+                    <img src="/wp-content/themes/myTheme/src/assets/images/hero-slider/img-3.jpeg" class="slide-img"
+                        alt="CAD conversion from PDF to DWG technical drawing" />
+                    <img src="/wp-content/themes/myTheme/src/assets/images/hero-slider/img-4.jpeg" class="slide-img"
+                        alt="3D CAD rendering of engineered component" />
+                    <img src="/wp-content/themes/myTheme/src/assets/images/hero-slider/img-5.jpeg" class="slide-img"
+                        alt="Detailed CAD model for product development" />
                 </div>
             </div>
             <a href="https://tinyurl.com/y5ckf7da" target="_blank"
                 class="hero-visual__box hero-visual__box--google-reviews hero-visual-box--animation">
                 <img src="/wp-content/themes/myTheme/src/assets/images/hero-slider/hero-visual-google-reviews.svg"
-                    alt="google reviews">
+                    alt="Google reviews for Imagine Draughting Services CAD agency">
             </a>
             <div class="hero-visual__box hero-visual-box--animation" style="animation-delay: .2s;">
-                <img src="/wp-content/themes/myTheme/src/assets/images/hero-slider/uk-innovate.svg" alt="UK innovate">
+                <img src="/wp-content/themes/myTheme/src/assets/images/hero-slider/uk-innovate.svg"
+                    alt="UK Innovate supported CAD design and product development">
                 <span>Funding innovation and product development</span>
             </div>
             <div class="hero-visual__box hero-visual-box--animation" style="animation-delay: .4s;">
                 <img src="/wp-content/themes/myTheme/src/assets/images/hero-slider/500+.svg"
-                    alt="500+ satisfied clients">
-
+                    alt="500+ satisfied clients with 2D and 3D CAD Services">
             </div>
             <div class="hero-visual__box hero-visual-box--animation" style="animation-delay: .6s;">
                 <span>DESIGN</span>
             </div>
             <div class="hero-visual__box">
                 <div class="gallery">
-                    <img src="/wp-content/themes/myTheme/src/assets/images/hero-slider/img-6.jpeg" class="slide-img " />
+                    <img src="/wp-content/themes/myTheme/src/assets/images/hero-slider/img-6.jpeg" class="slide-img "
+                        alt="3D CAD design for mechanical engineering project" />
                     <img src="/wp-content/themes/myTheme/src/assets/images/hero-slider/img-7.jpg"
-                        class="slide-img current" />
-                    <img src="/wp-content/themes/myTheme/src/assets/images/hero-slider/img-8.jpeg" class="slide-img" />
-                    <img src="/wp-content/themes/myTheme/src/assets/images/hero-slider/img-9.jpeg" class="slide-img" />
-                    <img src="/wp-content/themes/myTheme/src/assets/images/hero-slider/img-10.jpeg" class="slide-img" />
+                        class="slide-img current" alt="AutoCAD 2D drafting for industrial layout" />
+                    <img src="/wp-content/themes/myTheme/src/assets/images/hero-slider/img-8.jpeg" class="slide-img"
+                        alt="SolidWorks 3D model prepared for prototyping" />
+                    <img src="/wp-content/themes/myTheme/src/assets/images/hero-slider/img-9.jpeg" class="slide-img"
+                        alt="Technical CAD drawing for fabrication" />
+                    <img src="/wp-content/themes/myTheme/src/assets/images/hero-slider/img-10.jpeg"
+                        alt="CAD rendering showcasing product design details" class="slide-img" />
                 </div>
             </div>
             <div class="hero-visual__box">
                 <div class="gallery">
-                    <img src="/wp-content/themes/myTheme/src/assets/images/hero-slider/img-11.jpeg"
-                        class="slide-img " />
+                    <img src="/wp-content/themes/myTheme/src/assets/images/hero-slider/img-11.jpeg" class="slide-img "
+                        alt="3D CAD assembly model created in SolidWorks" />
                     <img src="/wp-content/themes/myTheme/src/assets/images/hero-slider/img-12.png"
-                        class="slide-img current" />
-                    <img src="/wp-content/themes/myTheme/src/assets/images/hero-slider/img-13.jpeg" class="slide-img" />
-                    <img src="/wp-content/themes/myTheme/src/assets/images/hero-slider/img-14.jpeg" class="slide-img" />
-                    <img src="/wp-content/themes/myTheme/src/assets/images/hero-slider/img-15.jpg" class="slide-img" />
+                        class="slide-img current" alt="Precision 2D CAD drawing for manufacturing process" />
+                    <img src="/wp-content/themes/myTheme/src/assets/images/hero-slider/img-13.jpeg" class="slide-img"
+                        alt="CAD model used for engineering analysis" />
+                    <img src="/wp-content/themes/myTheme/src/assets/images/hero-slider/img-14.jpeg" class="slide-img"
+                        alt="3D CAD visualisation for client presentation" />
+                    <img src="/wp-content/themes/myTheme/src/assets/images/hero-slider/img-15.jpg" class="slide-img"
+                        alt="AutoCAD drafting service for construction drawings" />
 
                 </div>
             </div>
@@ -116,17 +134,21 @@
                     alt="north and western">
             </div>
             <div class="hero-visual__box hero-visual-box--animation" style="animation-delay: 1.4s;">
-                <img src="/wp-content/themes/myTheme/src/assets/images/hero-slider/hero-30-awards.svg" alt="awards">
+                <img src="/wp-content/themes/myTheme/src/assets/images/hero-slider/hero-30-awards.svg"
+                    alt="Award-winning CAD agency with industry recognition">
             </div>
             <div class="hero-visual__box">
                 <div class="gallery">
-                    <img src="/wp-content/themes/myTheme/src/assets/images/hero-slider/img-16.jpg" class="slide-img " />
+                    <img src="/wp-content/themes/myTheme/src/assets/images/hero-slider/img-16.jpg" class="slide-img "
+                        alt="Complex 3D CAD model developed for engineering project" />
                     <img src="/wp-content/themes/myTheme/src/assets/images/hero-slider/img-17.jpg"
-                        class="slide-img current" />
-                    <img src="/wp-content/themes/myTheme/src/assets/images/hero-slider/img-18.jpg" class="slide-img" />
-                    <img src="/wp-content/themes/myTheme/src/assets/images/hero-slider/img-19.jpg" class="slide-img" />
-                    <img src="/wp-content/themes/myTheme/src/assets/images/hero-slider/img-20.jpg" class="slide-img" />
-
+                        class="slide-img current" alt="Professional CAD rendering for product marketing" />
+                    <img src="/wp-content/themes/myTheme/src/assets/images/hero-slider/img-18.jpg" class="slide-img"
+                        alt="2D CAD service for technical documentation" />
+                    <img src="/wp-content/themes/myTheme/src/assets/images/hero-slider/img-19.jpg" class="slide-img"
+                        alt="CAD conversion and redraw service example" />
+                    <img src="/wp-content/themes/myTheme/src/assets/images/hero-slider/img-20.jpg" class="slide-img"
+                        alt="3D CAD design supporting manufacturing and production" />
                 </div>
             </div>
         </div>

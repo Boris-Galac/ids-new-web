@@ -10,6 +10,10 @@
   display: flex;
   gap: 10px;
 }
+.hero-santa-cog {
+  width: min(70%, 100px);
+  display: none;
+}
 .hero__wrapper {
   position: relative;
   display: grid;
@@ -142,6 +146,10 @@
 }
 
 @media (min-width: 1024px) {
+  .hero-santa-cog {
+    width: min(70%, 300px);
+    display: block;
+  }
   .hero {
     display: grid;
     grid-template-columns: 1fr 1fr;

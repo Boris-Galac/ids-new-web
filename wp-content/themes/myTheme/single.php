@@ -23,10 +23,23 @@
                     <div class="blogs-page-section__blogs-col">
                         <article class="single-blog-article">
                             <div class="single-blog-article__thumbnail">
-                                <!-- <img src="/wp-content/themes/myTheme/src/assets/images/single-blog-cover-img.jpg"
-                                    alt="cover image of blog" /> -->
-                                <video src="/wp-content/themes/myTheme/src/assets/blog-video-overlay.mp4"
-                                    class="blog-video-overlay" loop muted autoplay></video>
+                                <?php
+                                // 1. ACF custom image
+                                if (get_field('image-banner')) { ?>
+
+                                    <img src="<?php echo esc_url(get_field('image-banner')['sizes']['pageBanner']); ?>"
+                                        alt="image banner" class="banner__img">
+
+                                <?php
+                                    // 2. Default video fallback
+                                } else { ?>
+
+                                    <video
+                                        src="<?php echo get_template_directory_uri(); ?>/src/assets/blog-video-overlay.mp4"
+                                        class="blog-video-overlay" loop muted autoplay></video>
+
+                                <?php } ?>
+
                             </div>
                             <div class="single-blog__meta-wrapper">
                                 <span class="single-blog__meta-inner-wrapper"><img

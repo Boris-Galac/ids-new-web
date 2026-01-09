@@ -36,7 +36,7 @@
     <meta name="description" content="2D & 3D CAD services for UK and abroad.">
     <meta name="robots" content="index, follow">
     <meta name="keywords"
-        content="2D, 3D, Solidworks, AautoCAD, CAD, 3D models, Cad conversion, Rendering, Plotting, CAD agency">
+        content="2D, 3D, Solidworks, AutoCAD, CAD, 3D models, Cad conversion, Rendering, Plotting, CAD agency, 2D CAD services1 3D CAD Services">
     <?php wp_head() ?>
     <meta name="google-site-verification" content="1qOxUM6OsgpiT3NHePboMrcDXWFL1MFXlSQl_x0TaBs" />
 </head>

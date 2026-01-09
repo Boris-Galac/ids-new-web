@@ -47,6 +47,59 @@
   }
 }
 /* 👉 new gallery  */
+
+/* 2d cad services */
+.cad-gallery-row {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+.cad-gallery-row .web-gallery-arrow {
+  position: absolute;
+  z-index: 3;
+  bottom: 47%;
+  transform: translateX(-50%);
+  left: 50%;
+  outline: 0;
+  width: 40px;
+  height: auto;
+}
+/* reverse engineering buildings */
+.cad-first-col,
+.cad-second-col {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  width: 100%;
+}
+
+@media (min-width: 1200px) {
+  .reverse-buildings-container {
+    display: flex;
+    flex-direction: row;
+    grid-template-columns: unset !important;
+  }
+  .reverse-buildings-container .cad-gallery-row {
+    flex-direction: row;
+  }
+  .cad-gallery-row {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+  }
+  .cad-gallery-row .web-gallery-arrow {
+    position: absolute;
+    z-index: 3;
+    bottom: 47%;
+    transform: translateX(-50%);
+    left: 50%;
+    outline: 0;
+    width: 40px;
+  }
+}
 .web-gallery-intro-text {
   display: grid;
   gap: 16px;
@@ -295,7 +348,64 @@ img[alt="gallery-tab-icon"] {
   display: grid;
   gap: 8px;
 }
+.web-gallery-special-box {
+  position: relative;
+}
+.web-gallery-special-box .web-gallery-arrow {
+  position: absolute;
+  transform: translateX(-50%);
+  left: 50%;
+  bottom: -10px;
+  object-fit: contain;
+  width: 40px;
+  outline: 0;
+  aspect-ratio: 1;
+  height: auto;
+}
+.web-gallery-cad-conversion {
+  position: relative;
+  height: 250px;
+}
+.cad-3d-services-gallery {
+  position: relative;
+}
+.cad-3d-services-gallery .slide-img {
+  background-color: white;
+}
+.accordion-body-3d-body .web-gallery-imgs-container {
+  grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+  height: 800px;
+}
+
+.cad-gallery > :nth-child(1) {
+  order: 1;
+}
+.cad-gallery > :nth-child(2) {
+  order: 3;
+}
+.cad-gallery > :nth-child(3) {
+  order: 2;
+}
+.cad-gallery > :nth-child(4) {
+  order: 4;
+}
 @media (min-width: 1200px) {
+  .accordion-body-3d-body .web-gallery-imgs-container {
+    grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+    height: 460px;
+  }
+  .cad-gallery > :nth-child(1) {
+    order: 1;
+  }
+  .cad-gallery > :nth-child(2) {
+    order: 2;
+  }
+  .cad-gallery > :nth-child(3) {
+    order: 3;
+  }
+  .cad-gallery > :nth-child(4) {
+    order: 4;
+  }
   .web-gallery-2d-first-row {
     display: none;
   }

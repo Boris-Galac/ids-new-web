@@ -114,31 +114,44 @@
                                                 alt="technology" />
                                         </div>
                                     </div>
-                                    <div class="web-gallery-imgs-container web-gallery-imgs-container--2d gallery ">
-                                        <div class="web-gallery-2d-first-row">
-                                            <a
-                                                href="/wp-content/themes/myTheme/src/assets/images/new-gallery/web-gallery/2d-img (1)--mobile.png"><img
-                                                    src="/wp-content/themes/myTheme/src/assets/images/new-gallery/web-gallery/2d-img (1)--mobile.png"
-                                                    alt="Imagine Draughting Services"
-                                                    data-caption="Imagine Draughting Services" /></a>
-                                            <a
-                                                href="/wp-content/themes/myTheme/src/assets/images/new-gallery/web-gallery/2d-img (2)--mobile.png"><img
-                                                    src="/wp-content/themes/myTheme/src/assets/images/new-gallery/web-gallery/2d-img (2)--mobile.png"
-                                                    alt="Imagine Draughting Services"
-                                                    data-caption="Imagine Draughting Services" /></a>
+                                    <div class="web-gallery-imgs-container gallery cad-gallery">
+                                        <div class="cad-gallery-row">
+                                            <div class="web-gallery-cad-conversion gallery">
+                                                <img src="/wp-content/themes/myTheme/src/assets/images/new-gallery/web-gallery/2d-img (2).jpg"
+                                                    alt="cad conversion image" class="slide-img">
+                                                <img src="/wp-content/themes/myTheme/src/assets/images/new-gallery/web-gallery/2d-img (3).jpg"
+                                                    alt="cad conversion image" class="slide-img current">
+
+                                            </div>
+                                            <div class="web-gallery-cad-conversion gallery">
+                                                <img src="/wp-content/themes/myTheme/src/assets/images/new-gallery/web-gallery/2d-img (4).jpg"
+                                                    alt="cad conversion image" class="slide-img current">
+                                                <img src="/wp-content/themes/myTheme/src/assets/images/new-gallery/web-gallery/2d-img (1).jpg"
+                                                    alt="cad conversion image" class="slide-img ">
+
+                                            </div>
+                                            <img src="/wp-content/themes/myTheme/src/assets/images/new-gallery/web-gallery/web-gallery-arrow.png"
+                                                alt="arrow" class="web-gallery-arrow icon">
                                         </div>
-                                        <div class="web-gallery-2d-second-row">
-                                            <a
-                                                href="/wp-content/themes/myTheme/src/assets/images/new-gallery/web-gallery/2d-img (1)--desktop.png"><img
-                                                    src="/wp-content/themes/myTheme/src/assets/images/new-gallery/web-gallery/2d-img (1)--desktop.png"
-                                                    alt="Imagine Draughting Services"
-                                                    data-caption="Imagine Draughting Services" /></a>
-                                            <a
-                                                href="/wp-content/themes/myTheme/src/assets/images/new-gallery/web-gallery/2d-img (2)--desktop.png"><img
-                                                    src="/wp-content/themes/myTheme/src/assets/images/new-gallery/web-gallery/2d-img (2)--desktop.png"
-                                                    alt="Imagine Draughting Services"
-                                                    data-caption="Imagine Draughting Services" /></a>
+                                        <div class="cad-gallery-row">
+                                            <div class="web-gallery-cad-conversion gallery">
+                                                <img src="/wp-content/themes/myTheme/src/assets/images/new-gallery/web-gallery/2d-img (5).jpg"
+                                                    alt="cad conversion image" class="slide-img current">
+
+                                                <img src="/wp-content/themes/myTheme/src/assets/images/new-gallery/web-gallery/2d-img (6).jpg"
+                                                    alt="cad conversion image" class="slide-img">
+                                            </div>
+                                            <div class="web-gallery-cad-conversion gallery">
+                                                <img src="/wp-content/themes/myTheme/src/assets/images/new-gallery/web-gallery/2d-img (7).jpg"
+                                                    alt="cad conversion image" class="slide-img current">
+
+                                                <img src="/wp-content/themes/myTheme/src/assets/images/new-gallery/web-gallery/2d-img (8).jpg"
+                                                    alt="cad conversion image" class="slide-img">
+                                            </div>
+                                            <img src="/wp-content/themes/myTheme/src/assets/images/new-gallery/web-gallery/web-gallery-arrow.png"
+                                                alt="arrow" class="web-gallery-arrow icon">
                                         </div>
+
                                     </div>
                                 </div>
                             </div>
@@ -151,7 +164,7 @@
                                 <span>Imagine Draughting Services</span>
                             </button>
                         </h2>
-                        <div class="accordion-body">
+                        <div class="accordion-body accordion-body-3d-body">
                             <h3 class="accordion-service-heading">
                                 <span>3D CAD SERVICES</span>
                                 <div class="accordion-contact-bar">
@@ -236,23 +249,38 @@
                                         </div>
                                     </div>
                                     <div class="web-gallery-imgs-container gallery">
-                                        <a
-                                            href="/wp-content/themes/myTheme/src/assets/images/new-gallery/web-gallery/3d-img (1).jpg"><img
-                                                src="/wp-content/themes/myTheme/src/assets/images/new-gallery/web-gallery/3d-img (1).jpg"
-                                                alt="Imagine Draughting Services"
-                                                data-caption="Imagine Draughting Services" /></a>
-                                        <a
-                                            href="/wp-content/themes/myTheme/src/assets/images/new-gallery/web-gallery/3d-img (2).jpg"><img
-                                                src="/wp-content/themes/myTheme/src/assets/images/new-gallery/web-gallery/3d-img (2).jpg"
-                                                alt="" /></a>
-                                        <a
-                                            href="/wp-content/themes/myTheme/src/assets/images/new-gallery/web-gallery/3d-img (3).jpg"><img
-                                                src="/wp-content/themes/myTheme/src/assets/images/new-gallery/web-gallery/3d-img (3).jpg"
-                                                alt="" /></a>
-                                        <a
-                                            href="/wp-content/themes/myTheme/src/assets/images/new-gallery/web-gallery/3d-img (4).jpg"><img
-                                                src="/wp-content/themes/myTheme/src/assets/images/new-gallery/web-gallery/3d-img (4).jpg"
-                                                alt="" /></a>
+                                        <div class="cad-3d-services-gallery gallery">
+                                            <img src="/wp-content/themes/myTheme/src/assets/images/new-gallery/web-gallery/3d-img (1-1).jpg"
+                                                alt="3d image" class="slide-img current">
+                                            <img src="/wp-content/themes/myTheme/src/assets/images/new-gallery/web-gallery/3d-img (1-2).jpg"
+                                                alt="3d image" class="slide-img">
+                                            <img src="/wp-content/themes/myTheme/src/assets/images/new-gallery/web-gallery/3d-img (1).jpg"
+                                                alt="3d image" class="slide-img">
+                                            <img src="/wp-content/themes/myTheme/src/assets/images/new-gallery/web-gallery/3d-img (2).jpg"
+                                                alt="3d image" class="slide-img">
+                                        </div>
+                                        <div class="cad-3d-services-gallery gallery">
+                                            <img src="/wp-content/themes/myTheme/src/assets/images/new-gallery/web-gallery/3d-img (1-3).jpg"
+                                                alt="3d image" class="slide-img current">
+                                            <img src="/wp-content/themes/myTheme/src/assets/images/new-gallery/web-gallery/3d-img (1-4).jpg"
+                                                alt="3d image" class="slide-img">
+                                            <img src="/wp-content/themes/myTheme/src/assets/images/new-gallery/web-gallery/3d-img (3).jpg"
+                                                alt="3d image" class="slide-img">
+                                            <img src="/wp-content/themes/myTheme/src/assets/images/new-gallery/web-gallery/3d-img (4).jpg"
+                                                alt="3d image" class="slide-img">
+                                        </div>
+                                        <div class="cad-3d-services-gallery gallery">
+                                            <img src="/wp-content/themes/myTheme/src/assets/images/new-gallery/web-gallery/3d-img (2-1).jpg"
+                                                alt="3d image" class="slide-img current">
+                                            <img src="/wp-content/themes/myTheme/src/assets/images/new-gallery/web-gallery/3d-img (2-2).jpg"
+                                                alt="3d image" class="slide-img">
+                                        </div>
+                                        <div class="cad-3d-services-gallery gallery">
+                                            <img src="/wp-content/themes/myTheme/src/assets/images/new-gallery/web-gallery/3d-img (2-3).jpg"
+                                                alt="3d image" class="slide-img current">
+                                            <img src="/wp-content/themes/myTheme/src/assets/images/new-gallery/web-gallery/3d-img (2-4).jpg"
+                                                alt="3d image" class="slide-img">
+                                        </div>
                                     </div>
                                 </div>
                             </div>
@@ -346,16 +374,33 @@
                                                 alt="technology" />
                                         </div>
                                     </div>
-                                    <div class="web-gallery-imgs-container gallery">
-                                        <a
-                                            href="/wp-content/themes/myTheme/src/assets/images/new-gallery/web-gallery/cad-converions-img (1).jpg"><img
-                                                src="/wp-content/themes/myTheme/src/assets/images/new-gallery/web-gallery/cad-converions-img (1).jpg"
-                                                alt="Imagine Draughting Services"
-                                                data-caption="Imagine Draughting Services" /></a>
-                                        <a
-                                            href="/wp-content/themes/myTheme/src/assets/images/new-gallery/web-gallery/cad-converions-img (2).jpg"><img
-                                                src="/wp-content/themes/myTheme/src/assets/images/new-gallery/web-gallery/cad-converions-img (2).jpg"
-                                                alt="Imagine Draughting Services" /></a>
+                                    <div class="web-gallery-imgs-container gallery cad-gallery">
+                                        <div class="web-gallery-special-box">
+                                            <img src="/wp-content/themes/myTheme/src/assets/images/new-gallery/web-gallery/cad-converions-img (1).png"
+                                                alt="cad conversion image">
+                                            <img src="/wp-content/themes/myTheme/src/assets/images/new-gallery/web-gallery/web-gallery-arrow.png"
+                                                alt="arrow" class="web-gallery-arrow">
+                                        </div>
+                                        <div class="web-gallery-special-box">
+                                            <img src="/wp-content/themes/myTheme/src/assets/images/new-gallery/web-gallery/cad-converions-img (2).png"
+                                                alt="cad conversion image">
+                                            <img src="/wp-content/themes/myTheme/src/assets/images/new-gallery/web-gallery/web-gallery-arrow.png"
+                                                alt="arrow" class="web-gallery-arrow">
+                                        </div>
+                                        <div class="web-gallery-cad-conversion gallery">
+                                            <img src="/wp-content/themes/myTheme/src/assets/images/new-gallery/web-gallery/cad-converions-img (1-gallery).png"
+                                                alt="cad conversion image" class="slide-img current">
+
+                                            <img src="/wp-content/themes/myTheme/src/assets/images/new-gallery/web-gallery/cad-converions-img (1-gallery-2).png"
+                                                alt="cad conversion image" class="slide-img">
+                                        </div>
+                                        <div class="web-gallery-cad-conversion gallery">
+                                            <img src="/wp-content/themes/myTheme/src/assets/images/new-gallery/web-gallery/cad-converions-img (1-gallery-3).png"
+                                                alt="cad conversion image" class="slide-img current">
+
+                                            <img src="/wp-content/themes/myTheme/src/assets/images/new-gallery/web-gallery/cad-converions-img (1-gallery-4).png"
+                                                alt="cad conversion image" class="slide-img">
+                                        </div>
                                     </div>
                                 </div>
                             </div>
@@ -451,24 +496,35 @@
                                                 alt="technology" />
                                         </div>
                                     </div>
-                                    <div class="web-gallery-imgs-container gallery">
-                                        <a
-                                            href="/wp-content/themes/myTheme/src/assets/images/new-gallery/web-gallery/render-img (1).jpg"><img
-                                                src="/wp-content/themes/myTheme/src/assets/images/new-gallery/web-gallery/render-img (1).jpg"
-                                                alt="Imagine Draughting Services"
-                                                data-caption="Imagine Draughting Services" /></a>
-                                        <a
-                                            href="/wp-content/themes/myTheme/src/assets/images/new-gallery/web-gallery/render-img (2).jpg"><img
-                                                src="/wp-content/themes/myTheme/src/assets/images/new-gallery/web-gallery/render-img (2).jpg"
-                                                alt="" /></a>
-                                        <a
-                                            href="/wp-content/themes/myTheme/src/assets/images/new-gallery/web-gallery/render-img (3).jpg"><img
-                                                src="/wp-content/themes/myTheme/src/assets/images/new-gallery/web-gallery/render-img (3).jpg"
-                                                alt="" /></a>
-                                        <a
-                                            href="/wp-content/themes/myTheme/src/assets/images/new-gallery/web-gallery/render-img (4).jpg"><img
-                                                src="/wp-content/themes/myTheme/src/assets/images/new-gallery/web-gallery/render-img (4).jpg"
-                                                alt="" /></a>
+                                    <div class="web-gallery-imgs-container gallery cad-gallery">
+                                        <div class="web-gallery-cad-conversion gallery">
+                                            <img src="/wp-content/themes/myTheme/src/assets/images/new-gallery/web-gallery/render-img (1).jpg"
+                                                alt="cad conversion image" class="slide-img current">
+
+                                            <img src="/wp-content/themes/myTheme/src/assets/images/new-gallery/web-gallery/render-img (2).jpg"
+                                                alt="cad conversion image" class="slide-img">
+                                        </div>
+                                        <div class="web-gallery-cad-conversion gallery">
+                                            <img src="/wp-content/themes/myTheme/src/assets/images/new-gallery/web-gallery/render-img (3).jpg"
+                                                alt="cad conversion image" class="slide-img current">
+
+                                            <img src="/wp-content/themes/myTheme/src/assets/images/new-gallery/web-gallery/render-img (4).jpg"
+                                                alt="cad conversion image" class="slide-img">
+                                        </div>
+                                        <div class="web-gallery-cad-conversion gallery">
+                                            <img src="/wp-content/themes/myTheme/src/assets/images/new-gallery/web-gallery/render-img (5).jpg"
+                                                alt="cad conversion image" class="slide-img current">
+
+                                            <img src="/wp-content/themes/myTheme/src/assets/images/new-gallery/web-gallery/render-img (6).jpg"
+                                                alt="cad conversion image" class="slide-img">
+                                        </div>
+                                        <div class="web-gallery-cad-conversion gallery">
+                                            <img src="/wp-content/themes/myTheme/src/assets/images/new-gallery/web-gallery/render-img (7).jpg"
+                                                alt="cad conversion image" class="slide-img current">
+
+                                            <img src="/wp-content/themes/myTheme/src/assets/images/new-gallery/web-gallery/render-img (8).jpg"
+                                                alt="cad conversion image" class="slide-img">
+                                        </div>
                                     </div>
                                 </div>
                             </div>
@@ -565,16 +621,33 @@
                                                 alt="technology" />
                                         </div>
                                     </div>
-                                    <div class="web-gallery-imgs-container gallery">
-                                        <a
-                                            href="/wp-content/themes/myTheme/src/assets/images/new-gallery/web-gallery/reverse-img (1).jpg"><img
-                                                src="/wp-content/themes/myTheme/src/assets/images/new-gallery/web-gallery/reverse-img (1).jpg"
-                                                alt="Imagine Draughting Services"
-                                                data-caption="Imagine Draughting Services" /></a>
-                                        <a
-                                            href="/wp-content/themes/myTheme/src/assets/images/new-gallery/web-gallery/reverse-img (2).jpg"><img
-                                                src="/wp-content/themes/myTheme/src/assets/images/new-gallery/web-gallery/reverse-img (2).jpg"
-                                                alt="Imagine Draughting Services" /></a>
+                                    <div class="web-gallery-imgs-container gallery cad-gallery">
+                                        <div class="web-gallery-special-box">
+                                            <img src="/wp-content/themes/myTheme/src/assets/images/new-gallery/web-gallery/reverse-img (1).jpg"
+                                                alt="cad conversion image">
+                                            <img src="/wp-content/themes/myTheme/src/assets/images/new-gallery/web-gallery/web-gallery-arrow.png"
+                                                alt="arrow" class="web-gallery-arrow">
+                                        </div>
+                                        <div class="web-gallery-special-box">
+                                            <img src="/wp-content/themes/myTheme/src/assets/images/new-gallery/web-gallery/reverse-img (1)b.jpg"
+                                                alt="cad conversion image">
+                                            <img src="/wp-content/themes/myTheme/src/assets/images/new-gallery/web-gallery/web-gallery-arrow.png"
+                                                alt="arrow" class="web-gallery-arrow">
+                                        </div>
+                                        <div class="web-gallery-cad-conversion gallery">
+                                            <img src="/wp-content/themes/myTheme/src/assets/images/new-gallery/web-gallery/reverse-img (2).jpg"
+                                                alt="cad conversion image" class="slide-img current">
+
+                                            <img src="/wp-content/themes/myTheme/src/assets/images/new-gallery/web-gallery/reverse-img (3).jpg"
+                                                alt="cad conversion image" class="slide-img">
+                                        </div>
+                                        <div class="web-gallery-cad-conversion gallery">
+                                            <img src="/wp-content/themes/myTheme/src/assets/images/new-gallery/web-gallery/reverse-img (4).jpg"
+                                                alt="cad conversion image" class="slide-img current">
+
+                                            <img src="/wp-content/themes/myTheme/src/assets/images/new-gallery/web-gallery/reverse-img (5).jpg"
+                                                alt="cad conversion image" class="slide-img">
+                                        </div>
                                     </div>
                                 </div>
                             </div>
@@ -674,15 +747,43 @@
                                                 alt="technology" />
                                         </div>
                                     </div>
-                                    <div class="web-gallery-imgs-container gallery">
-                                        <a
-                                            href="/wp-content/themes/myTheme/src/assets/images/new-gallery/web-gallery/reverse-img (3).jpg"><img
-                                                src="/wp-content/themes/myTheme/src/assets/images/new-gallery/web-gallery/reverse-img (3).jpg"
-                                                alt="Imagine Draughting Services" /></a>
-                                        <a
-                                            href="/wp-content/themes/myTheme/src/assets/images/new-gallery/web-gallery/reverse-img (4).jpg"><img
-                                                src="/wp-content/themes/myTheme/src/assets/images/new-gallery/web-gallery/reverse-img (4).jpg"
-                                                alt="Imagine Draughting Services" /></a>
+                                    <div
+                                        class="web-gallery-imgs-container gallery cad-gallery reverse-buildings-container">
+                                        <div class="cad-gallery-row">
+                                            <div class="cad-first-col">
+                                                <div class="web-gallery-cad-conversion gallery reverse-building-1">
+                                                    <img src="/wp-content/themes/myTheme/src/assets/images/new-gallery/web-gallery/reverse-img (6).jpg"
+                                                        alt="cad conversion image" class="slide-img">
+                                                    <img src="/wp-content/themes/myTheme/src/assets/images/new-gallery/web-gallery/reverse-img (15).jpg"
+                                                        alt="cad conversion image" class="slide-img current">
+                                                </div>
+                                                <div class="web-gallery-cad-conversion gallery reverse-building-2">
+                                                    <img src="/wp-content/themes/myTheme/src/assets/images/new-gallery/web-gallery/reverse-img (9).jpg"
+                                                        alt="cad conversion image" class="slide-img reverse-building-5">
+                                                    <img src="/wp-content/themes/myTheme/src/assets/images/new-gallery/web-gallery/reverse-img (13).jpg"
+                                                        alt="cad conversion image" class="slide-img current ">
+                                                </div>
+                                                <img src="/wp-content/themes/myTheme/src/assets/images/new-gallery/web-gallery/web-gallery-arrow.png"
+                                                    alt="arrow" class="web-gallery-arrow icon">
+                                            </div>
+                                            <div class="cad-second-col">
+                                                <div class="web-gallery-cad-conversion gallery reverse-building-3">
+                                                    <img src="/wp-content/themes/myTheme/src/assets/images/new-gallery/web-gallery/reverse-img (7).jpg"
+                                                        alt="cad conversion image" class="slide-img ">
+                                                    <img src="/wp-content/themes/myTheme/src/assets/images/new-gallery/web-gallery/reverse-img (14).jpg"
+                                                        alt="cad conversion image" class="slide-img current ">
+                                                </div>
+                                                <div class="web-gallery-cad-conversion gallery reverse-building-4">
+                                                    <img src="/wp-content/themes/myTheme/src/assets/images/new-gallery/web-gallery/reverse-img (8).jpg"
+                                                        alt="cad conversion image" class="slide-img">
+                                                    <img src="/wp-content/themes/myTheme/src/assets/images/new-gallery/web-gallery/reverse-img (12).jpg"
+                                                        alt="cad conversion image" class="slide-img current">
+                                                </div>
+                                                <img src="/wp-content/themes/myTheme/src/assets/images/new-gallery/web-gallery/web-gallery-arrow.png"
+                                                    alt="arrow" class="web-gallery-arrow icon">
+
+                                            </div>
+                                        </div>
                                     </div>
                                 </div>
                             </div>
@@ -777,17 +878,33 @@
                                                 alt="technology" />
                                         </div>
                                     </div>
-                                    <div class="web-gallery-imgs-container gallery">
-                                        <a
-                                            href="/wp-content/themes/myTheme/src/assets/images/new-gallery/web-gallery/3d-video-img (1).jpg"><img
-                                                src="/wp-content/themes/myTheme/src/assets/images/new-gallery/web-gallery/3d-video-img (1).jpg"
-                                                alt="Imagine Draughting Services"
-                                                data-caption="Imagine Draughting Services" /></a>
-                                        <a
-                                            href="/wp-content/themes/myTheme/src/assets/images/new-gallery/web-gallery/3d-video-img (2).jpg"><img
-                                                src="/wp-content/themes/myTheme/src/assets/images/new-gallery/web-gallery/3d-video-img (2).jpg"
-                                                alt="Imagine Draughting Services"
-                                                data-caption="Imagine Draughting Services" /></a>
+                                    <div class="web-gallery-imgs-container gallery cad-gallery">
+                                        <div class="web-gallery-special-box">
+                                            <img src="/wp-content/themes/myTheme/src/assets/images/new-gallery/web-gallery/3d-video-img (1).jpg"
+                                                alt="cad conversion image">
+                                            <img src="/wp-content/themes/myTheme/src/assets/images/new-gallery/web-gallery/web-gallery-arrow.png"
+                                                alt="arrow" class="web-gallery-arrow">
+                                        </div>
+                                        <div class="web-gallery-special-box">
+                                            <img src="/wp-content/themes/myTheme/src/assets/images/new-gallery/web-gallery/3d-video-img (2).jpg"
+                                                alt="cad conversion image">
+                                            <img src="/wp-content/themes/myTheme/src/assets/images/new-gallery/web-gallery/web-gallery-arrow.png"
+                                                alt="arrow" class="web-gallery-arrow">
+                                        </div>
+                                        <div class="web-gallery-cad-conversion gallery">
+                                            <img src="/wp-content/themes/myTheme/src/assets/images/new-gallery/web-gallery/3d-video-img (3).jpg"
+                                                alt="cad conversion image" class="slide-img current">
+
+                                            <img src="/wp-content/themes/myTheme/src/assets/images/new-gallery/web-gallery/3d-video-img (4).jpg"
+                                                alt="cad conversion image" class="slide-img">
+                                        </div>
+                                        <div class="web-gallery-cad-conversion gallery">
+                                            <img src="/wp-content/themes/myTheme/src/assets/images/new-gallery/web-gallery/3d-video-img (5).jpg"
+                                                alt="cad conversion image" class="slide-img current">
+
+                                            <img src="/wp-content/themes/myTheme/src/assets/images/new-gallery/web-gallery/3d-video-img (6).jpg"
+                                                alt="cad conversion image" class="slide-img">
+                                        </div>
                                     </div>
                                 </div>
                             </div>
@@ -878,27 +995,35 @@
                                     </div>
                                 </div>
                                 <div class="accordion-content">
-                                    <div class="web-gallery-imgs-container gallery">
-                                        <a
-                                            href="/wp-content/themes/myTheme/src/assets/images/new-gallery/web-gallery/prototype-img (1).jpg"><img
-                                                src="/wp-content/themes/myTheme/src/assets/images/new-gallery/web-gallery/prototype-img (1).jpg"
-                                                alt="Imagine Draughting Services"
-                                                data-caption="Imagine Draughting Services" /></a>
-                                        <a
-                                            href="/wp-content/themes/myTheme/src/assets/images/new-gallery/web-gallery/prototype-img (2).jpg"><img
-                                                src="/wp-content/themes/myTheme/src/assets/images/new-gallery/web-gallery/prototype-img (2).jpg"
-                                                alt="Imagine Draughting Services"
-                                                data-caption="Imagine Draughting Services" /></a>
-                                        <a
-                                            href="/wp-content/themes/myTheme/src/assets/images/new-gallery/web-gallery/prototype-img (3).jpg"><img
-                                                src="/wp-content/themes/myTheme/src/assets/images/new-gallery/web-gallery/prototype-img (3).jpg"
-                                                alt="Imagine Draughting Services"
-                                                data-caption="Imagine Draughting Services" /></a>
-                                        <a
-                                            href="/wp-content/themes/myTheme/src/assets/images/new-gallery/web-gallery/prototype-img (4).jpg"><img
-                                                src="/wp-content/themes/myTheme/src/assets/images/new-gallery/web-gallery/prototype-img (4).jpg"
-                                                alt="Imagine Draughting Services"
-                                                data-caption="Imagine Draughting Services" /></a>
+                                    <div class="web-gallery-imgs-container gallery cad-gallery">
+                                        <div class="web-gallery-cad-conversion gallery">
+                                            <img src="/wp-content/themes/myTheme/src/assets/images/new-gallery/web-gallery/prototype-img (1).jpg"
+                                                alt="cad conversion image" class="slide-img current">
+
+                                            <img src="/wp-content/themes/myTheme/src/assets/images/new-gallery/web-gallery/prototype-img (2).jpg"
+                                                alt="cad conversion image" class="slide-img">
+                                        </div>
+                                        <div class="web-gallery-cad-conversion gallery">
+                                            <img src="/wp-content/themes/myTheme/src/assets/images/new-gallery/web-gallery/prototype-img (3).jpg"
+                                                alt="cad conversion image" class="slide-img current">
+
+                                            <img src="/wp-content/themes/myTheme/src/assets/images/new-gallery/web-gallery/prototype-img (4).jpg"
+                                                alt="cad conversion image" class="slide-img">
+                                        </div>
+                                        <div class="web-gallery-cad-conversion gallery">
+                                            <img src="/wp-content/themes/myTheme/src/assets/images/new-gallery/web-gallery/prototype-img (5).jpg"
+                                                alt="cad conversion image" class="slide-img current">
+
+                                            <img src="/wp-content/themes/myTheme/src/assets/images/new-gallery/web-gallery/prototype-img (6).jpg"
+                                                alt="cad conversion image" class="slide-img">
+                                        </div>
+                                        <div class="web-gallery-cad-conversion gallery">
+                                            <img src="/wp-content/themes/myTheme/src/assets/images/new-gallery/web-gallery/prototype-img (7).jpg"
+                                                alt="cad conversion image" class="slide-img current">
+
+                                            <img src="/wp-content/themes/myTheme/src/assets/images/new-gallery/web-gallery/prototype-img (8).jpg"
+                                                alt="cad conversion image" class="slide-img">
+                                        </div>
                                     </div>
                                 </div>
                             </div>

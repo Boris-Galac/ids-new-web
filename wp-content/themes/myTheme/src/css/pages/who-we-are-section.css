@@ -45,6 +45,7 @@
   min-height: 100%;
   background: linear-gradient(150deg, #295293, #4d91ff);
   isolation: isolate;
+  padding-block: 6rem;
 }
 .about-us-section::before {
   content: "";

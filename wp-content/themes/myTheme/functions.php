@@ -131,3 +131,29 @@ add_filter('the_content', function ($content) {
         $content
     );
 });
+
+
+// SEO automazizacija
+
+add_action('add_attachment', 'ids_auto_image_alt');
+
+function ids_auto_image_alt($attachment_id)
+{
+    if (wp_attachment_is_image($attachment_id)) {
+
+        // Uzmi ime fajla bez ekstenzije
+        $filename = pathinfo(
+            get_attached_file($attachment_id),
+            PATHINFO_FILENAME
+        );
+
+        // Pretvori u čitljiv tekst
+        $alt = str_replace(['-', '_'], ' ', $filename);
+        $alt = ucwords($alt);
+
+        // Ako ALT ne postoji – dodaj
+        if (!get_post_meta($attachment_id, '_wp_attachment_image_alt', true)) {
+            update_post_meta($attachment_id, '_wp_attachment_image_alt', $alt);
+        }
+    }
+}
